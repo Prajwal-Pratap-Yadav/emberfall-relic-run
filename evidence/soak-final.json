@@ -1,0 +1,9040 @@
+{
+  "summary": {
+    "matches": 1000,
+    "combatants": 64,
+    "modeCounts": {
+      "solo": 334,
+      "duo": 333,
+      "squad": 333
+    },
+    "timeStep": 0.25,
+    "fullZoneSchedule": true,
+    "failures": 0,
+    "winnerEveryTime": true,
+    "wallMs": 235452,
+    "durationSeconds": {
+      "min": 106.75,
+      "median": 237.75,
+      "p95": 398.25,
+      "max": 533.25,
+      "mean": 249.59375
+    },
+    "maxSampledStateBytes": 109455,
+    "heapBaseBytes": 11693400,
+    "heapAfterGC": 12641536,
+    "heapCheckpoints": [
+      12144760,
+      12202592,
+      12148208,
+      12289216,
+      12300272,
+      12243640,
+      12363272,
+      12360688,
+      12305752,
+      12443824
+    ]
+  },
+  "rows": [
+    {
+      "seed": 70000,
+      "mode": 1,
+      "seconds": 341.75,
+      "winner": 30,
+      "ticks": 1367,
+      "ms": 471.74,
+      "peakBytes": 87175
+    },
+    {
+      "seed": 70001,
+      "mode": 2,
+      "seconds": 412.5,
+      "winner": 16,
+      "ticks": 1650,
+      "ms": 503.7,
+      "peakBytes": 86249
+    },
+    {
+      "seed": 70002,
+      "mode": 4,
+      "seconds": 375.75,
+      "winner": 10,
+      "ticks": 1503,
+      "ms": 404.86,
+      "peakBytes": 85241
+    },
+    {
+      "seed": 70003,
+      "mode": 1,
+      "seconds": 458.75,
+      "winner": 61,
+      "ticks": 1835,
+      "ms": 368.36,
+      "peakBytes": 88505
+    },
+    {
+      "seed": 70004,
+      "mode": 2,
+      "seconds": 433,
+      "winner": 30,
+      "ticks": 1732,
+      "ms": 446.43,
+      "peakBytes": 88352
+    },
+    {
+      "seed": 70005,
+      "mode": 4,
+      "seconds": 312.5,
+      "winner": 5,
+      "ticks": 1250,
+      "ms": 410.32,
+      "peakBytes": 87249
+    },
+    {
+      "seed": 70006,
+      "mode": 1,
+      "seconds": 456.75,
+      "winner": 5,
+      "ticks": 1827,
+      "ms": 386.53,
+      "peakBytes": 85073
+    },
+    {
+      "seed": 70007,
+      "mode": 2,
+      "seconds": 388.25,
+      "winner": 31,
+      "ticks": 1553,
+      "ms": 384.83,
+      "peakBytes": 87938
+    },
+    {
+      "seed": 70008,
+      "mode": 4,
+      "seconds": 392.75,
+      "winner": 12,
+      "ticks": 1571,
+      "ms": 411.62,
+      "peakBytes": 87883
+    },
+    {
+      "seed": 70009,
+      "mode": 1,
+      "seconds": 322,
+      "winner": 17,
+      "ticks": 1288,
+      "ms": 356.59,
+      "peakBytes": 86743
+    },
+    {
+      "seed": 70010,
+      "mode": 2,
+      "seconds": 400.25,
+      "winner": 1,
+      "ticks": 1601,
+      "ms": 447.12,
+      "peakBytes": 91708
+    },
+    {
+      "seed": 70011,
+      "mode": 4,
+      "seconds": 304,
+      "winner": 10,
+      "ticks": 1216,
+      "ms": 341.82,
+      "peakBytes": 89739
+    },
+    {
+      "seed": 70012,
+      "mode": 1,
+      "seconds": 251,
+      "winner": 24,
+      "ticks": 1004,
+      "ms": 289.16,
+      "peakBytes": 91775
+    },
+    {
+      "seed": 70013,
+      "mode": 2,
+      "seconds": 468.75,
+      "winner": 4,
+      "ticks": 1875,
+      "ms": 356.44,
+      "peakBytes": 95562
+    },
+    {
+      "seed": 70014,
+      "mode": 4,
+      "seconds": 409.75,
+      "winner": 4,
+      "ticks": 1639,
+      "ms": 400.69,
+      "peakBytes": 91476
+    },
+    {
+      "seed": 70015,
+      "mode": 1,
+      "seconds": 266.75,
+      "winner": 0,
+      "ticks": 1067,
+      "ms": 302.36,
+      "peakBytes": 92501
+    },
+    {
+      "seed": 70016,
+      "mode": 2,
+      "seconds": 347,
+      "winner": 28,
+      "ticks": 1388,
+      "ms": 322.47,
+      "peakBytes": 86819
+    },
+    {
+      "seed": 70017,
+      "mode": 4,
+      "seconds": 378,
+      "winner": 7,
+      "ticks": 1512,
+      "ms": 384.36,
+      "peakBytes": 88424
+    },
+    {
+      "seed": 70018,
+      "mode": 1,
+      "seconds": 326.25,
+      "winner": 39,
+      "ticks": 1305,
+      "ms": 335.91,
+      "peakBytes": 89689
+    },
+    {
+      "seed": 70019,
+      "mode": 2,
+      "seconds": 378,
+      "winner": 3,
+      "ticks": 1512,
+      "ms": 368.52,
+      "peakBytes": 87245
+    },
+    {
+      "seed": 70020,
+      "mode": 4,
+      "seconds": 461.5,
+      "winner": 0,
+      "ticks": 1846,
+      "ms": 385.29,
+      "peakBytes": 86255
+    },
+    {
+      "seed": 70021,
+      "mode": 1,
+      "seconds": 309,
+      "winner": 38,
+      "ticks": 1236,
+      "ms": 320.99,
+      "peakBytes": 89037
+    },
+    {
+      "seed": 70022,
+      "mode": 2,
+      "seconds": 276.75,
+      "winner": 27,
+      "ticks": 1107,
+      "ms": 373.21,
+      "peakBytes": 88051
+    },
+    {
+      "seed": 70023,
+      "mode": 4,
+      "seconds": 335.75,
+      "winner": 2,
+      "ticks": 1343,
+      "ms": 441.2,
+      "peakBytes": 88492
+    },
+    {
+      "seed": 70024,
+      "mode": 1,
+      "seconds": 315,
+      "winner": 11,
+      "ticks": 1260,
+      "ms": 343.51,
+      "peakBytes": 90248
+    },
+    {
+      "seed": 70025,
+      "mode": 2,
+      "seconds": 523.75,
+      "winner": 22,
+      "ticks": 2095,
+      "ms": 422.18,
+      "peakBytes": 88205
+    },
+    {
+      "seed": 70026,
+      "mode": 4,
+      "seconds": 273.25,
+      "winner": 2,
+      "ticks": 1093,
+      "ms": 380.47,
+      "peakBytes": 86630
+    },
+    {
+      "seed": 70027,
+      "mode": 1,
+      "seconds": 281.5,
+      "winner": 14,
+      "ticks": 1126,
+      "ms": 324.8,
+      "peakBytes": 87275
+    },
+    {
+      "seed": 70028,
+      "mode": 2,
+      "seconds": 459.25,
+      "winner": 26,
+      "ticks": 1837,
+      "ms": 384.02,
+      "peakBytes": 89415
+    },
+    {
+      "seed": 70029,
+      "mode": 4,
+      "seconds": 514.25,
+      "winner": 15,
+      "ticks": 2057,
+      "ms": 415.34,
+      "peakBytes": 86468
+    },
+    {
+      "seed": 70030,
+      "mode": 1,
+      "seconds": 374,
+      "winner": 14,
+      "ticks": 1496,
+      "ms": 338.37,
+      "peakBytes": 85239
+    },
+    {
+      "seed": 70031,
+      "mode": 2,
+      "seconds": 361.25,
+      "winner": 15,
+      "ticks": 1445,
+      "ms": 420.29,
+      "peakBytes": 85295
+    },
+    {
+      "seed": 70032,
+      "mode": 4,
+      "seconds": 272.75,
+      "winner": 1,
+      "ticks": 1091,
+      "ms": 418.21,
+      "peakBytes": 90249
+    },
+    {
+      "seed": 70033,
+      "mode": 1,
+      "seconds": 345,
+      "winner": 31,
+      "ticks": 1380,
+      "ms": 335.69,
+      "peakBytes": 92275
+    },
+    {
+      "seed": 70034,
+      "mode": 2,
+      "seconds": 277.5,
+      "winner": 18,
+      "ticks": 1110,
+      "ms": 344.01,
+      "peakBytes": 92116
+    },
+    {
+      "seed": 70035,
+      "mode": 4,
+      "seconds": 290,
+      "winner": 6,
+      "ticks": 1160,
+      "ms": 343.03,
+      "peakBytes": 89433
+    },
+    {
+      "seed": 70036,
+      "mode": 1,
+      "seconds": 269.5,
+      "winner": 42,
+      "ticks": 1078,
+      "ms": 297.06,
+      "peakBytes": 93285
+    },
+    {
+      "seed": 70037,
+      "mode": 2,
+      "seconds": 350,
+      "winner": 25,
+      "ticks": 1400,
+      "ms": 358.68,
+      "peakBytes": 96419
+    },
+    {
+      "seed": 70038,
+      "mode": 4,
+      "seconds": 395.75,
+      "winner": 4,
+      "ticks": 1583,
+      "ms": 392.9,
+      "peakBytes": 89032
+    },
+    {
+      "seed": 70039,
+      "mode": 1,
+      "seconds": 338.5,
+      "winner": 21,
+      "ticks": 1354,
+      "ms": 357.25,
+      "peakBytes": 92852
+    },
+    {
+      "seed": 70040,
+      "mode": 2,
+      "seconds": 413.25,
+      "winner": 29,
+      "ticks": 1653,
+      "ms": 421.9,
+      "peakBytes": 90539
+    },
+    {
+      "seed": 70041,
+      "mode": 4,
+      "seconds": 397.75,
+      "winner": 0,
+      "ticks": 1591,
+      "ms": 505.31,
+      "peakBytes": 95429
+    },
+    {
+      "seed": 70042,
+      "mode": 1,
+      "seconds": 286.75,
+      "winner": 45,
+      "ticks": 1147,
+      "ms": 344.67,
+      "peakBytes": 94510
+    },
+    {
+      "seed": 70043,
+      "mode": 2,
+      "seconds": 366.5,
+      "winner": 15,
+      "ticks": 1466,
+      "ms": 348.32,
+      "peakBytes": 95434
+    },
+    {
+      "seed": 70044,
+      "mode": 4,
+      "seconds": 338.25,
+      "winner": 5,
+      "ticks": 1353,
+      "ms": 411.64,
+      "peakBytes": 95036
+    },
+    {
+      "seed": 70045,
+      "mode": 1,
+      "seconds": 266.25,
+      "winner": 45,
+      "ticks": 1065,
+      "ms": 281.92,
+      "peakBytes": 88668
+    },
+    {
+      "seed": 70046,
+      "mode": 2,
+      "seconds": 476.25,
+      "winner": 15,
+      "ticks": 1905,
+      "ms": 363.85,
+      "peakBytes": 90239
+    },
+    {
+      "seed": 70047,
+      "mode": 4,
+      "seconds": 338,
+      "winner": 13,
+      "ticks": 1352,
+      "ms": 348.37,
+      "peakBytes": 91703
+    },
+    {
+      "seed": 70048,
+      "mode": 1,
+      "seconds": 291.75,
+      "winner": 9,
+      "ticks": 1167,
+      "ms": 302.04,
+      "peakBytes": 91710
+    },
+    {
+      "seed": 70049,
+      "mode": 2,
+      "seconds": 389,
+      "winner": 21,
+      "ticks": 1556,
+      "ms": 392,
+      "peakBytes": 87411
+    },
+    {
+      "seed": 70050,
+      "mode": 4,
+      "seconds": 523.75,
+      "winner": 6,
+      "ticks": 2095,
+      "ms": 399.32,
+      "peakBytes": 90593
+    },
+    {
+      "seed": 70051,
+      "mode": 1,
+      "seconds": 347.5,
+      "winner": 47,
+      "ticks": 1390,
+      "ms": 329.53,
+      "peakBytes": 88848
+    },
+    {
+      "seed": 70052,
+      "mode": 2,
+      "seconds": 416.25,
+      "winner": 5,
+      "ticks": 1665,
+      "ms": 338.67,
+      "peakBytes": 92237
+    },
+    {
+      "seed": 70053,
+      "mode": 4,
+      "seconds": 428.75,
+      "winner": 10,
+      "ticks": 1715,
+      "ms": 426.4,
+      "peakBytes": 94481
+    },
+    {
+      "seed": 70054,
+      "mode": 1,
+      "seconds": 475,
+      "winner": 31,
+      "ticks": 1900,
+      "ms": 373.51,
+      "peakBytes": 90332
+    },
+    {
+      "seed": 70055,
+      "mode": 2,
+      "seconds": 347.5,
+      "winner": 23,
+      "ticks": 1390,
+      "ms": 364.93,
+      "peakBytes": 93916
+    },
+    {
+      "seed": 70056,
+      "mode": 4,
+      "seconds": 377.75,
+      "winner": 8,
+      "ticks": 1511,
+      "ms": 353.75,
+      "peakBytes": 90989
+    },
+    {
+      "seed": 70057,
+      "mode": 1,
+      "seconds": 280,
+      "winner": 5,
+      "ticks": 1120,
+      "ms": 277.07,
+      "peakBytes": 97293
+    },
+    {
+      "seed": 70058,
+      "mode": 2,
+      "seconds": 531.5,
+      "winner": 31,
+      "ticks": 2126,
+      "ms": 376.25,
+      "peakBytes": 93329
+    },
+    {
+      "seed": 70059,
+      "mode": 4,
+      "seconds": 369,
+      "winner": 13,
+      "ticks": 1476,
+      "ms": 345.61,
+      "peakBytes": 94375
+    },
+    {
+      "seed": 70060,
+      "mode": 1,
+      "seconds": 412.75,
+      "winner": 63,
+      "ticks": 1651,
+      "ms": 324.45,
+      "peakBytes": 94158
+    },
+    {
+      "seed": 70061,
+      "mode": 2,
+      "seconds": 308.75,
+      "winner": 5,
+      "ticks": 1235,
+      "ms": 343.75,
+      "peakBytes": 95981
+    },
+    {
+      "seed": 70062,
+      "mode": 4,
+      "seconds": 348,
+      "winner": 10,
+      "ticks": 1392,
+      "ms": 331.94,
+      "peakBytes": 94417
+    },
+    {
+      "seed": 70063,
+      "mode": 1,
+      "seconds": 335.25,
+      "winner": 29,
+      "ticks": 1341,
+      "ms": 316.67,
+      "peakBytes": 93558
+    },
+    {
+      "seed": 70064,
+      "mode": 2,
+      "seconds": 264,
+      "winner": 5,
+      "ticks": 1056,
+      "ms": 327.47,
+      "peakBytes": 93729
+    },
+    {
+      "seed": 70065,
+      "mode": 4,
+      "seconds": 335.25,
+      "winner": 11,
+      "ticks": 1341,
+      "ms": 393.08,
+      "peakBytes": 96003
+    },
+    {
+      "seed": 70066,
+      "mode": 1,
+      "seconds": 233.5,
+      "winner": 25,
+      "ticks": 934,
+      "ms": 259.85,
+      "peakBytes": 96149
+    },
+    {
+      "seed": 70067,
+      "mode": 2,
+      "seconds": 308.5,
+      "winner": 6,
+      "ticks": 1234,
+      "ms": 296.61,
+      "peakBytes": 94501
+    },
+    {
+      "seed": 70068,
+      "mode": 4,
+      "seconds": 521.75,
+      "winner": 1,
+      "ticks": 2087,
+      "ms": 364.44,
+      "peakBytes": 94156
+    },
+    {
+      "seed": 70069,
+      "mode": 1,
+      "seconds": 263.5,
+      "winner": 39,
+      "ticks": 1054,
+      "ms": 310.44,
+      "peakBytes": 93389
+    },
+    {
+      "seed": 70070,
+      "mode": 2,
+      "seconds": 225.25,
+      "winner": 21,
+      "ticks": 901,
+      "ms": 299.38,
+      "peakBytes": 93738
+    },
+    {
+      "seed": 70071,
+      "mode": 4,
+      "seconds": 431,
+      "winner": 3,
+      "ticks": 1724,
+      "ms": 369.13,
+      "peakBytes": 90886
+    },
+    {
+      "seed": 70072,
+      "mode": 1,
+      "seconds": 311,
+      "winner": 28,
+      "ticks": 1244,
+      "ms": 312.99,
+      "peakBytes": 94915
+    },
+    {
+      "seed": 70073,
+      "mode": 2,
+      "seconds": 298.5,
+      "winner": 4,
+      "ticks": 1194,
+      "ms": 301.13,
+      "peakBytes": 98273
+    },
+    {
+      "seed": 70074,
+      "mode": 4,
+      "seconds": 273.25,
+      "winner": 8,
+      "ticks": 1093,
+      "ms": 396.56,
+      "peakBytes": 95127
+    },
+    {
+      "seed": 70075,
+      "mode": 1,
+      "seconds": 234.75,
+      "winner": 54,
+      "ticks": 939,
+      "ms": 241.61,
+      "peakBytes": 91791
+    },
+    {
+      "seed": 70076,
+      "mode": 2,
+      "seconds": 303.5,
+      "winner": 12,
+      "ticks": 1214,
+      "ms": 310.7,
+      "peakBytes": 88532
+    },
+    {
+      "seed": 70077,
+      "mode": 4,
+      "seconds": 265.25,
+      "winner": 7,
+      "ticks": 1061,
+      "ms": 361.04,
+      "peakBytes": 88887
+    },
+    {
+      "seed": 70078,
+      "mode": 1,
+      "seconds": 312.5,
+      "winner": 3,
+      "ticks": 1250,
+      "ms": 383.85,
+      "peakBytes": 90462
+    },
+    {
+      "seed": 70079,
+      "mode": 2,
+      "seconds": 247.5,
+      "winner": 0,
+      "ticks": 990,
+      "ms": 287.62,
+      "peakBytes": 92296
+    },
+    {
+      "seed": 70080,
+      "mode": 4,
+      "seconds": 269.75,
+      "winner": 10,
+      "ticks": 1079,
+      "ms": 368.88,
+      "peakBytes": 92503
+    },
+    {
+      "seed": 70081,
+      "mode": 1,
+      "seconds": 234.75,
+      "winner": 38,
+      "ticks": 939,
+      "ms": 306.17,
+      "peakBytes": 93331
+    },
+    {
+      "seed": 70082,
+      "mode": 2,
+      "seconds": 330.25,
+      "winner": 15,
+      "ticks": 1321,
+      "ms": 359.83,
+      "peakBytes": 95270
+    },
+    {
+      "seed": 70083,
+      "mode": 4,
+      "seconds": 363,
+      "winner": 3,
+      "ticks": 1452,
+      "ms": 344.15,
+      "peakBytes": 95216
+    },
+    {
+      "seed": 70084,
+      "mode": 1,
+      "seconds": 307.75,
+      "winner": 15,
+      "ticks": 1231,
+      "ms": 330.63,
+      "peakBytes": 95447
+    },
+    {
+      "seed": 70085,
+      "mode": 2,
+      "seconds": 277.5,
+      "winner": 19,
+      "ticks": 1110,
+      "ms": 349.03,
+      "peakBytes": 93086
+    },
+    {
+      "seed": 70086,
+      "mode": 4,
+      "seconds": 352.5,
+      "winner": 6,
+      "ticks": 1410,
+      "ms": 359.17,
+      "peakBytes": 96230
+    },
+    {
+      "seed": 70087,
+      "mode": 1,
+      "seconds": 231.5,
+      "winner": 23,
+      "ticks": 926,
+      "ms": 270.03,
+      "peakBytes": 92816
+    },
+    {
+      "seed": 70088,
+      "mode": 2,
+      "seconds": 304.75,
+      "winner": 3,
+      "ticks": 1219,
+      "ms": 372.68,
+      "peakBytes": 96376
+    },
+    {
+      "seed": 70089,
+      "mode": 4,
+      "seconds": 408.25,
+      "winner": 1,
+      "ticks": 1633,
+      "ms": 341.09,
+      "peakBytes": 96934
+    },
+    {
+      "seed": 70090,
+      "mode": 1,
+      "seconds": 279,
+      "winner": 16,
+      "ticks": 1116,
+      "ms": 327.63,
+      "peakBytes": 95690
+    },
+    {
+      "seed": 70091,
+      "mode": 2,
+      "seconds": 291.75,
+      "winner": 6,
+      "ticks": 1167,
+      "ms": 294.87,
+      "peakBytes": 97489
+    },
+    {
+      "seed": 70092,
+      "mode": 4,
+      "seconds": 248.25,
+      "winner": 3,
+      "ticks": 993,
+      "ms": 319.35,
+      "peakBytes": 97064
+    },
+    {
+      "seed": 70093,
+      "mode": 1,
+      "seconds": 260.75,
+      "winner": 5,
+      "ticks": 1043,
+      "ms": 286.44,
+      "peakBytes": 90977
+    },
+    {
+      "seed": 70094,
+      "mode": 2,
+      "seconds": 331,
+      "winner": 2,
+      "ticks": 1324,
+      "ms": 309.49,
+      "peakBytes": 95376
+    },
+    {
+      "seed": 70095,
+      "mode": 4,
+      "seconds": 331.5,
+      "winner": 12,
+      "ticks": 1326,
+      "ms": 346.38,
+      "peakBytes": 91475
+    },
+    {
+      "seed": 70096,
+      "mode": 1,
+      "seconds": 296.25,
+      "winner": 25,
+      "ticks": 1185,
+      "ms": 308.41,
+      "peakBytes": 92394
+    },
+    {
+      "seed": 70097,
+      "mode": 2,
+      "seconds": 356.25,
+      "winner": 16,
+      "ticks": 1425,
+      "ms": 332.37,
+      "peakBytes": 96401
+    },
+    {
+      "seed": 70098,
+      "mode": 4,
+      "seconds": 265.75,
+      "winner": 11,
+      "ticks": 1063,
+      "ms": 330.91,
+      "peakBytes": 91617
+    },
+    {
+      "seed": 70099,
+      "mode": 1,
+      "seconds": 275.5,
+      "winner": 45,
+      "ticks": 1102,
+      "ms": 264.08,
+      "peakBytes": 94273
+    },
+    {
+      "seed": 70100,
+      "mode": 2,
+      "seconds": 275.25,
+      "winner": 25,
+      "ticks": 1101,
+      "ms": 299.53,
+      "peakBytes": 95338
+    },
+    {
+      "seed": 70101,
+      "mode": 4,
+      "seconds": 331,
+      "winner": 7,
+      "ticks": 1324,
+      "ms": 335.59,
+      "peakBytes": 95988
+    },
+    {
+      "seed": 70102,
+      "mode": 1,
+      "seconds": 214.75,
+      "winner": 43,
+      "ticks": 859,
+      "ms": 279.08,
+      "peakBytes": 96886
+    },
+    {
+      "seed": 70103,
+      "mode": 2,
+      "seconds": 302.25,
+      "winner": 12,
+      "ticks": 1209,
+      "ms": 361.31,
+      "peakBytes": 97508
+    },
+    {
+      "seed": 70104,
+      "mode": 4,
+      "seconds": 292.25,
+      "winner": 6,
+      "ticks": 1169,
+      "ms": 362.67,
+      "peakBytes": 95183
+    },
+    {
+      "seed": 70105,
+      "mode": 1,
+      "seconds": 315,
+      "winner": 57,
+      "ticks": 1260,
+      "ms": 296.04,
+      "peakBytes": 102767
+    },
+    {
+      "seed": 70106,
+      "mode": 2,
+      "seconds": 305.25,
+      "winner": 15,
+      "ticks": 1221,
+      "ms": 298.33,
+      "peakBytes": 98050
+    },
+    {
+      "seed": 70107,
+      "mode": 4,
+      "seconds": 257.5,
+      "winner": 5,
+      "ticks": 1030,
+      "ms": 359.13,
+      "peakBytes": 95500
+    },
+    {
+      "seed": 70108,
+      "mode": 1,
+      "seconds": 216.5,
+      "winner": 16,
+      "ticks": 866,
+      "ms": 274.55,
+      "peakBytes": 95760
+    },
+    {
+      "seed": 70109,
+      "mode": 2,
+      "seconds": 279.75,
+      "winner": 16,
+      "ticks": 1119,
+      "ms": 310.08,
+      "peakBytes": 98045
+    },
+    {
+      "seed": 70110,
+      "mode": 4,
+      "seconds": 329,
+      "winner": 8,
+      "ticks": 1316,
+      "ms": 364.96,
+      "peakBytes": 94641
+    },
+    {
+      "seed": 70111,
+      "mode": 1,
+      "seconds": 271.5,
+      "winner": 22,
+      "ticks": 1086,
+      "ms": 284.08,
+      "peakBytes": 94442
+    },
+    {
+      "seed": 70112,
+      "mode": 2,
+      "seconds": 334,
+      "winner": 21,
+      "ticks": 1336,
+      "ms": 323.85,
+      "peakBytes": 93903
+    },
+    {
+      "seed": 70113,
+      "mode": 4,
+      "seconds": 284.5,
+      "winner": 5,
+      "ticks": 1138,
+      "ms": 328.43,
+      "peakBytes": 94346
+    },
+    {
+      "seed": 70114,
+      "mode": 1,
+      "seconds": 241.75,
+      "winner": 46,
+      "ticks": 967,
+      "ms": 271.87,
+      "peakBytes": 97118
+    },
+    {
+      "seed": 70115,
+      "mode": 2,
+      "seconds": 472.5,
+      "winner": 0,
+      "ticks": 1890,
+      "ms": 370.67,
+      "peakBytes": 96345
+    },
+    {
+      "seed": 70116,
+      "mode": 4,
+      "seconds": 315.75,
+      "winner": 15,
+      "ticks": 1263,
+      "ms": 331.15,
+      "peakBytes": 98467
+    },
+    {
+      "seed": 70117,
+      "mode": 1,
+      "seconds": 238,
+      "winner": 41,
+      "ticks": 952,
+      "ms": 238.37,
+      "peakBytes": 96068
+    },
+    {
+      "seed": 70118,
+      "mode": 2,
+      "seconds": 293.75,
+      "winner": 1,
+      "ticks": 1175,
+      "ms": 272.33,
+      "peakBytes": 97828
+    },
+    {
+      "seed": 70119,
+      "mode": 4,
+      "seconds": 293.5,
+      "winner": 5,
+      "ticks": 1174,
+      "ms": 290.79,
+      "peakBytes": 100002
+    },
+    {
+      "seed": 70120,
+      "mode": 1,
+      "seconds": 325.75,
+      "winner": 38,
+      "ticks": 1303,
+      "ms": 284.41,
+      "peakBytes": 99101
+    },
+    {
+      "seed": 70121,
+      "mode": 2,
+      "seconds": 307.75,
+      "winner": 10,
+      "ticks": 1231,
+      "ms": 290.53,
+      "peakBytes": 97258
+    },
+    {
+      "seed": 70122,
+      "mode": 4,
+      "seconds": 317.5,
+      "winner": 8,
+      "ticks": 1270,
+      "ms": 290.36,
+      "peakBytes": 95084
+    },
+    {
+      "seed": 70123,
+      "mode": 1,
+      "seconds": 230,
+      "winner": 20,
+      "ticks": 920,
+      "ms": 273.89,
+      "peakBytes": 93971
+    },
+    {
+      "seed": 70124,
+      "mode": 2,
+      "seconds": 272.75,
+      "winner": 24,
+      "ticks": 1091,
+      "ms": 280.77,
+      "peakBytes": 95721
+    },
+    {
+      "seed": 70125,
+      "mode": 4,
+      "seconds": 273,
+      "winner": 15,
+      "ticks": 1092,
+      "ms": 256.57,
+      "peakBytes": 94395
+    },
+    {
+      "seed": 70126,
+      "mode": 1,
+      "seconds": 302.75,
+      "winner": 51,
+      "ticks": 1211,
+      "ms": 270.07,
+      "peakBytes": 95081
+    },
+    {
+      "seed": 70127,
+      "mode": 2,
+      "seconds": 243,
+      "winner": 1,
+      "ticks": 972,
+      "ms": 282.67,
+      "peakBytes": 95335
+    },
+    {
+      "seed": 70128,
+      "mode": 4,
+      "seconds": 321.75,
+      "winner": 14,
+      "ticks": 1287,
+      "ms": 320.51,
+      "peakBytes": 92155
+    },
+    {
+      "seed": 70129,
+      "mode": 1,
+      "seconds": 234.75,
+      "winner": 12,
+      "ticks": 939,
+      "ms": 259.72,
+      "peakBytes": 95787
+    },
+    {
+      "seed": 70130,
+      "mode": 2,
+      "seconds": 247.25,
+      "winner": 17,
+      "ticks": 989,
+      "ms": 255.58,
+      "peakBytes": 99752
+    },
+    {
+      "seed": 70131,
+      "mode": 4,
+      "seconds": 418.25,
+      "winner": 15,
+      "ticks": 1673,
+      "ms": 340.01,
+      "peakBytes": 101791
+    },
+    {
+      "seed": 70132,
+      "mode": 1,
+      "seconds": 312.75,
+      "winner": 3,
+      "ticks": 1251,
+      "ms": 241.39,
+      "peakBytes": 94192
+    },
+    {
+      "seed": 70133,
+      "mode": 2,
+      "seconds": 239,
+      "winner": 28,
+      "ticks": 956,
+      "ms": 253.22,
+      "peakBytes": 96349
+    },
+    {
+      "seed": 70134,
+      "mode": 4,
+      "seconds": 273.75,
+      "winner": 10,
+      "ticks": 1095,
+      "ms": 292.06,
+      "peakBytes": 102350
+    },
+    {
+      "seed": 70135,
+      "mode": 1,
+      "seconds": 316,
+      "winner": 43,
+      "ticks": 1264,
+      "ms": 263.03,
+      "peakBytes": 97614
+    },
+    {
+      "seed": 70136,
+      "mode": 2,
+      "seconds": 388,
+      "winner": 18,
+      "ticks": 1552,
+      "ms": 307.71,
+      "peakBytes": 100928
+    },
+    {
+      "seed": 70137,
+      "mode": 4,
+      "seconds": 454.25,
+      "winner": 12,
+      "ticks": 1817,
+      "ms": 347.1,
+      "peakBytes": 97454
+    },
+    {
+      "seed": 70138,
+      "mode": 1,
+      "seconds": 222,
+      "winner": 11,
+      "ticks": 888,
+      "ms": 239.22,
+      "peakBytes": 98282
+    },
+    {
+      "seed": 70139,
+      "mode": 2,
+      "seconds": 256.75,
+      "winner": 13,
+      "ticks": 1027,
+      "ms": 280.28,
+      "peakBytes": 95867
+    },
+    {
+      "seed": 70140,
+      "mode": 4,
+      "seconds": 335.5,
+      "winner": 2,
+      "ticks": 1342,
+      "ms": 342.76,
+      "peakBytes": 96314
+    },
+    {
+      "seed": 70141,
+      "mode": 1,
+      "seconds": 394.25,
+      "winner": 5,
+      "ticks": 1577,
+      "ms": 307.16,
+      "peakBytes": 94667
+    },
+    {
+      "seed": 70142,
+      "mode": 2,
+      "seconds": 275.75,
+      "winner": 11,
+      "ticks": 1103,
+      "ms": 304.42,
+      "peakBytes": 96910
+    },
+    {
+      "seed": 70143,
+      "mode": 4,
+      "seconds": 226.5,
+      "winner": 7,
+      "ticks": 906,
+      "ms": 254.41,
+      "peakBytes": 94469
+    },
+    {
+      "seed": 70144,
+      "mode": 1,
+      "seconds": 516.75,
+      "winner": 37,
+      "ticks": 2067,
+      "ms": 342.5,
+      "peakBytes": 94107
+    },
+    {
+      "seed": 70145,
+      "mode": 2,
+      "seconds": 367,
+      "winner": 23,
+      "ticks": 1468,
+      "ms": 295.83,
+      "peakBytes": 97835
+    },
+    {
+      "seed": 70146,
+      "mode": 4,
+      "seconds": 307.5,
+      "winner": 8,
+      "ticks": 1230,
+      "ms": 311.63,
+      "peakBytes": 96658
+    },
+    {
+      "seed": 70147,
+      "mode": 1,
+      "seconds": 518.5,
+      "winner": 1,
+      "ticks": 2074,
+      "ms": 304.27,
+      "peakBytes": 97731
+    },
+    {
+      "seed": 70148,
+      "mode": 2,
+      "seconds": 240.5,
+      "winner": 17,
+      "ticks": 962,
+      "ms": 312.4,
+      "peakBytes": 94413
+    },
+    {
+      "seed": 70149,
+      "mode": 4,
+      "seconds": 242.75,
+      "winner": 7,
+      "ticks": 971,
+      "ms": 289.46,
+      "peakBytes": 99680
+    },
+    {
+      "seed": 70150,
+      "mode": 1,
+      "seconds": 279.5,
+      "winner": 5,
+      "ticks": 1118,
+      "ms": 284.74,
+      "peakBytes": 96921
+    },
+    {
+      "seed": 70151,
+      "mode": 2,
+      "seconds": 235.75,
+      "winner": 17,
+      "ticks": 943,
+      "ms": 276.29,
+      "peakBytes": 97751
+    },
+    {
+      "seed": 70152,
+      "mode": 4,
+      "seconds": 333.75,
+      "winner": 14,
+      "ticks": 1335,
+      "ms": 311.35,
+      "peakBytes": 94089
+    },
+    {
+      "seed": 70153,
+      "mode": 1,
+      "seconds": 323.5,
+      "winner": 27,
+      "ticks": 1294,
+      "ms": 253.94,
+      "peakBytes": 98890
+    },
+    {
+      "seed": 70154,
+      "mode": 2,
+      "seconds": 249.5,
+      "winner": 26,
+      "ticks": 998,
+      "ms": 274.84,
+      "peakBytes": 97235
+    },
+    {
+      "seed": 70155,
+      "mode": 4,
+      "seconds": 316,
+      "winner": 10,
+      "ticks": 1264,
+      "ms": 294.38,
+      "peakBytes": 100550
+    },
+    {
+      "seed": 70156,
+      "mode": 1,
+      "seconds": 249.5,
+      "winner": 29,
+      "ticks": 998,
+      "ms": 242.05,
+      "peakBytes": 98528
+    },
+    {
+      "seed": 70157,
+      "mode": 2,
+      "seconds": 254.25,
+      "winner": 31,
+      "ticks": 1017,
+      "ms": 266.91,
+      "peakBytes": 101295
+    },
+    {
+      "seed": 70158,
+      "mode": 4,
+      "seconds": 241.25,
+      "winner": 13,
+      "ticks": 965,
+      "ms": 275.72,
+      "peakBytes": 95915
+    },
+    {
+      "seed": 70159,
+      "mode": 1,
+      "seconds": 259,
+      "winner": 5,
+      "ticks": 1036,
+      "ms": 245.05,
+      "peakBytes": 101545
+    },
+    {
+      "seed": 70160,
+      "mode": 2,
+      "seconds": 251.25,
+      "winner": 30,
+      "ticks": 1005,
+      "ms": 296.88,
+      "peakBytes": 96432
+    },
+    {
+      "seed": 70161,
+      "mode": 4,
+      "seconds": 236.75,
+      "winner": 7,
+      "ticks": 947,
+      "ms": 319.34,
+      "peakBytes": 101352
+    },
+    {
+      "seed": 70162,
+      "mode": 1,
+      "seconds": 215,
+      "winner": 53,
+      "ticks": 860,
+      "ms": 234.72,
+      "peakBytes": 97451
+    },
+    {
+      "seed": 70163,
+      "mode": 2,
+      "seconds": 286.25,
+      "winner": 29,
+      "ticks": 1145,
+      "ms": 300.42,
+      "peakBytes": 98586
+    },
+    {
+      "seed": 70164,
+      "mode": 4,
+      "seconds": 311,
+      "winner": 7,
+      "ticks": 1244,
+      "ms": 338.47,
+      "peakBytes": 102014
+    },
+    {
+      "seed": 70165,
+      "mode": 1,
+      "seconds": 290,
+      "winner": 28,
+      "ticks": 1160,
+      "ms": 259.22,
+      "peakBytes": 99888
+    },
+    {
+      "seed": 70166,
+      "mode": 2,
+      "seconds": 229.25,
+      "winner": 23,
+      "ticks": 917,
+      "ms": 238.02,
+      "peakBytes": 101300
+    },
+    {
+      "seed": 70167,
+      "mode": 4,
+      "seconds": 370.5,
+      "winner": 15,
+      "ticks": 1482,
+      "ms": 295.8,
+      "peakBytes": 98824
+    },
+    {
+      "seed": 70168,
+      "mode": 1,
+      "seconds": 270.25,
+      "winner": 22,
+      "ticks": 1081,
+      "ms": 242.67,
+      "peakBytes": 97687
+    },
+    {
+      "seed": 70169,
+      "mode": 2,
+      "seconds": 219.25,
+      "winner": 5,
+      "ticks": 877,
+      "ms": 230.25,
+      "peakBytes": 96105
+    },
+    {
+      "seed": 70170,
+      "mode": 4,
+      "seconds": 238,
+      "winner": 6,
+      "ticks": 952,
+      "ms": 280.97,
+      "peakBytes": 95275
+    },
+    {
+      "seed": 70171,
+      "mode": 1,
+      "seconds": 197,
+      "winner": 10,
+      "ticks": 788,
+      "ms": 215.43,
+      "peakBytes": 95776
+    },
+    {
+      "seed": 70172,
+      "mode": 2,
+      "seconds": 286.75,
+      "winner": 16,
+      "ticks": 1147,
+      "ms": 256.5,
+      "peakBytes": 96576
+    },
+    {
+      "seed": 70173,
+      "mode": 4,
+      "seconds": 308,
+      "winner": 6,
+      "ticks": 1232,
+      "ms": 297.78,
+      "peakBytes": 98430
+    },
+    {
+      "seed": 70174,
+      "mode": 1,
+      "seconds": 219,
+      "winner": 9,
+      "ticks": 876,
+      "ms": 258.54,
+      "peakBytes": 98376
+    },
+    {
+      "seed": 70175,
+      "mode": 2,
+      "seconds": 308.5,
+      "winner": 30,
+      "ticks": 1234,
+      "ms": 282.13,
+      "peakBytes": 95589
+    },
+    {
+      "seed": 70176,
+      "mode": 4,
+      "seconds": 244,
+      "winner": 2,
+      "ticks": 976,
+      "ms": 272.27,
+      "peakBytes": 94500
+    },
+    {
+      "seed": 70177,
+      "mode": 1,
+      "seconds": 315.5,
+      "winner": 8,
+      "ticks": 1262,
+      "ms": 230.81,
+      "peakBytes": 96929
+    },
+    {
+      "seed": 70178,
+      "mode": 2,
+      "seconds": 255,
+      "winner": 12,
+      "ticks": 1020,
+      "ms": 268.24,
+      "peakBytes": 97473
+    },
+    {
+      "seed": 70179,
+      "mode": 4,
+      "seconds": 264.5,
+      "winner": 0,
+      "ticks": 1058,
+      "ms": 275.41,
+      "peakBytes": 97297
+    },
+    {
+      "seed": 70180,
+      "mode": 1,
+      "seconds": 242.5,
+      "winner": 1,
+      "ticks": 970,
+      "ms": 261.39,
+      "peakBytes": 100589
+    },
+    {
+      "seed": 70181,
+      "mode": 2,
+      "seconds": 342,
+      "winner": 21,
+      "ticks": 1368,
+      "ms": 308.63,
+      "peakBytes": 99744
+    },
+    {
+      "seed": 70182,
+      "mode": 4,
+      "seconds": 296,
+      "winner": 1,
+      "ticks": 1184,
+      "ms": 295.85,
+      "peakBytes": 98918
+    },
+    {
+      "seed": 70183,
+      "mode": 1,
+      "seconds": 234.25,
+      "winner": 7,
+      "ticks": 937,
+      "ms": 250.68,
+      "peakBytes": 97994
+    },
+    {
+      "seed": 70184,
+      "mode": 2,
+      "seconds": 309.75,
+      "winner": 10,
+      "ticks": 1239,
+      "ms": 313.71,
+      "peakBytes": 98538
+    },
+    {
+      "seed": 70185,
+      "mode": 4,
+      "seconds": 421.5,
+      "winner": 11,
+      "ticks": 1686,
+      "ms": 300.51,
+      "peakBytes": 97532
+    },
+    {
+      "seed": 70186,
+      "mode": 1,
+      "seconds": 249,
+      "winner": 58,
+      "ticks": 996,
+      "ms": 265.71,
+      "peakBytes": 96950
+    },
+    {
+      "seed": 70187,
+      "mode": 2,
+      "seconds": 317.25,
+      "winner": 24,
+      "ticks": 1269,
+      "ms": 274.74,
+      "peakBytes": 97956
+    },
+    {
+      "seed": 70188,
+      "mode": 4,
+      "seconds": 311,
+      "winner": 15,
+      "ticks": 1244,
+      "ms": 382.87,
+      "peakBytes": 104770
+    },
+    {
+      "seed": 70189,
+      "mode": 1,
+      "seconds": 440.5,
+      "winner": 23,
+      "ticks": 1762,
+      "ms": 284.64,
+      "peakBytes": 102890
+    },
+    {
+      "seed": 70190,
+      "mode": 2,
+      "seconds": 240,
+      "winner": 8,
+      "ticks": 960,
+      "ms": 276.68,
+      "peakBytes": 102951
+    },
+    {
+      "seed": 70191,
+      "mode": 4,
+      "seconds": 236.75,
+      "winner": 6,
+      "ticks": 947,
+      "ms": 276.2,
+      "peakBytes": 103879
+    },
+    {
+      "seed": 70192,
+      "mode": 1,
+      "seconds": 319.25,
+      "winner": 49,
+      "ticks": 1277,
+      "ms": 259.85,
+      "peakBytes": 97994
+    },
+    {
+      "seed": 70193,
+      "mode": 2,
+      "seconds": 270.25,
+      "winner": 17,
+      "ticks": 1081,
+      "ms": 256.07,
+      "peakBytes": 102663
+    },
+    {
+      "seed": 70194,
+      "mode": 4,
+      "seconds": 245.75,
+      "winner": 2,
+      "ticks": 983,
+      "ms": 283.05,
+      "peakBytes": 101854
+    },
+    {
+      "seed": 70195,
+      "mode": 1,
+      "seconds": 277,
+      "winner": 8,
+      "ticks": 1108,
+      "ms": 252.88,
+      "peakBytes": 106045
+    },
+    {
+      "seed": 70196,
+      "mode": 2,
+      "seconds": 238,
+      "winner": 9,
+      "ticks": 952,
+      "ms": 271.74,
+      "peakBytes": 103044
+    },
+    {
+      "seed": 70197,
+      "mode": 4,
+      "seconds": 303,
+      "winner": 14,
+      "ticks": 1212,
+      "ms": 282.32,
+      "peakBytes": 104543
+    },
+    {
+      "seed": 70198,
+      "mode": 1,
+      "seconds": 244.25,
+      "winner": 28,
+      "ticks": 977,
+      "ms": 256.82,
+      "peakBytes": 104517
+    },
+    {
+      "seed": 70199,
+      "mode": 2,
+      "seconds": 236,
+      "winner": 31,
+      "ticks": 944,
+      "ms": 232.9,
+      "peakBytes": 103665
+    },
+    {
+      "seed": 70200,
+      "mode": 4,
+      "seconds": 303.5,
+      "winner": 12,
+      "ticks": 1214,
+      "ms": 310.18,
+      "peakBytes": 101597
+    },
+    {
+      "seed": 70201,
+      "mode": 1,
+      "seconds": 246,
+      "winner": 8,
+      "ticks": 984,
+      "ms": 297.46,
+      "peakBytes": 100460
+    },
+    {
+      "seed": 70202,
+      "mode": 2,
+      "seconds": 207.25,
+      "winner": 25,
+      "ticks": 829,
+      "ms": 231.8,
+      "peakBytes": 104493
+    },
+    {
+      "seed": 70203,
+      "mode": 4,
+      "seconds": 208.75,
+      "winner": 12,
+      "ticks": 835,
+      "ms": 263.45,
+      "peakBytes": 104902
+    },
+    {
+      "seed": 70204,
+      "mode": 1,
+      "seconds": 208.75,
+      "winner": 50,
+      "ticks": 835,
+      "ms": 243.64,
+      "peakBytes": 104996
+    },
+    {
+      "seed": 70205,
+      "mode": 2,
+      "seconds": 533.25,
+      "winner": 28,
+      "ticks": 2133,
+      "ms": 293.18,
+      "peakBytes": 101582
+    },
+    {
+      "seed": 70206,
+      "mode": 4,
+      "seconds": 314.25,
+      "winner": 10,
+      "ticks": 1257,
+      "ms": 312.34,
+      "peakBytes": 99272
+    },
+    {
+      "seed": 70207,
+      "mode": 1,
+      "seconds": 245,
+      "winner": 3,
+      "ticks": 980,
+      "ms": 233.89,
+      "peakBytes": 98107
+    },
+    {
+      "seed": 70208,
+      "mode": 2,
+      "seconds": 223,
+      "winner": 2,
+      "ticks": 892,
+      "ms": 253.3,
+      "peakBytes": 101957
+    },
+    {
+      "seed": 70209,
+      "mode": 4,
+      "seconds": 245.25,
+      "winner": 1,
+      "ticks": 981,
+      "ms": 253.19,
+      "peakBytes": 101535
+    },
+    {
+      "seed": 70210,
+      "mode": 1,
+      "seconds": 263.25,
+      "winner": 41,
+      "ticks": 1053,
+      "ms": 240.2,
+      "peakBytes": 105403
+    },
+    {
+      "seed": 70211,
+      "mode": 2,
+      "seconds": 417.25,
+      "winner": 24,
+      "ticks": 1669,
+      "ms": 291.72,
+      "peakBytes": 101885
+    },
+    {
+      "seed": 70212,
+      "mode": 4,
+      "seconds": 379,
+      "winner": 5,
+      "ticks": 1516,
+      "ms": 298.95,
+      "peakBytes": 104916
+    },
+    {
+      "seed": 70213,
+      "mode": 1,
+      "seconds": 259,
+      "winner": 57,
+      "ticks": 1036,
+      "ms": 221.29,
+      "peakBytes": 104215
+    },
+    {
+      "seed": 70214,
+      "mode": 2,
+      "seconds": 470.5,
+      "winner": 10,
+      "ticks": 1882,
+      "ms": 313.98,
+      "peakBytes": 106125
+    },
+    {
+      "seed": 70215,
+      "mode": 4,
+      "seconds": 246,
+      "winner": 9,
+      "ticks": 984,
+      "ms": 235.92,
+      "peakBytes": 100421
+    },
+    {
+      "seed": 70216,
+      "mode": 1,
+      "seconds": 205.25,
+      "winner": 11,
+      "ticks": 821,
+      "ms": 238.25,
+      "peakBytes": 102428
+    },
+    {
+      "seed": 70217,
+      "mode": 2,
+      "seconds": 373,
+      "winner": 26,
+      "ticks": 1492,
+      "ms": 297.66,
+      "peakBytes": 104160
+    },
+    {
+      "seed": 70218,
+      "mode": 4,
+      "seconds": 237,
+      "winner": 4,
+      "ticks": 948,
+      "ms": 264.53,
+      "peakBytes": 102974
+    },
+    {
+      "seed": 70219,
+      "mode": 1,
+      "seconds": 229,
+      "winner": 11,
+      "ticks": 916,
+      "ms": 259.68,
+      "peakBytes": 104769
+    },
+    {
+      "seed": 70220,
+      "mode": 2,
+      "seconds": 236.75,
+      "winner": 17,
+      "ticks": 947,
+      "ms": 224.09,
+      "peakBytes": 107065
+    },
+    {
+      "seed": 70221,
+      "mode": 4,
+      "seconds": 224,
+      "winner": 9,
+      "ticks": 896,
+      "ms": 293.47,
+      "peakBytes": 105465
+    },
+    {
+      "seed": 70222,
+      "mode": 1,
+      "seconds": 235.25,
+      "winner": 57,
+      "ticks": 941,
+      "ms": 289.15,
+      "peakBytes": 107738
+    },
+    {
+      "seed": 70223,
+      "mode": 2,
+      "seconds": 277,
+      "winner": 24,
+      "ticks": 1108,
+      "ms": 274.52,
+      "peakBytes": 101667
+    },
+    {
+      "seed": 70224,
+      "mode": 4,
+      "seconds": 187.75,
+      "winner": 10,
+      "ticks": 751,
+      "ms": 243.06,
+      "peakBytes": 105020
+    },
+    {
+      "seed": 70225,
+      "mode": 1,
+      "seconds": 238,
+      "winner": 53,
+      "ticks": 952,
+      "ms": 220.62,
+      "peakBytes": 104808
+    },
+    {
+      "seed": 70226,
+      "mode": 2,
+      "seconds": 214.75,
+      "winner": 8,
+      "ticks": 859,
+      "ms": 248.21,
+      "peakBytes": 105276
+    },
+    {
+      "seed": 70227,
+      "mode": 4,
+      "seconds": 224.25,
+      "winner": 4,
+      "ticks": 897,
+      "ms": 243.46,
+      "peakBytes": 104429
+    },
+    {
+      "seed": 70228,
+      "mode": 1,
+      "seconds": 305.5,
+      "winner": 35,
+      "ticks": 1222,
+      "ms": 289.7,
+      "peakBytes": 103161
+    },
+    {
+      "seed": 70229,
+      "mode": 2,
+      "seconds": 187.75,
+      "winner": 6,
+      "ticks": 751,
+      "ms": 210.84,
+      "peakBytes": 106502
+    },
+    {
+      "seed": 70230,
+      "mode": 4,
+      "seconds": 247,
+      "winner": 6,
+      "ticks": 988,
+      "ms": 318.16,
+      "peakBytes": 104846
+    },
+    {
+      "seed": 70231,
+      "mode": 1,
+      "seconds": 227,
+      "winner": 43,
+      "ticks": 908,
+      "ms": 234.23,
+      "peakBytes": 108216
+    },
+    {
+      "seed": 70232,
+      "mode": 2,
+      "seconds": 233.5,
+      "winner": 21,
+      "ticks": 934,
+      "ms": 277.68,
+      "peakBytes": 106732
+    },
+    {
+      "seed": 70233,
+      "mode": 4,
+      "seconds": 307.25,
+      "winner": 14,
+      "ticks": 1229,
+      "ms": 273.12,
+      "peakBytes": 105389
+    },
+    {
+      "seed": 70234,
+      "mode": 1,
+      "seconds": 275.5,
+      "winner": 1,
+      "ticks": 1102,
+      "ms": 244.74,
+      "peakBytes": 103843
+    },
+    {
+      "seed": 70235,
+      "mode": 2,
+      "seconds": 339.5,
+      "winner": 4,
+      "ticks": 1358,
+      "ms": 313.18,
+      "peakBytes": 103595
+    },
+    {
+      "seed": 70236,
+      "mode": 4,
+      "seconds": 282.75,
+      "winner": 12,
+      "ticks": 1131,
+      "ms": 300.71,
+      "peakBytes": 105526
+    },
+    {
+      "seed": 70237,
+      "mode": 1,
+      "seconds": 184.5,
+      "winner": 33,
+      "ticks": 738,
+      "ms": 233.95,
+      "peakBytes": 97957
+    },
+    {
+      "seed": 70238,
+      "mode": 2,
+      "seconds": 303.5,
+      "winner": 23,
+      "ticks": 1214,
+      "ms": 321.93,
+      "peakBytes": 107305
+    },
+    {
+      "seed": 70239,
+      "mode": 4,
+      "seconds": 356.25,
+      "winner": 5,
+      "ticks": 1425,
+      "ms": 323.44,
+      "peakBytes": 99661
+    },
+    {
+      "seed": 70240,
+      "mode": 1,
+      "seconds": 256.5,
+      "winner": 51,
+      "ticks": 1026,
+      "ms": 273.26,
+      "peakBytes": 103262
+    },
+    {
+      "seed": 70241,
+      "mode": 2,
+      "seconds": 308.5,
+      "winner": 29,
+      "ticks": 1234,
+      "ms": 386.31,
+      "peakBytes": 99631
+    },
+    {
+      "seed": 70242,
+      "mode": 4,
+      "seconds": 239.25,
+      "winner": 15,
+      "ticks": 957,
+      "ms": 303.43,
+      "peakBytes": 103524
+    },
+    {
+      "seed": 70243,
+      "mode": 1,
+      "seconds": 243.25,
+      "winner": 45,
+      "ticks": 973,
+      "ms": 229.37,
+      "peakBytes": 105389
+    },
+    {
+      "seed": 70244,
+      "mode": 2,
+      "seconds": 302.25,
+      "winner": 23,
+      "ticks": 1209,
+      "ms": 303.61,
+      "peakBytes": 104645
+    },
+    {
+      "seed": 70245,
+      "mode": 4,
+      "seconds": 398.25,
+      "winner": 3,
+      "ticks": 1593,
+      "ms": 370.88,
+      "peakBytes": 105436
+    },
+    {
+      "seed": 70246,
+      "mode": 1,
+      "seconds": 193.5,
+      "winner": 17,
+      "ticks": 774,
+      "ms": 325.34,
+      "peakBytes": 103693
+    },
+    {
+      "seed": 70247,
+      "mode": 2,
+      "seconds": 253,
+      "winner": 6,
+      "ticks": 1012,
+      "ms": 367.43,
+      "peakBytes": 104408
+    },
+    {
+      "seed": 70248,
+      "mode": 4,
+      "seconds": 526.75,
+      "winner": 8,
+      "ticks": 2107,
+      "ms": 428.42,
+      "peakBytes": 101233
+    },
+    {
+      "seed": 70249,
+      "mode": 1,
+      "seconds": 190.5,
+      "winner": 48,
+      "ticks": 762,
+      "ms": 245.77,
+      "peakBytes": 104037
+    },
+    {
+      "seed": 70250,
+      "mode": 2,
+      "seconds": 216.75,
+      "winner": 18,
+      "ticks": 867,
+      "ms": 294.68,
+      "peakBytes": 100855
+    },
+    {
+      "seed": 70251,
+      "mode": 4,
+      "seconds": 361,
+      "winner": 3,
+      "ticks": 1444,
+      "ms": 354.63,
+      "peakBytes": 101111
+    },
+    {
+      "seed": 70252,
+      "mode": 1,
+      "seconds": 231,
+      "winner": 21,
+      "ticks": 924,
+      "ms": 265.24,
+      "peakBytes": 104293
+    },
+    {
+      "seed": 70253,
+      "mode": 2,
+      "seconds": 315.5,
+      "winner": 18,
+      "ticks": 1262,
+      "ms": 279.23,
+      "peakBytes": 106583
+    },
+    {
+      "seed": 70254,
+      "mode": 4,
+      "seconds": 358.5,
+      "winner": 3,
+      "ticks": 1434,
+      "ms": 370.9,
+      "peakBytes": 105115
+    },
+    {
+      "seed": 70255,
+      "mode": 1,
+      "seconds": 246.75,
+      "winner": 0,
+      "ticks": 987,
+      "ms": 256.02,
+      "peakBytes": 104139
+    },
+    {
+      "seed": 70256,
+      "mode": 2,
+      "seconds": 514.25,
+      "winner": 16,
+      "ticks": 2057,
+      "ms": 359.72,
+      "peakBytes": 105338
+    },
+    {
+      "seed": 70257,
+      "mode": 4,
+      "seconds": 241.75,
+      "winner": 7,
+      "ticks": 967,
+      "ms": 267.16,
+      "peakBytes": 98605
+    },
+    {
+      "seed": 70258,
+      "mode": 1,
+      "seconds": 268,
+      "winner": 53,
+      "ticks": 1072,
+      "ms": 281.54,
+      "peakBytes": 103855
+    },
+    {
+      "seed": 70259,
+      "mode": 2,
+      "seconds": 204,
+      "winner": 18,
+      "ticks": 816,
+      "ms": 262.24,
+      "peakBytes": 108687
+    },
+    {
+      "seed": 70260,
+      "mode": 4,
+      "seconds": 316.75,
+      "winner": 2,
+      "ticks": 1267,
+      "ms": 262.48,
+      "peakBytes": 106508
+    },
+    {
+      "seed": 70261,
+      "mode": 1,
+      "seconds": 303.5,
+      "winner": 11,
+      "ticks": 1214,
+      "ms": 253.49,
+      "peakBytes": 106264
+    },
+    {
+      "seed": 70262,
+      "mode": 2,
+      "seconds": 310.75,
+      "winner": 20,
+      "ticks": 1243,
+      "ms": 294.05,
+      "peakBytes": 106799
+    },
+    {
+      "seed": 70263,
+      "mode": 4,
+      "seconds": 217.75,
+      "winner": 12,
+      "ticks": 871,
+      "ms": 275.56,
+      "peakBytes": 107974
+    },
+    {
+      "seed": 70264,
+      "mode": 1,
+      "seconds": 254.25,
+      "winner": 3,
+      "ticks": 1017,
+      "ms": 240.61,
+      "peakBytes": 106965
+    },
+    {
+      "seed": 70265,
+      "mode": 2,
+      "seconds": 232.5,
+      "winner": 19,
+      "ticks": 930,
+      "ms": 266.95,
+      "peakBytes": 105965
+    },
+    {
+      "seed": 70266,
+      "mode": 4,
+      "seconds": 217.5,
+      "winner": 7,
+      "ticks": 870,
+      "ms": 242.64,
+      "peakBytes": 106416
+    },
+    {
+      "seed": 70267,
+      "mode": 1,
+      "seconds": 182.25,
+      "winner": 29,
+      "ticks": 729,
+      "ms": 243.04,
+      "peakBytes": 106257
+    },
+    {
+      "seed": 70268,
+      "mode": 2,
+      "seconds": 268,
+      "winner": 29,
+      "ticks": 1072,
+      "ms": 231.25,
+      "peakBytes": 105571
+    },
+    {
+      "seed": 70269,
+      "mode": 4,
+      "seconds": 371,
+      "winner": 9,
+      "ticks": 1484,
+      "ms": 314.1,
+      "peakBytes": 105970
+    },
+    {
+      "seed": 70270,
+      "mode": 1,
+      "seconds": 186.75,
+      "winner": 41,
+      "ticks": 747,
+      "ms": 247.13,
+      "peakBytes": 103230
+    },
+    {
+      "seed": 70271,
+      "mode": 2,
+      "seconds": 255.75,
+      "winner": 24,
+      "ticks": 1023,
+      "ms": 279.35,
+      "peakBytes": 103372
+    },
+    {
+      "seed": 70272,
+      "mode": 4,
+      "seconds": 236.75,
+      "winner": 2,
+      "ticks": 947,
+      "ms": 260.88,
+      "peakBytes": 106264
+    },
+    {
+      "seed": 70273,
+      "mode": 1,
+      "seconds": 445.75,
+      "winner": 27,
+      "ticks": 1783,
+      "ms": 306.54,
+      "peakBytes": 106061
+    },
+    {
+      "seed": 70274,
+      "mode": 2,
+      "seconds": 248,
+      "winner": 14,
+      "ticks": 992,
+      "ms": 262.51,
+      "peakBytes": 105448
+    },
+    {
+      "seed": 70275,
+      "mode": 4,
+      "seconds": 191.25,
+      "winner": 15,
+      "ticks": 765,
+      "ms": 268.59,
+      "peakBytes": 106152
+    },
+    {
+      "seed": 70276,
+      "mode": 1,
+      "seconds": 250.5,
+      "winner": 24,
+      "ticks": 1002,
+      "ms": 235.08,
+      "peakBytes": 103576
+    },
+    {
+      "seed": 70277,
+      "mode": 2,
+      "seconds": 236.75,
+      "winner": 28,
+      "ticks": 947,
+      "ms": 262.66,
+      "peakBytes": 104622
+    },
+    {
+      "seed": 70278,
+      "mode": 4,
+      "seconds": 226.75,
+      "winner": 12,
+      "ticks": 907,
+      "ms": 257.77,
+      "peakBytes": 103975
+    },
+    {
+      "seed": 70279,
+      "mode": 1,
+      "seconds": 150.75,
+      "winner": 36,
+      "ticks": 603,
+      "ms": 189.61,
+      "peakBytes": 106924
+    },
+    {
+      "seed": 70280,
+      "mode": 2,
+      "seconds": 224.25,
+      "winner": 5,
+      "ticks": 897,
+      "ms": 254.87,
+      "peakBytes": 107270
+    },
+    {
+      "seed": 70281,
+      "mode": 4,
+      "seconds": 224.25,
+      "winner": 3,
+      "ticks": 897,
+      "ms": 272.25,
+      "peakBytes": 101621
+    },
+    {
+      "seed": 70282,
+      "mode": 1,
+      "seconds": 451.5,
+      "winner": 26,
+      "ticks": 1806,
+      "ms": 255.5,
+      "peakBytes": 102538
+    },
+    {
+      "seed": 70283,
+      "mode": 2,
+      "seconds": 197.5,
+      "winner": 14,
+      "ticks": 790,
+      "ms": 227.56,
+      "peakBytes": 105296
+    },
+    {
+      "seed": 70284,
+      "mode": 4,
+      "seconds": 202.25,
+      "winner": 3,
+      "ticks": 809,
+      "ms": 265.51,
+      "peakBytes": 104645
+    },
+    {
+      "seed": 70285,
+      "mode": 1,
+      "seconds": 192.75,
+      "winner": 24,
+      "ticks": 771,
+      "ms": 239.77,
+      "peakBytes": 102396
+    },
+    {
+      "seed": 70286,
+      "mode": 2,
+      "seconds": 224.25,
+      "winner": 0,
+      "ticks": 897,
+      "ms": 279.4,
+      "peakBytes": 106661
+    },
+    {
+      "seed": 70287,
+      "mode": 4,
+      "seconds": 206.5,
+      "winner": 2,
+      "ticks": 826,
+      "ms": 274.41,
+      "peakBytes": 106838
+    },
+    {
+      "seed": 70288,
+      "mode": 1,
+      "seconds": 306.25,
+      "winner": 8,
+      "ticks": 1225,
+      "ms": 269.08,
+      "peakBytes": 106024
+    },
+    {
+      "seed": 70289,
+      "mode": 2,
+      "seconds": 217.75,
+      "winner": 18,
+      "ticks": 871,
+      "ms": 265.58,
+      "peakBytes": 106898
+    },
+    {
+      "seed": 70290,
+      "mode": 4,
+      "seconds": 236.5,
+      "winner": 0,
+      "ticks": 946,
+      "ms": 263.09,
+      "peakBytes": 107317
+    },
+    {
+      "seed": 70291,
+      "mode": 1,
+      "seconds": 288.25,
+      "winner": 43,
+      "ticks": 1153,
+      "ms": 287.61,
+      "peakBytes": 107104
+    },
+    {
+      "seed": 70292,
+      "mode": 2,
+      "seconds": 234,
+      "winner": 5,
+      "ticks": 936,
+      "ms": 268.42,
+      "peakBytes": 106547
+    },
+    {
+      "seed": 70293,
+      "mode": 4,
+      "seconds": 201.75,
+      "winner": 8,
+      "ticks": 807,
+      "ms": 273.58,
+      "peakBytes": 105969
+    },
+    {
+      "seed": 70294,
+      "mode": 1,
+      "seconds": 295,
+      "winner": 44,
+      "ticks": 1180,
+      "ms": 289.1,
+      "peakBytes": 107013
+    },
+    {
+      "seed": 70295,
+      "mode": 2,
+      "seconds": 225.25,
+      "winner": 7,
+      "ticks": 901,
+      "ms": 270.92,
+      "peakBytes": 106038
+    },
+    {
+      "seed": 70296,
+      "mode": 4,
+      "seconds": 304.5,
+      "winner": 14,
+      "ticks": 1218,
+      "ms": 289.94,
+      "peakBytes": 107061
+    },
+    {
+      "seed": 70297,
+      "mode": 1,
+      "seconds": 223.75,
+      "winner": 26,
+      "ticks": 895,
+      "ms": 244.63,
+      "peakBytes": 107043
+    },
+    {
+      "seed": 70298,
+      "mode": 2,
+      "seconds": 157,
+      "winner": 14,
+      "ticks": 628,
+      "ms": 213.08,
+      "peakBytes": 103841
+    },
+    {
+      "seed": 70299,
+      "mode": 4,
+      "seconds": 234.75,
+      "winner": 0,
+      "ticks": 939,
+      "ms": 264.46,
+      "peakBytes": 103334
+    },
+    {
+      "seed": 70300,
+      "mode": 1,
+      "seconds": 229.75,
+      "winner": 36,
+      "ticks": 919,
+      "ms": 339.37,
+      "peakBytes": 102622
+    },
+    {
+      "seed": 70301,
+      "mode": 2,
+      "seconds": 236,
+      "winner": 29,
+      "ticks": 944,
+      "ms": 325.7,
+      "peakBytes": 103698
+    },
+    {
+      "seed": 70302,
+      "mode": 4,
+      "seconds": 303.75,
+      "winner": 1,
+      "ticks": 1215,
+      "ms": 341.1,
+      "peakBytes": 102338
+    },
+    {
+      "seed": 70303,
+      "mode": 1,
+      "seconds": 194,
+      "winner": 43,
+      "ticks": 776,
+      "ms": 238.15,
+      "peakBytes": 104454
+    },
+    {
+      "seed": 70304,
+      "mode": 2,
+      "seconds": 242.5,
+      "winner": 3,
+      "ticks": 970,
+      "ms": 253.07,
+      "peakBytes": 104698
+    },
+    {
+      "seed": 70305,
+      "mode": 4,
+      "seconds": 311.75,
+      "winner": 1,
+      "ticks": 1247,
+      "ms": 308.22,
+      "peakBytes": 103684
+    },
+    {
+      "seed": 70306,
+      "mode": 1,
+      "seconds": 142.75,
+      "winner": 23,
+      "ticks": 571,
+      "ms": 183.26,
+      "peakBytes": 102416
+    },
+    {
+      "seed": 70307,
+      "mode": 2,
+      "seconds": 244.5,
+      "winner": 16,
+      "ticks": 978,
+      "ms": 236.31,
+      "peakBytes": 102845
+    },
+    {
+      "seed": 70308,
+      "mode": 4,
+      "seconds": 241,
+      "winner": 11,
+      "ticks": 964,
+      "ms": 245.17,
+      "peakBytes": 102369
+    },
+    {
+      "seed": 70309,
+      "mode": 1,
+      "seconds": 307.25,
+      "winner": 9,
+      "ticks": 1229,
+      "ms": 200.3,
+      "peakBytes": 102903
+    },
+    {
+      "seed": 70310,
+      "mode": 2,
+      "seconds": 308,
+      "winner": 2,
+      "ticks": 1232,
+      "ms": 220.28,
+      "peakBytes": 102390
+    },
+    {
+      "seed": 70311,
+      "mode": 4,
+      "seconds": 312.25,
+      "winner": 6,
+      "ticks": 1249,
+      "ms": 238.41,
+      "peakBytes": 103642
+    },
+    {
+      "seed": 70312,
+      "mode": 1,
+      "seconds": 485.25,
+      "winner": 45,
+      "ticks": 1941,
+      "ms": 256.5,
+      "peakBytes": 99387
+    },
+    {
+      "seed": 70313,
+      "mode": 2,
+      "seconds": 306.75,
+      "winner": 26,
+      "ticks": 1227,
+      "ms": 235.25,
+      "peakBytes": 102798
+    },
+    {
+      "seed": 70314,
+      "mode": 4,
+      "seconds": 241.75,
+      "winner": 9,
+      "ticks": 967,
+      "ms": 237.62,
+      "peakBytes": 106009
+    },
+    {
+      "seed": 70315,
+      "mode": 1,
+      "seconds": 175.25,
+      "winner": 13,
+      "ticks": 701,
+      "ms": 195.37,
+      "peakBytes": 102650
+    },
+    {
+      "seed": 70316,
+      "mode": 2,
+      "seconds": 522.5,
+      "winner": 5,
+      "ticks": 2090,
+      "ms": 324.36,
+      "peakBytes": 104493
+    },
+    {
+      "seed": 70317,
+      "mode": 4,
+      "seconds": 471.25,
+      "winner": 14,
+      "ticks": 1885,
+      "ms": 309.43,
+      "peakBytes": 104964
+    },
+    {
+      "seed": 70318,
+      "mode": 1,
+      "seconds": 188.75,
+      "winner": 21,
+      "ticks": 755,
+      "ms": 193.79,
+      "peakBytes": 105901
+    },
+    {
+      "seed": 70319,
+      "mode": 2,
+      "seconds": 331.5,
+      "winner": 15,
+      "ticks": 1326,
+      "ms": 257.54,
+      "peakBytes": 104375
+    },
+    {
+      "seed": 70320,
+      "mode": 4,
+      "seconds": 252.5,
+      "winner": 2,
+      "ticks": 1010,
+      "ms": 253.14,
+      "peakBytes": 105313
+    },
+    {
+      "seed": 70321,
+      "mode": 1,
+      "seconds": 194.75,
+      "winner": 0,
+      "ticks": 779,
+      "ms": 205.06,
+      "peakBytes": 106315
+    },
+    {
+      "seed": 70322,
+      "mode": 2,
+      "seconds": 317.25,
+      "winner": 19,
+      "ticks": 1269,
+      "ms": 289.07,
+      "peakBytes": 102146
+    },
+    {
+      "seed": 70323,
+      "mode": 4,
+      "seconds": 315.5,
+      "winner": 0,
+      "ticks": 1262,
+      "ms": 266.6,
+      "peakBytes": 101843
+    },
+    {
+      "seed": 70324,
+      "mode": 1,
+      "seconds": 266.25,
+      "winner": 27,
+      "ticks": 1065,
+      "ms": 176.42,
+      "peakBytes": 102292
+    },
+    {
+      "seed": 70325,
+      "mode": 2,
+      "seconds": 165.5,
+      "winner": 24,
+      "ticks": 662,
+      "ms": 195.63,
+      "peakBytes": 101873
+    },
+    {
+      "seed": 70326,
+      "mode": 4,
+      "seconds": 190,
+      "winner": 14,
+      "ticks": 760,
+      "ms": 213.69,
+      "peakBytes": 101313
+    },
+    {
+      "seed": 70327,
+      "mode": 1,
+      "seconds": 303,
+      "winner": 19,
+      "ticks": 1212,
+      "ms": 239.35,
+      "peakBytes": 101347
+    },
+    {
+      "seed": 70328,
+      "mode": 2,
+      "seconds": 242.75,
+      "winner": 0,
+      "ticks": 971,
+      "ms": 246.09,
+      "peakBytes": 101678
+    },
+    {
+      "seed": 70329,
+      "mode": 4,
+      "seconds": 253.25,
+      "winner": 6,
+      "ticks": 1013,
+      "ms": 245.72,
+      "peakBytes": 101048
+    },
+    {
+      "seed": 70330,
+      "mode": 1,
+      "seconds": 247.25,
+      "winner": 19,
+      "ticks": 989,
+      "ms": 247.56,
+      "peakBytes": 102194
+    },
+    {
+      "seed": 70331,
+      "mode": 2,
+      "seconds": 244.25,
+      "winner": 31,
+      "ticks": 977,
+      "ms": 203.4,
+      "peakBytes": 101403
+    },
+    {
+      "seed": 70332,
+      "mode": 4,
+      "seconds": 201,
+      "winner": 15,
+      "ticks": 804,
+      "ms": 216.88,
+      "peakBytes": 101035
+    },
+    {
+      "seed": 70333,
+      "mode": 1,
+      "seconds": 247.5,
+      "winner": 61,
+      "ticks": 990,
+      "ms": 210.39,
+      "peakBytes": 96936
+    },
+    {
+      "seed": 70334,
+      "mode": 2,
+      "seconds": 394.5,
+      "winner": 22,
+      "ticks": 1578,
+      "ms": 343.48,
+      "peakBytes": 102474
+    },
+    {
+      "seed": 70335,
+      "mode": 4,
+      "seconds": 232.75,
+      "winner": 4,
+      "ticks": 931,
+      "ms": 298.09,
+      "peakBytes": 101474
+    },
+    {
+      "seed": 70336,
+      "mode": 1,
+      "seconds": 238.75,
+      "winner": 1,
+      "ticks": 955,
+      "ms": 237.08,
+      "peakBytes": 99955
+    },
+    {
+      "seed": 70337,
+      "mode": 2,
+      "seconds": 303.75,
+      "winner": 8,
+      "ticks": 1215,
+      "ms": 276.38,
+      "peakBytes": 99553
+    },
+    {
+      "seed": 70338,
+      "mode": 4,
+      "seconds": 196.5,
+      "winner": 12,
+      "ticks": 786,
+      "ms": 251.28,
+      "peakBytes": 101401
+    },
+    {
+      "seed": 70339,
+      "mode": 1,
+      "seconds": 315,
+      "winner": 13,
+      "ticks": 1260,
+      "ms": 270.58,
+      "peakBytes": 103102
+    },
+    {
+      "seed": 70340,
+      "mode": 2,
+      "seconds": 210.5,
+      "winner": 1,
+      "ticks": 842,
+      "ms": 218.48,
+      "peakBytes": 100938
+    },
+    {
+      "seed": 70341,
+      "mode": 4,
+      "seconds": 313.5,
+      "winner": 4,
+      "ticks": 1254,
+      "ms": 301.79,
+      "peakBytes": 99486
+    },
+    {
+      "seed": 70342,
+      "mode": 1,
+      "seconds": 162,
+      "winner": 24,
+      "ticks": 648,
+      "ms": 198.14,
+      "peakBytes": 101237
+    },
+    {
+      "seed": 70343,
+      "mode": 2,
+      "seconds": 210,
+      "winner": 3,
+      "ticks": 840,
+      "ms": 243.62,
+      "peakBytes": 101887
+    },
+    {
+      "seed": 70344,
+      "mode": 4,
+      "seconds": 168.25,
+      "winner": 11,
+      "ticks": 673,
+      "ms": 218.9,
+      "peakBytes": 102100
+    },
+    {
+      "seed": 70345,
+      "mode": 1,
+      "seconds": 328.25,
+      "winner": 43,
+      "ticks": 1313,
+      "ms": 272.16,
+      "peakBytes": 102016
+    },
+    {
+      "seed": 70346,
+      "mode": 2,
+      "seconds": 234.75,
+      "winner": 3,
+      "ticks": 939,
+      "ms": 232.35,
+      "peakBytes": 101398
+    },
+    {
+      "seed": 70347,
+      "mode": 4,
+      "seconds": 187,
+      "winner": 6,
+      "ticks": 748,
+      "ms": 232.78,
+      "peakBytes": 101958
+    },
+    {
+      "seed": 70348,
+      "mode": 1,
+      "seconds": 182,
+      "winner": 5,
+      "ticks": 728,
+      "ms": 216.73,
+      "peakBytes": 102313
+    },
+    {
+      "seed": 70349,
+      "mode": 2,
+      "seconds": 242.75,
+      "winner": 8,
+      "ticks": 971,
+      "ms": 253.51,
+      "peakBytes": 101229
+    },
+    {
+      "seed": 70350,
+      "mode": 4,
+      "seconds": 264,
+      "winner": 5,
+      "ticks": 1056,
+      "ms": 290.93,
+      "peakBytes": 102285
+    },
+    {
+      "seed": 70351,
+      "mode": 1,
+      "seconds": 305.25,
+      "winner": 25,
+      "ticks": 1221,
+      "ms": 250.49,
+      "peakBytes": 102260
+    },
+    {
+      "seed": 70352,
+      "mode": 2,
+      "seconds": 298.25,
+      "winner": 28,
+      "ticks": 1193,
+      "ms": 306.83,
+      "peakBytes": 102410
+    },
+    {
+      "seed": 70353,
+      "mode": 4,
+      "seconds": 163.75,
+      "winner": 7,
+      "ticks": 655,
+      "ms": 258.49,
+      "peakBytes": 101398
+    },
+    {
+      "seed": 70354,
+      "mode": 1,
+      "seconds": 192.5,
+      "winner": 6,
+      "ticks": 770,
+      "ms": 214.39,
+      "peakBytes": 102405
+    },
+    {
+      "seed": 70355,
+      "mode": 2,
+      "seconds": 210.75,
+      "winner": 18,
+      "ticks": 843,
+      "ms": 210.76,
+      "peakBytes": 102235
+    },
+    {
+      "seed": 70356,
+      "mode": 4,
+      "seconds": 263.75,
+      "winner": 7,
+      "ticks": 1055,
+      "ms": 242.84,
+      "peakBytes": 101820
+    },
+    {
+      "seed": 70357,
+      "mode": 1,
+      "seconds": 258.25,
+      "winner": 1,
+      "ticks": 1033,
+      "ms": 295.52,
+      "peakBytes": 103164
+    },
+    {
+      "seed": 70358,
+      "mode": 2,
+      "seconds": 231.5,
+      "winner": 31,
+      "ticks": 926,
+      "ms": 262.04,
+      "peakBytes": 101277
+    },
+    {
+      "seed": 70359,
+      "mode": 4,
+      "seconds": 215.75,
+      "winner": 14,
+      "ticks": 863,
+      "ms": 255.4,
+      "peakBytes": 97690
+    },
+    {
+      "seed": 70360,
+      "mode": 1,
+      "seconds": 240.5,
+      "winner": 51,
+      "ticks": 962,
+      "ms": 255.57,
+      "peakBytes": 99285
+    },
+    {
+      "seed": 70361,
+      "mode": 2,
+      "seconds": 234.25,
+      "winner": 30,
+      "ticks": 937,
+      "ms": 265.77,
+      "peakBytes": 98440
+    },
+    {
+      "seed": 70362,
+      "mode": 4,
+      "seconds": 265,
+      "winner": 11,
+      "ticks": 1060,
+      "ms": 259.46,
+      "peakBytes": 102311
+    },
+    {
+      "seed": 70363,
+      "mode": 1,
+      "seconds": 189.75,
+      "winner": 25,
+      "ticks": 759,
+      "ms": 225.87,
+      "peakBytes": 103050
+    },
+    {
+      "seed": 70364,
+      "mode": 2,
+      "seconds": 233,
+      "winner": 22,
+      "ticks": 932,
+      "ms": 242.54,
+      "peakBytes": 101540
+    },
+    {
+      "seed": 70365,
+      "mode": 4,
+      "seconds": 226.75,
+      "winner": 7,
+      "ticks": 907,
+      "ms": 306.62,
+      "peakBytes": 99947
+    },
+    {
+      "seed": 70366,
+      "mode": 1,
+      "seconds": 239.75,
+      "winner": 37,
+      "ticks": 959,
+      "ms": 238.91,
+      "peakBytes": 100905
+    },
+    {
+      "seed": 70367,
+      "mode": 2,
+      "seconds": 237.75,
+      "winner": 23,
+      "ticks": 951,
+      "ms": 250.69,
+      "peakBytes": 101901
+    },
+    {
+      "seed": 70368,
+      "mode": 4,
+      "seconds": 259.5,
+      "winner": 11,
+      "ticks": 1038,
+      "ms": 237.05,
+      "peakBytes": 101803
+    },
+    {
+      "seed": 70369,
+      "mode": 1,
+      "seconds": 357.5,
+      "winner": 31,
+      "ticks": 1430,
+      "ms": 250.01,
+      "peakBytes": 101962
+    },
+    {
+      "seed": 70370,
+      "mode": 2,
+      "seconds": 194,
+      "winner": 29,
+      "ticks": 776,
+      "ms": 224.41,
+      "peakBytes": 98973
+    },
+    {
+      "seed": 70371,
+      "mode": 4,
+      "seconds": 306.75,
+      "winner": 12,
+      "ticks": 1227,
+      "ms": 262.01,
+      "peakBytes": 98331
+    },
+    {
+      "seed": 70372,
+      "mode": 1,
+      "seconds": 145.75,
+      "winner": 12,
+      "ticks": 583,
+      "ms": 189.81,
+      "peakBytes": 101098
+    },
+    {
+      "seed": 70373,
+      "mode": 2,
+      "seconds": 339.25,
+      "winner": 17,
+      "ticks": 1357,
+      "ms": 258.32,
+      "peakBytes": 102216
+    },
+    {
+      "seed": 70374,
+      "mode": 4,
+      "seconds": 235.75,
+      "winner": 10,
+      "ticks": 943,
+      "ms": 243.62,
+      "peakBytes": 101005
+    },
+    {
+      "seed": 70375,
+      "mode": 1,
+      "seconds": 179.75,
+      "winner": 59,
+      "ticks": 719,
+      "ms": 190.21,
+      "peakBytes": 101910
+    },
+    {
+      "seed": 70376,
+      "mode": 2,
+      "seconds": 266,
+      "winner": 14,
+      "ticks": 1064,
+      "ms": 269.32,
+      "peakBytes": 101074
+    },
+    {
+      "seed": 70377,
+      "mode": 4,
+      "seconds": 194,
+      "winner": 3,
+      "ticks": 776,
+      "ms": 253.71,
+      "peakBytes": 101686
+    },
+    {
+      "seed": 70378,
+      "mode": 1,
+      "seconds": 233.75,
+      "winner": 41,
+      "ticks": 935,
+      "ms": 207.55,
+      "peakBytes": 101254
+    },
+    {
+      "seed": 70379,
+      "mode": 2,
+      "seconds": 319.75,
+      "winner": 13,
+      "ticks": 1279,
+      "ms": 260.42,
+      "peakBytes": 102540
+    },
+    {
+      "seed": 70380,
+      "mode": 4,
+      "seconds": 242.75,
+      "winner": 8,
+      "ticks": 971,
+      "ms": 278.84,
+      "peakBytes": 102780
+    },
+    {
+      "seed": 70381,
+      "mode": 1,
+      "seconds": 167.75,
+      "winner": 16,
+      "ticks": 671,
+      "ms": 192.67,
+      "peakBytes": 101409
+    },
+    {
+      "seed": 70382,
+      "mode": 2,
+      "seconds": 314.25,
+      "winner": 7,
+      "ticks": 1257,
+      "ms": 230.42,
+      "peakBytes": 102298
+    },
+    {
+      "seed": 70383,
+      "mode": 4,
+      "seconds": 166.25,
+      "winner": 12,
+      "ticks": 665,
+      "ms": 208.77,
+      "peakBytes": 100632
+    },
+    {
+      "seed": 70384,
+      "mode": 1,
+      "seconds": 152,
+      "winner": 9,
+      "ticks": 608,
+      "ms": 187.61,
+      "peakBytes": 102243
+    },
+    {
+      "seed": 70385,
+      "mode": 2,
+      "seconds": 166,
+      "winner": 0,
+      "ticks": 664,
+      "ms": 240.86,
+      "peakBytes": 102174
+    },
+    {
+      "seed": 70386,
+      "mode": 4,
+      "seconds": 235,
+      "winner": 7,
+      "ticks": 940,
+      "ms": 249,
+      "peakBytes": 102015
+    },
+    {
+      "seed": 70387,
+      "mode": 1,
+      "seconds": 219.75,
+      "winner": 44,
+      "ticks": 879,
+      "ms": 237.25,
+      "peakBytes": 101684
+    },
+    {
+      "seed": 70388,
+      "mode": 2,
+      "seconds": 233,
+      "winner": 31,
+      "ticks": 932,
+      "ms": 195.28,
+      "peakBytes": 101984
+    },
+    {
+      "seed": 70389,
+      "mode": 4,
+      "seconds": 303.75,
+      "winner": 11,
+      "ticks": 1215,
+      "ms": 214.08,
+      "peakBytes": 101176
+    },
+    {
+      "seed": 70390,
+      "mode": 1,
+      "seconds": 305.5,
+      "winner": 7,
+      "ticks": 1222,
+      "ms": 201.96,
+      "peakBytes": 98600
+    },
+    {
+      "seed": 70391,
+      "mode": 2,
+      "seconds": 269,
+      "winner": 29,
+      "ticks": 1076,
+      "ms": 206.39,
+      "peakBytes": 101113
+    },
+    {
+      "seed": 70392,
+      "mode": 4,
+      "seconds": 330.25,
+      "winner": 15,
+      "ticks": 1321,
+      "ms": 246.69,
+      "peakBytes": 101533
+    },
+    {
+      "seed": 70393,
+      "mode": 1,
+      "seconds": 148,
+      "winner": 5,
+      "ticks": 592,
+      "ms": 207.58,
+      "peakBytes": 101791
+    },
+    {
+      "seed": 70394,
+      "mode": 2,
+      "seconds": 201,
+      "winner": 16,
+      "ticks": 804,
+      "ms": 222.4,
+      "peakBytes": 100929
+    },
+    {
+      "seed": 70395,
+      "mode": 4,
+      "seconds": 312.25,
+      "winner": 0,
+      "ticks": 1249,
+      "ms": 264.08,
+      "peakBytes": 101333
+    },
+    {
+      "seed": 70396,
+      "mode": 1,
+      "seconds": 268.5,
+      "winner": 55,
+      "ticks": 1074,
+      "ms": 202.66,
+      "peakBytes": 100690
+    },
+    {
+      "seed": 70397,
+      "mode": 2,
+      "seconds": 181,
+      "winner": 21,
+      "ticks": 724,
+      "ms": 221.05,
+      "peakBytes": 101413
+    },
+    {
+      "seed": 70398,
+      "mode": 4,
+      "seconds": 219.5,
+      "winner": 3,
+      "ticks": 878,
+      "ms": 246.19,
+      "peakBytes": 101952
+    },
+    {
+      "seed": 70399,
+      "mode": 1,
+      "seconds": 205.75,
+      "winner": 13,
+      "ticks": 823,
+      "ms": 245.28,
+      "peakBytes": 101549
+    },
+    {
+      "seed": 70400,
+      "mode": 2,
+      "seconds": 532.5,
+      "winner": 26,
+      "ticks": 2130,
+      "ms": 292.03,
+      "peakBytes": 101833
+    },
+    {
+      "seed": 70401,
+      "mode": 4,
+      "seconds": 234.25,
+      "winner": 1,
+      "ticks": 937,
+      "ms": 284.65,
+      "peakBytes": 100810
+    },
+    {
+      "seed": 70402,
+      "mode": 1,
+      "seconds": 254.5,
+      "winner": 33,
+      "ticks": 1018,
+      "ms": 230.78,
+      "peakBytes": 101350
+    },
+    {
+      "seed": 70403,
+      "mode": 2,
+      "seconds": 234.5,
+      "winner": 20,
+      "ticks": 938,
+      "ms": 241.09,
+      "peakBytes": 101425
+    },
+    {
+      "seed": 70404,
+      "mode": 4,
+      "seconds": 314.5,
+      "winner": 15,
+      "ticks": 1258,
+      "ms": 278.57,
+      "peakBytes": 100460
+    },
+    {
+      "seed": 70405,
+      "mode": 1,
+      "seconds": 475.75,
+      "winner": 57,
+      "ticks": 1903,
+      "ms": 278.61,
+      "peakBytes": 102123
+    },
+    {
+      "seed": 70406,
+      "mode": 2,
+      "seconds": 306,
+      "winner": 17,
+      "ticks": 1224,
+      "ms": 263.94,
+      "peakBytes": 101275
+    },
+    {
+      "seed": 70407,
+      "mode": 4,
+      "seconds": 317.25,
+      "winner": 12,
+      "ticks": 1269,
+      "ms": 283.64,
+      "peakBytes": 101600
+    },
+    {
+      "seed": 70408,
+      "mode": 1,
+      "seconds": 202.25,
+      "winner": 26,
+      "ticks": 809,
+      "ms": 221.9,
+      "peakBytes": 102097
+    },
+    {
+      "seed": 70409,
+      "mode": 2,
+      "seconds": 370.75,
+      "winner": 12,
+      "ticks": 1483,
+      "ms": 268.01,
+      "peakBytes": 100970
+    },
+    {
+      "seed": 70410,
+      "mode": 4,
+      "seconds": 240.5,
+      "winner": 9,
+      "ticks": 962,
+      "ms": 229.13,
+      "peakBytes": 100137
+    },
+    {
+      "seed": 70411,
+      "mode": 1,
+      "seconds": 231,
+      "winner": 33,
+      "ticks": 924,
+      "ms": 190.69,
+      "peakBytes": 101495
+    },
+    {
+      "seed": 70412,
+      "mode": 2,
+      "seconds": 232,
+      "winner": 21,
+      "ticks": 928,
+      "ms": 195.36,
+      "peakBytes": 100273
+    },
+    {
+      "seed": 70413,
+      "mode": 4,
+      "seconds": 226.75,
+      "winner": 4,
+      "ticks": 907,
+      "ms": 252.67,
+      "peakBytes": 101725
+    },
+    {
+      "seed": 70414,
+      "mode": 1,
+      "seconds": 297.5,
+      "winner": 34,
+      "ticks": 1190,
+      "ms": 226.81,
+      "peakBytes": 101724
+    },
+    {
+      "seed": 70415,
+      "mode": 2,
+      "seconds": 217.25,
+      "winner": 28,
+      "ticks": 869,
+      "ms": 211.12,
+      "peakBytes": 101300
+    },
+    {
+      "seed": 70416,
+      "mode": 4,
+      "seconds": 182.25,
+      "winner": 2,
+      "ticks": 729,
+      "ms": 249.41,
+      "peakBytes": 101538
+    },
+    {
+      "seed": 70417,
+      "mode": 1,
+      "seconds": 197.75,
+      "winner": 12,
+      "ticks": 791,
+      "ms": 211.23,
+      "peakBytes": 102031
+    },
+    {
+      "seed": 70418,
+      "mode": 2,
+      "seconds": 212.5,
+      "winner": 2,
+      "ticks": 850,
+      "ms": 238.21,
+      "peakBytes": 102044
+    },
+    {
+      "seed": 70419,
+      "mode": 4,
+      "seconds": 233.25,
+      "winner": 6,
+      "ticks": 933,
+      "ms": 239.97,
+      "peakBytes": 98521
+    },
+    {
+      "seed": 70420,
+      "mode": 1,
+      "seconds": 148.25,
+      "winner": 22,
+      "ticks": 593,
+      "ms": 207.65,
+      "peakBytes": 102414
+    },
+    {
+      "seed": 70421,
+      "mode": 2,
+      "seconds": 168,
+      "winner": 28,
+      "ticks": 672,
+      "ms": 218.46,
+      "peakBytes": 101688
+    },
+    {
+      "seed": 70422,
+      "mode": 4,
+      "seconds": 266.5,
+      "winner": 11,
+      "ticks": 1066,
+      "ms": 272.35,
+      "peakBytes": 101572
+    },
+    {
+      "seed": 70423,
+      "mode": 1,
+      "seconds": 240,
+      "winner": 40,
+      "ticks": 960,
+      "ms": 201.29,
+      "peakBytes": 102193
+    },
+    {
+      "seed": 70424,
+      "mode": 2,
+      "seconds": 230,
+      "winner": 20,
+      "ticks": 920,
+      "ms": 242.84,
+      "peakBytes": 101118
+    },
+    {
+      "seed": 70425,
+      "mode": 4,
+      "seconds": 218.25,
+      "winner": 4,
+      "ticks": 873,
+      "ms": 230.03,
+      "peakBytes": 101277
+    },
+    {
+      "seed": 70426,
+      "mode": 1,
+      "seconds": 163.75,
+      "winner": 25,
+      "ticks": 655,
+      "ms": 206.18,
+      "peakBytes": 101685
+    },
+    {
+      "seed": 70427,
+      "mode": 2,
+      "seconds": 232,
+      "winner": 24,
+      "ticks": 928,
+      "ms": 237.87,
+      "peakBytes": 101525
+    },
+    {
+      "seed": 70428,
+      "mode": 4,
+      "seconds": 306.5,
+      "winner": 12,
+      "ticks": 1226,
+      "ms": 263.58,
+      "peakBytes": 102013
+    },
+    {
+      "seed": 70429,
+      "mode": 1,
+      "seconds": 192.25,
+      "winner": 62,
+      "ticks": 769,
+      "ms": 225.4,
+      "peakBytes": 102084
+    },
+    {
+      "seed": 70430,
+      "mode": 2,
+      "seconds": 198.5,
+      "winner": 27,
+      "ticks": 794,
+      "ms": 216.66,
+      "peakBytes": 101585
+    },
+    {
+      "seed": 70431,
+      "mode": 4,
+      "seconds": 247.25,
+      "winner": 10,
+      "ticks": 989,
+      "ms": 233.91,
+      "peakBytes": 100950
+    },
+    {
+      "seed": 70432,
+      "mode": 1,
+      "seconds": 313.25,
+      "winner": 56,
+      "ticks": 1253,
+      "ms": 235.5,
+      "peakBytes": 102651
+    },
+    {
+      "seed": 70433,
+      "mode": 2,
+      "seconds": 238.25,
+      "winner": 19,
+      "ticks": 953,
+      "ms": 221.39,
+      "peakBytes": 100680
+    },
+    {
+      "seed": 70434,
+      "mode": 4,
+      "seconds": 234.25,
+      "winner": 12,
+      "ticks": 937,
+      "ms": 275.72,
+      "peakBytes": 100911
+    },
+    {
+      "seed": 70435,
+      "mode": 1,
+      "seconds": 185,
+      "winner": 47,
+      "ticks": 740,
+      "ms": 221.27,
+      "peakBytes": 101912
+    },
+    {
+      "seed": 70436,
+      "mode": 2,
+      "seconds": 178.5,
+      "winner": 3,
+      "ticks": 714,
+      "ms": 224.74,
+      "peakBytes": 104396
+    },
+    {
+      "seed": 70437,
+      "mode": 4,
+      "seconds": 326.5,
+      "winner": 0,
+      "ticks": 1306,
+      "ms": 312.76,
+      "peakBytes": 104942
+    },
+    {
+      "seed": 70438,
+      "mode": 1,
+      "seconds": 246.25,
+      "winner": 37,
+      "ticks": 985,
+      "ms": 187.93,
+      "peakBytes": 103866
+    },
+    {
+      "seed": 70439,
+      "mode": 2,
+      "seconds": 239.75,
+      "winner": 25,
+      "ticks": 959,
+      "ms": 267.6,
+      "peakBytes": 104378
+    },
+    {
+      "seed": 70440,
+      "mode": 4,
+      "seconds": 173.75,
+      "winner": 3,
+      "ticks": 695,
+      "ms": 253.49,
+      "peakBytes": 103208
+    },
+    {
+      "seed": 70441,
+      "mode": 1,
+      "seconds": 233.5,
+      "winner": 37,
+      "ticks": 934,
+      "ms": 234.68,
+      "peakBytes": 103823
+    },
+    {
+      "seed": 70442,
+      "mode": 2,
+      "seconds": 228.5,
+      "winner": 16,
+      "ticks": 914,
+      "ms": 277.87,
+      "peakBytes": 104189
+    },
+    {
+      "seed": 70443,
+      "mode": 4,
+      "seconds": 173.5,
+      "winner": 14,
+      "ticks": 694,
+      "ms": 283,
+      "peakBytes": 103392
+    },
+    {
+      "seed": 70444,
+      "mode": 1,
+      "seconds": 237.75,
+      "winner": 9,
+      "ticks": 951,
+      "ms": 326.42,
+      "peakBytes": 104656
+    },
+    {
+      "seed": 70445,
+      "mode": 2,
+      "seconds": 224,
+      "winner": 14,
+      "ticks": 896,
+      "ms": 242.68,
+      "peakBytes": 103583
+    },
+    {
+      "seed": 70446,
+      "mode": 4,
+      "seconds": 219.25,
+      "winner": 3,
+      "ticks": 877,
+      "ms": 255.75,
+      "peakBytes": 103103
+    },
+    {
+      "seed": 70447,
+      "mode": 1,
+      "seconds": 150.75,
+      "winner": 60,
+      "ticks": 603,
+      "ms": 201.69,
+      "peakBytes": 104503
+    },
+    {
+      "seed": 70448,
+      "mode": 2,
+      "seconds": 170.5,
+      "winner": 28,
+      "ticks": 682,
+      "ms": 192.18,
+      "peakBytes": 104783
+    },
+    {
+      "seed": 70449,
+      "mode": 4,
+      "seconds": 457.5,
+      "winner": 13,
+      "ticks": 1830,
+      "ms": 282.66,
+      "peakBytes": 104402
+    },
+    {
+      "seed": 70450,
+      "mode": 1,
+      "seconds": 180.25,
+      "winner": 27,
+      "ticks": 721,
+      "ms": 206.41,
+      "peakBytes": 103173
+    },
+    {
+      "seed": 70451,
+      "mode": 2,
+      "seconds": 160.25,
+      "winner": 7,
+      "ticks": 641,
+      "ms": 220.87,
+      "peakBytes": 104360
+    },
+    {
+      "seed": 70452,
+      "mode": 4,
+      "seconds": 324,
+      "winner": 0,
+      "ticks": 1296,
+      "ms": 251.4,
+      "peakBytes": 103907
+    },
+    {
+      "seed": 70453,
+      "mode": 1,
+      "seconds": 205.75,
+      "winner": 15,
+      "ticks": 823,
+      "ms": 235.08,
+      "peakBytes": 105239
+    },
+    {
+      "seed": 70454,
+      "mode": 2,
+      "seconds": 238.75,
+      "winner": 25,
+      "ticks": 955,
+      "ms": 231.97,
+      "peakBytes": 105073
+    },
+    {
+      "seed": 70455,
+      "mode": 4,
+      "seconds": 283,
+      "winner": 8,
+      "ticks": 1132,
+      "ms": 257.97,
+      "peakBytes": 104721
+    },
+    {
+      "seed": 70456,
+      "mode": 1,
+      "seconds": 250,
+      "winner": 55,
+      "ticks": 1000,
+      "ms": 263.81,
+      "peakBytes": 103460
+    },
+    {
+      "seed": 70457,
+      "mode": 2,
+      "seconds": 247,
+      "winner": 21,
+      "ticks": 988,
+      "ms": 231.61,
+      "peakBytes": 107325
+    },
+    {
+      "seed": 70458,
+      "mode": 4,
+      "seconds": 229.25,
+      "winner": 6,
+      "ticks": 917,
+      "ms": 259.18,
+      "peakBytes": 108557
+    },
+    {
+      "seed": 70459,
+      "mode": 1,
+      "seconds": 284.75,
+      "winner": 55,
+      "ticks": 1139,
+      "ms": 230.98,
+      "peakBytes": 106330
+    },
+    {
+      "seed": 70460,
+      "mode": 2,
+      "seconds": 221.75,
+      "winner": 24,
+      "ticks": 887,
+      "ms": 247.45,
+      "peakBytes": 107323
+    },
+    {
+      "seed": 70461,
+      "mode": 4,
+      "seconds": 225,
+      "winner": 1,
+      "ticks": 900,
+      "ms": 235.15,
+      "peakBytes": 107606
+    },
+    {
+      "seed": 70462,
+      "mode": 1,
+      "seconds": 304.25,
+      "winner": 59,
+      "ticks": 1217,
+      "ms": 238.86,
+      "peakBytes": 106325
+    },
+    {
+      "seed": 70463,
+      "mode": 2,
+      "seconds": 196.5,
+      "winner": 19,
+      "ticks": 786,
+      "ms": 201,
+      "peakBytes": 106196
+    },
+    {
+      "seed": 70464,
+      "mode": 4,
+      "seconds": 229.75,
+      "winner": 14,
+      "ticks": 919,
+      "ms": 257.91,
+      "peakBytes": 105147
+    },
+    {
+      "seed": 70465,
+      "mode": 1,
+      "seconds": 205.25,
+      "winner": 35,
+      "ticks": 821,
+      "ms": 203.24,
+      "peakBytes": 106492
+    },
+    {
+      "seed": 70466,
+      "mode": 2,
+      "seconds": 304,
+      "winner": 1,
+      "ticks": 1216,
+      "ms": 275.17,
+      "peakBytes": 105794
+    },
+    {
+      "seed": 70467,
+      "mode": 4,
+      "seconds": 247.25,
+      "winner": 1,
+      "ticks": 989,
+      "ms": 240.79,
+      "peakBytes": 106550
+    },
+    {
+      "seed": 70468,
+      "mode": 1,
+      "seconds": 195.75,
+      "winner": 9,
+      "ticks": 783,
+      "ms": 188.54,
+      "peakBytes": 106247
+    },
+    {
+      "seed": 70469,
+      "mode": 2,
+      "seconds": 241.75,
+      "winner": 24,
+      "ticks": 967,
+      "ms": 209.83,
+      "peakBytes": 105408
+    },
+    {
+      "seed": 70470,
+      "mode": 4,
+      "seconds": 306.25,
+      "winner": 8,
+      "ticks": 1225,
+      "ms": 253.14,
+      "peakBytes": 106027
+    },
+    {
+      "seed": 70471,
+      "mode": 1,
+      "seconds": 296.5,
+      "winner": 1,
+      "ticks": 1186,
+      "ms": 226.09,
+      "peakBytes": 106521
+    },
+    {
+      "seed": 70472,
+      "mode": 2,
+      "seconds": 222,
+      "winner": 8,
+      "ticks": 888,
+      "ms": 231.46,
+      "peakBytes": 106913
+    },
+    {
+      "seed": 70473,
+      "mode": 4,
+      "seconds": 246.25,
+      "winner": 13,
+      "ticks": 985,
+      "ms": 240.41,
+      "peakBytes": 106537
+    },
+    {
+      "seed": 70474,
+      "mode": 1,
+      "seconds": 161.5,
+      "winner": 19,
+      "ticks": 646,
+      "ms": 219.22,
+      "peakBytes": 105675
+    },
+    {
+      "seed": 70475,
+      "mode": 2,
+      "seconds": 197.5,
+      "winner": 4,
+      "ticks": 790,
+      "ms": 214.36,
+      "peakBytes": 106243
+    },
+    {
+      "seed": 70476,
+      "mode": 4,
+      "seconds": 233.5,
+      "winner": 13,
+      "ticks": 934,
+      "ms": 259.71,
+      "peakBytes": 105977
+    },
+    {
+      "seed": 70477,
+      "mode": 1,
+      "seconds": 186.5,
+      "winner": 39,
+      "ticks": 746,
+      "ms": 179.13,
+      "peakBytes": 105213
+    },
+    {
+      "seed": 70478,
+      "mode": 2,
+      "seconds": 201.75,
+      "winner": 3,
+      "ticks": 807,
+      "ms": 224.12,
+      "peakBytes": 106167
+    },
+    {
+      "seed": 70479,
+      "mode": 4,
+      "seconds": 169,
+      "winner": 0,
+      "ticks": 676,
+      "ms": 222.52,
+      "peakBytes": 105435
+    },
+    {
+      "seed": 70480,
+      "mode": 1,
+      "seconds": 156.5,
+      "winner": 39,
+      "ticks": 626,
+      "ms": 178.67,
+      "peakBytes": 105561
+    },
+    {
+      "seed": 70481,
+      "mode": 2,
+      "seconds": 241.25,
+      "winner": 7,
+      "ticks": 965,
+      "ms": 243.75,
+      "peakBytes": 106281
+    },
+    {
+      "seed": 70482,
+      "mode": 4,
+      "seconds": 291.75,
+      "winner": 7,
+      "ticks": 1167,
+      "ms": 263.03,
+      "peakBytes": 105621
+    },
+    {
+      "seed": 70483,
+      "mode": 1,
+      "seconds": 173,
+      "winner": 29,
+      "ticks": 692,
+      "ms": 202.59,
+      "peakBytes": 105955
+    },
+    {
+      "seed": 70484,
+      "mode": 2,
+      "seconds": 371.75,
+      "winner": 12,
+      "ticks": 1487,
+      "ms": 291.96,
+      "peakBytes": 103451
+    },
+    {
+      "seed": 70485,
+      "mode": 4,
+      "seconds": 312.25,
+      "winner": 0,
+      "ticks": 1249,
+      "ms": 254.03,
+      "peakBytes": 104718
+    },
+    {
+      "seed": 70486,
+      "mode": 1,
+      "seconds": 157.75,
+      "winner": 44,
+      "ticks": 631,
+      "ms": 190.78,
+      "peakBytes": 103286
+    },
+    {
+      "seed": 70487,
+      "mode": 2,
+      "seconds": 188,
+      "winner": 19,
+      "ticks": 752,
+      "ms": 194.43,
+      "peakBytes": 104220
+    },
+    {
+      "seed": 70488,
+      "mode": 4,
+      "seconds": 238.75,
+      "winner": 11,
+      "ticks": 955,
+      "ms": 232.46,
+      "peakBytes": 105277
+    },
+    {
+      "seed": 70489,
+      "mode": 1,
+      "seconds": 229,
+      "winner": 33,
+      "ticks": 916,
+      "ms": 214.38,
+      "peakBytes": 106151
+    },
+    {
+      "seed": 70490,
+      "mode": 2,
+      "seconds": 221.25,
+      "winner": 29,
+      "ticks": 885,
+      "ms": 214.37,
+      "peakBytes": 105238
+    },
+    {
+      "seed": 70491,
+      "mode": 4,
+      "seconds": 309.5,
+      "winner": 13,
+      "ticks": 1238,
+      "ms": 232.45,
+      "peakBytes": 105452
+    },
+    {
+      "seed": 70492,
+      "mode": 1,
+      "seconds": 203,
+      "winner": 21,
+      "ticks": 812,
+      "ms": 213.23,
+      "peakBytes": 106391
+    },
+    {
+      "seed": 70493,
+      "mode": 2,
+      "seconds": 309.25,
+      "winner": 15,
+      "ticks": 1237,
+      "ms": 237.57,
+      "peakBytes": 105442
+    },
+    {
+      "seed": 70494,
+      "mode": 4,
+      "seconds": 217.75,
+      "winner": 10,
+      "ticks": 871,
+      "ms": 218.07,
+      "peakBytes": 105093
+    },
+    {
+      "seed": 70495,
+      "mode": 1,
+      "seconds": 232,
+      "winner": 54,
+      "ticks": 928,
+      "ms": 209.09,
+      "peakBytes": 105414
+    },
+    {
+      "seed": 70496,
+      "mode": 2,
+      "seconds": 174.25,
+      "winner": 14,
+      "ticks": 697,
+      "ms": 187.29,
+      "peakBytes": 105131
+    },
+    {
+      "seed": 70497,
+      "mode": 4,
+      "seconds": 315,
+      "winner": 1,
+      "ticks": 1260,
+      "ms": 295.91,
+      "peakBytes": 104505
+    },
+    {
+      "seed": 70498,
+      "mode": 1,
+      "seconds": 233.5,
+      "winner": 5,
+      "ticks": 934,
+      "ms": 241.68,
+      "peakBytes": 105645
+    },
+    {
+      "seed": 70499,
+      "mode": 2,
+      "seconds": 213.25,
+      "winner": 9,
+      "ticks": 853,
+      "ms": 258.88,
+      "peakBytes": 106867
+    },
+    {
+      "seed": 70500,
+      "mode": 4,
+      "seconds": 312.25,
+      "winner": 2,
+      "ticks": 1249,
+      "ms": 247.18,
+      "peakBytes": 104888
+    },
+    {
+      "seed": 70501,
+      "mode": 1,
+      "seconds": 240.25,
+      "winner": 42,
+      "ticks": 961,
+      "ms": 211.19,
+      "peakBytes": 106481
+    },
+    {
+      "seed": 70502,
+      "mode": 2,
+      "seconds": 239,
+      "winner": 16,
+      "ticks": 956,
+      "ms": 254.28,
+      "peakBytes": 105517
+    },
+    {
+      "seed": 70503,
+      "mode": 4,
+      "seconds": 218,
+      "winner": 12,
+      "ticks": 872,
+      "ms": 237.37,
+      "peakBytes": 104927
+    },
+    {
+      "seed": 70504,
+      "mode": 1,
+      "seconds": 182.75,
+      "winner": 62,
+      "ticks": 731,
+      "ms": 213.05,
+      "peakBytes": 105495
+    },
+    {
+      "seed": 70505,
+      "mode": 2,
+      "seconds": 215,
+      "winner": 27,
+      "ticks": 860,
+      "ms": 205.35,
+      "peakBytes": 105241
+    },
+    {
+      "seed": 70506,
+      "mode": 4,
+      "seconds": 259.25,
+      "winner": 4,
+      "ticks": 1037,
+      "ms": 267.94,
+      "peakBytes": 107132
+    },
+    {
+      "seed": 70507,
+      "mode": 1,
+      "seconds": 230,
+      "winner": 34,
+      "ticks": 920,
+      "ms": 206.18,
+      "peakBytes": 105021
+    },
+    {
+      "seed": 70508,
+      "mode": 2,
+      "seconds": 293.5,
+      "winner": 12,
+      "ticks": 1174,
+      "ms": 240.87,
+      "peakBytes": 104218
+    },
+    {
+      "seed": 70509,
+      "mode": 4,
+      "seconds": 312.25,
+      "winner": 14,
+      "ticks": 1249,
+      "ms": 252.55,
+      "peakBytes": 105947
+    },
+    {
+      "seed": 70510,
+      "mode": 1,
+      "seconds": 242.75,
+      "winner": 31,
+      "ticks": 971,
+      "ms": 208.92,
+      "peakBytes": 107122
+    },
+    {
+      "seed": 70511,
+      "mode": 2,
+      "seconds": 240.25,
+      "winner": 27,
+      "ticks": 961,
+      "ms": 227.93,
+      "peakBytes": 104986
+    },
+    {
+      "seed": 70512,
+      "mode": 4,
+      "seconds": 163.5,
+      "winner": 1,
+      "ticks": 654,
+      "ms": 196.13,
+      "peakBytes": 105305
+    },
+    {
+      "seed": 70513,
+      "mode": 1,
+      "seconds": 226.75,
+      "winner": 9,
+      "ticks": 907,
+      "ms": 202.28,
+      "peakBytes": 106133
+    },
+    {
+      "seed": 70514,
+      "mode": 2,
+      "seconds": 251.5,
+      "winner": 10,
+      "ticks": 1006,
+      "ms": 216.55,
+      "peakBytes": 106609
+    },
+    {
+      "seed": 70515,
+      "mode": 4,
+      "seconds": 180.25,
+      "winner": 0,
+      "ticks": 721,
+      "ms": 228.72,
+      "peakBytes": 105973
+    },
+    {
+      "seed": 70516,
+      "mode": 1,
+      "seconds": 154,
+      "winner": 21,
+      "ticks": 616,
+      "ms": 175.7,
+      "peakBytes": 105665
+    },
+    {
+      "seed": 70517,
+      "mode": 2,
+      "seconds": 143.25,
+      "winner": 13,
+      "ticks": 573,
+      "ms": 191.88,
+      "peakBytes": 106267
+    },
+    {
+      "seed": 70518,
+      "mode": 4,
+      "seconds": 190.25,
+      "winner": 14,
+      "ticks": 761,
+      "ms": 205.48,
+      "peakBytes": 105903
+    },
+    {
+      "seed": 70519,
+      "mode": 1,
+      "seconds": 138.75,
+      "winner": 48,
+      "ticks": 555,
+      "ms": 189.29,
+      "peakBytes": 106301
+    },
+    {
+      "seed": 70520,
+      "mode": 2,
+      "seconds": 202,
+      "winner": 3,
+      "ticks": 808,
+      "ms": 199.8,
+      "peakBytes": 106293
+    },
+    {
+      "seed": 70521,
+      "mode": 4,
+      "seconds": 230,
+      "winner": 1,
+      "ticks": 920,
+      "ms": 246.61,
+      "peakBytes": 105377
+    },
+    {
+      "seed": 70522,
+      "mode": 1,
+      "seconds": 287,
+      "winner": 19,
+      "ticks": 1148,
+      "ms": 187.44,
+      "peakBytes": 105958
+    },
+    {
+      "seed": 70523,
+      "mode": 2,
+      "seconds": 214.75,
+      "winner": 21,
+      "ticks": 859,
+      "ms": 210.08,
+      "peakBytes": 105786
+    },
+    {
+      "seed": 70524,
+      "mode": 4,
+      "seconds": 228,
+      "winner": 9,
+      "ticks": 912,
+      "ms": 205.68,
+      "peakBytes": 105241
+    },
+    {
+      "seed": 70525,
+      "mode": 1,
+      "seconds": 153.75,
+      "winner": 17,
+      "ticks": 615,
+      "ms": 167.11,
+      "peakBytes": 106571
+    },
+    {
+      "seed": 70526,
+      "mode": 2,
+      "seconds": 310.25,
+      "winner": 12,
+      "ticks": 1241,
+      "ms": 243.66,
+      "peakBytes": 104680
+    },
+    {
+      "seed": 70527,
+      "mode": 4,
+      "seconds": 192.75,
+      "winner": 6,
+      "ticks": 771,
+      "ms": 239.78,
+      "peakBytes": 105415
+    },
+    {
+      "seed": 70528,
+      "mode": 1,
+      "seconds": 159.5,
+      "winner": 24,
+      "ticks": 638,
+      "ms": 202.94,
+      "peakBytes": 107638
+    },
+    {
+      "seed": 70529,
+      "mode": 2,
+      "seconds": 175.5,
+      "winner": 18,
+      "ticks": 702,
+      "ms": 194.97,
+      "peakBytes": 105456
+    },
+    {
+      "seed": 70530,
+      "mode": 4,
+      "seconds": 310.75,
+      "winner": 7,
+      "ticks": 1243,
+      "ms": 257.2,
+      "peakBytes": 104226
+    },
+    {
+      "seed": 70531,
+      "mode": 1,
+      "seconds": 196.25,
+      "winner": 41,
+      "ticks": 785,
+      "ms": 213.41,
+      "peakBytes": 106008
+    },
+    {
+      "seed": 70532,
+      "mode": 2,
+      "seconds": 159.5,
+      "winner": 8,
+      "ticks": 638,
+      "ms": 181.17,
+      "peakBytes": 105045
+    },
+    {
+      "seed": 70533,
+      "mode": 4,
+      "seconds": 436,
+      "winner": 12,
+      "ticks": 1744,
+      "ms": 253.2,
+      "peakBytes": 103303
+    },
+    {
+      "seed": 70534,
+      "mode": 1,
+      "seconds": 191.5,
+      "winner": 39,
+      "ticks": 766,
+      "ms": 184.27,
+      "peakBytes": 105078
+    },
+    {
+      "seed": 70535,
+      "mode": 2,
+      "seconds": 272.5,
+      "winner": 10,
+      "ticks": 1090,
+      "ms": 207.06,
+      "peakBytes": 105808
+    },
+    {
+      "seed": 70536,
+      "mode": 4,
+      "seconds": 236.5,
+      "winner": 11,
+      "ticks": 946,
+      "ms": 225.54,
+      "peakBytes": 105187
+    },
+    {
+      "seed": 70537,
+      "mode": 1,
+      "seconds": 165.75,
+      "winner": 13,
+      "ticks": 663,
+      "ms": 188.92,
+      "peakBytes": 105279
+    },
+    {
+      "seed": 70538,
+      "mode": 2,
+      "seconds": 180.75,
+      "winner": 14,
+      "ticks": 723,
+      "ms": 210.47,
+      "peakBytes": 105511
+    },
+    {
+      "seed": 70539,
+      "mode": 4,
+      "seconds": 196.25,
+      "winner": 6,
+      "ticks": 785,
+      "ms": 206.73,
+      "peakBytes": 105357
+    },
+    {
+      "seed": 70540,
+      "mode": 1,
+      "seconds": 166.25,
+      "winner": 19,
+      "ticks": 665,
+      "ms": 192.1,
+      "peakBytes": 105802
+    },
+    {
+      "seed": 70541,
+      "mode": 2,
+      "seconds": 141.75,
+      "winner": 6,
+      "ticks": 567,
+      "ms": 189.14,
+      "peakBytes": 105480
+    },
+    {
+      "seed": 70542,
+      "mode": 4,
+      "seconds": 191,
+      "winner": 1,
+      "ticks": 764,
+      "ms": 201.04,
+      "peakBytes": 104632
+    },
+    {
+      "seed": 70543,
+      "mode": 1,
+      "seconds": 238.25,
+      "winner": 0,
+      "ticks": 953,
+      "ms": 203.09,
+      "peakBytes": 105288
+    },
+    {
+      "seed": 70544,
+      "mode": 2,
+      "seconds": 240.75,
+      "winner": 16,
+      "ticks": 963,
+      "ms": 210.27,
+      "peakBytes": 106504
+    },
+    {
+      "seed": 70545,
+      "mode": 4,
+      "seconds": 192.5,
+      "winner": 14,
+      "ticks": 770,
+      "ms": 224.69,
+      "peakBytes": 104378
+    },
+    {
+      "seed": 70546,
+      "mode": 1,
+      "seconds": 263.5,
+      "winner": 25,
+      "ticks": 1054,
+      "ms": 181.63,
+      "peakBytes": 104942
+    },
+    {
+      "seed": 70547,
+      "mode": 2,
+      "seconds": 186.75,
+      "winner": 29,
+      "ticks": 747,
+      "ms": 182.62,
+      "peakBytes": 105013
+    },
+    {
+      "seed": 70548,
+      "mode": 4,
+      "seconds": 263.5,
+      "winner": 11,
+      "ticks": 1054,
+      "ms": 213.94,
+      "peakBytes": 105311
+    },
+    {
+      "seed": 70549,
+      "mode": 1,
+      "seconds": 162.5,
+      "winner": 40,
+      "ticks": 650,
+      "ms": 185.14,
+      "peakBytes": 105190
+    },
+    {
+      "seed": 70550,
+      "mode": 2,
+      "seconds": 314.5,
+      "winner": 14,
+      "ticks": 1258,
+      "ms": 218.11,
+      "peakBytes": 105712
+    },
+    {
+      "seed": 70551,
+      "mode": 4,
+      "seconds": 177.5,
+      "winner": 15,
+      "ticks": 710,
+      "ms": 226.46,
+      "peakBytes": 105231
+    },
+    {
+      "seed": 70552,
+      "mode": 1,
+      "seconds": 315.75,
+      "winner": 56,
+      "ticks": 1263,
+      "ms": 204.89,
+      "peakBytes": 105595
+    },
+    {
+      "seed": 70553,
+      "mode": 2,
+      "seconds": 228.75,
+      "winner": 29,
+      "ticks": 915,
+      "ms": 215.57,
+      "peakBytes": 105208
+    },
+    {
+      "seed": 70554,
+      "mode": 4,
+      "seconds": 194.5,
+      "winner": 15,
+      "ticks": 778,
+      "ms": 206.98,
+      "peakBytes": 105615
+    },
+    {
+      "seed": 70555,
+      "mode": 1,
+      "seconds": 230.5,
+      "winner": 26,
+      "ticks": 922,
+      "ms": 188.44,
+      "peakBytes": 105741
+    },
+    {
+      "seed": 70556,
+      "mode": 2,
+      "seconds": 224.5,
+      "winner": 20,
+      "ticks": 898,
+      "ms": 185.86,
+      "peakBytes": 104223
+    },
+    {
+      "seed": 70557,
+      "mode": 4,
+      "seconds": 225,
+      "winner": 8,
+      "ticks": 900,
+      "ms": 231.01,
+      "peakBytes": 106414
+    },
+    {
+      "seed": 70558,
+      "mode": 1,
+      "seconds": 218.25,
+      "winner": 40,
+      "ticks": 873,
+      "ms": 191.29,
+      "peakBytes": 105959
+    },
+    {
+      "seed": 70559,
+      "mode": 2,
+      "seconds": 313,
+      "winner": 3,
+      "ticks": 1252,
+      "ms": 200.39,
+      "peakBytes": 106843
+    },
+    {
+      "seed": 70560,
+      "mode": 4,
+      "seconds": 266.25,
+      "winner": 6,
+      "ticks": 1065,
+      "ms": 193.58,
+      "peakBytes": 105432
+    },
+    {
+      "seed": 70561,
+      "mode": 1,
+      "seconds": 177.25,
+      "winner": 51,
+      "ticks": 709,
+      "ms": 176.05,
+      "peakBytes": 105995
+    },
+    {
+      "seed": 70562,
+      "mode": 2,
+      "seconds": 290.75,
+      "winner": 25,
+      "ticks": 1163,
+      "ms": 189.31,
+      "peakBytes": 106631
+    },
+    {
+      "seed": 70563,
+      "mode": 4,
+      "seconds": 227.75,
+      "winner": 5,
+      "ticks": 911,
+      "ms": 218,
+      "peakBytes": 104449
+    },
+    {
+      "seed": 70564,
+      "mode": 1,
+      "seconds": 169,
+      "winner": 3,
+      "ticks": 676,
+      "ms": 206.97,
+      "peakBytes": 106739
+    },
+    {
+      "seed": 70565,
+      "mode": 2,
+      "seconds": 168.5,
+      "winner": 23,
+      "ticks": 674,
+      "ms": 194.23,
+      "peakBytes": 105201
+    },
+    {
+      "seed": 70566,
+      "mode": 4,
+      "seconds": 207,
+      "winner": 0,
+      "ticks": 828,
+      "ms": 211.92,
+      "peakBytes": 105228
+    },
+    {
+      "seed": 70567,
+      "mode": 1,
+      "seconds": 245,
+      "winner": 27,
+      "ticks": 980,
+      "ms": 202.38,
+      "peakBytes": 105373
+    },
+    {
+      "seed": 70568,
+      "mode": 2,
+      "seconds": 322.5,
+      "winner": 30,
+      "ticks": 1290,
+      "ms": 212.08,
+      "peakBytes": 105105
+    },
+    {
+      "seed": 70569,
+      "mode": 4,
+      "seconds": 359.25,
+      "winner": 8,
+      "ticks": 1437,
+      "ms": 292.65,
+      "peakBytes": 105897
+    },
+    {
+      "seed": 70570,
+      "mode": 1,
+      "seconds": 126.25,
+      "winner": 19,
+      "ticks": 505,
+      "ms": 189.53,
+      "peakBytes": 107690
+    },
+    {
+      "seed": 70571,
+      "mode": 2,
+      "seconds": 177.25,
+      "winner": 3,
+      "ticks": 709,
+      "ms": 203.27,
+      "peakBytes": 107056
+    },
+    {
+      "seed": 70572,
+      "mode": 4,
+      "seconds": 179,
+      "winner": 8,
+      "ticks": 716,
+      "ms": 238.74,
+      "peakBytes": 106761
+    },
+    {
+      "seed": 70573,
+      "mode": 1,
+      "seconds": 184.75,
+      "winner": 3,
+      "ticks": 739,
+      "ms": 231.07,
+      "peakBytes": 107345
+    },
+    {
+      "seed": 70574,
+      "mode": 2,
+      "seconds": 312.75,
+      "winner": 18,
+      "ticks": 1251,
+      "ms": 231.21,
+      "peakBytes": 106700
+    },
+    {
+      "seed": 70575,
+      "mode": 4,
+      "seconds": 163.75,
+      "winner": 2,
+      "ticks": 655,
+      "ms": 175.55,
+      "peakBytes": 106128
+    },
+    {
+      "seed": 70576,
+      "mode": 1,
+      "seconds": 188.75,
+      "winner": 13,
+      "ticks": 755,
+      "ms": 172.05,
+      "peakBytes": 103804
+    },
+    {
+      "seed": 70577,
+      "mode": 2,
+      "seconds": 193.5,
+      "winner": 5,
+      "ticks": 774,
+      "ms": 199.92,
+      "peakBytes": 104301
+    },
+    {
+      "seed": 70578,
+      "mode": 4,
+      "seconds": 297,
+      "winner": 11,
+      "ticks": 1188,
+      "ms": 231.95,
+      "peakBytes": 104624
+    },
+    {
+      "seed": 70579,
+      "mode": 1,
+      "seconds": 183.25,
+      "winner": 6,
+      "ticks": 733,
+      "ms": 193.32,
+      "peakBytes": 104172
+    },
+    {
+      "seed": 70580,
+      "mode": 2,
+      "seconds": 151.25,
+      "winner": 10,
+      "ticks": 605,
+      "ms": 154.46,
+      "peakBytes": 104078
+    },
+    {
+      "seed": 70581,
+      "mode": 4,
+      "seconds": 214.75,
+      "winner": 10,
+      "ticks": 859,
+      "ms": 172.35,
+      "peakBytes": 103749
+    },
+    {
+      "seed": 70582,
+      "mode": 1,
+      "seconds": 235.5,
+      "winner": 13,
+      "ticks": 942,
+      "ms": 175.13,
+      "peakBytes": 104724
+    },
+    {
+      "seed": 70583,
+      "mode": 2,
+      "seconds": 232.75,
+      "winner": 18,
+      "ticks": 931,
+      "ms": 201.86,
+      "peakBytes": 103380
+    },
+    {
+      "seed": 70584,
+      "mode": 4,
+      "seconds": 235.25,
+      "winner": 4,
+      "ticks": 941,
+      "ms": 175.87,
+      "peakBytes": 105300
+    },
+    {
+      "seed": 70585,
+      "mode": 1,
+      "seconds": 247.25,
+      "winner": 19,
+      "ticks": 989,
+      "ms": 204.54,
+      "peakBytes": 104854
+    },
+    {
+      "seed": 70586,
+      "mode": 2,
+      "seconds": 315,
+      "winner": 7,
+      "ticks": 1260,
+      "ms": 207.7,
+      "peakBytes": 104970
+    },
+    {
+      "seed": 70587,
+      "mode": 4,
+      "seconds": 173.75,
+      "winner": 3,
+      "ticks": 695,
+      "ms": 197.85,
+      "peakBytes": 104247
+    },
+    {
+      "seed": 70588,
+      "mode": 1,
+      "seconds": 190.5,
+      "winner": 10,
+      "ticks": 762,
+      "ms": 165.72,
+      "peakBytes": 103593
+    },
+    {
+      "seed": 70589,
+      "mode": 2,
+      "seconds": 185.5,
+      "winner": 0,
+      "ticks": 742,
+      "ms": 165.7,
+      "peakBytes": 103031
+    },
+    {
+      "seed": 70590,
+      "mode": 4,
+      "seconds": 154.25,
+      "winner": 0,
+      "ticks": 617,
+      "ms": 176.08,
+      "peakBytes": 105192
+    },
+    {
+      "seed": 70591,
+      "mode": 1,
+      "seconds": 158.5,
+      "winner": 31,
+      "ticks": 634,
+      "ms": 163.98,
+      "peakBytes": 105635
+    },
+    {
+      "seed": 70592,
+      "mode": 2,
+      "seconds": 311.25,
+      "winner": 17,
+      "ticks": 1245,
+      "ms": 203.36,
+      "peakBytes": 105241
+    },
+    {
+      "seed": 70593,
+      "mode": 4,
+      "seconds": 118.25,
+      "winner": 7,
+      "ticks": 473,
+      "ms": 157.91,
+      "peakBytes": 104617
+    },
+    {
+      "seed": 70594,
+      "mode": 1,
+      "seconds": 163,
+      "winner": 25,
+      "ticks": 652,
+      "ms": 152.35,
+      "peakBytes": 106028
+    },
+    {
+      "seed": 70595,
+      "mode": 2,
+      "seconds": 237.25,
+      "winner": 22,
+      "ticks": 949,
+      "ms": 180.31,
+      "peakBytes": 104776
+    },
+    {
+      "seed": 70596,
+      "mode": 4,
+      "seconds": 175,
+      "winner": 15,
+      "ticks": 700,
+      "ms": 196.1,
+      "peakBytes": 105522
+    },
+    {
+      "seed": 70597,
+      "mode": 1,
+      "seconds": 401,
+      "winner": 41,
+      "ticks": 1604,
+      "ms": 194.74,
+      "peakBytes": 104753
+    },
+    {
+      "seed": 70598,
+      "mode": 2,
+      "seconds": 319,
+      "winner": 21,
+      "ticks": 1276,
+      "ms": 233.1,
+      "peakBytes": 105592
+    },
+    {
+      "seed": 70599,
+      "mode": 4,
+      "seconds": 338.25,
+      "winner": 14,
+      "ticks": 1353,
+      "ms": 258.86,
+      "peakBytes": 104466
+    },
+    {
+      "seed": 70600,
+      "mode": 1,
+      "seconds": 235.75,
+      "winner": 53,
+      "ticks": 943,
+      "ms": 312.85,
+      "peakBytes": 102306
+    },
+    {
+      "seed": 70601,
+      "mode": 2,
+      "seconds": 181.25,
+      "winner": 26,
+      "ticks": 725,
+      "ms": 246.35,
+      "peakBytes": 102465
+    },
+    {
+      "seed": 70602,
+      "mode": 4,
+      "seconds": 250,
+      "winner": 13,
+      "ticks": 1000,
+      "ms": 260.88,
+      "peakBytes": 103549
+    },
+    {
+      "seed": 70603,
+      "mode": 1,
+      "seconds": 284.25,
+      "winner": 47,
+      "ticks": 1137,
+      "ms": 230.05,
+      "peakBytes": 102764
+    },
+    {
+      "seed": 70604,
+      "mode": 2,
+      "seconds": 305,
+      "winner": 23,
+      "ticks": 1220,
+      "ms": 237.69,
+      "peakBytes": 102947
+    },
+    {
+      "seed": 70605,
+      "mode": 4,
+      "seconds": 151.25,
+      "winner": 5,
+      "ticks": 605,
+      "ms": 178.87,
+      "peakBytes": 102560
+    },
+    {
+      "seed": 70606,
+      "mode": 1,
+      "seconds": 164.25,
+      "winner": 38,
+      "ticks": 657,
+      "ms": 184.13,
+      "peakBytes": 101951
+    },
+    {
+      "seed": 70607,
+      "mode": 2,
+      "seconds": 149.25,
+      "winner": 12,
+      "ticks": 597,
+      "ms": 174.1,
+      "peakBytes": 101890
+    },
+    {
+      "seed": 70608,
+      "mode": 4,
+      "seconds": 232.25,
+      "winner": 2,
+      "ticks": 929,
+      "ms": 219.72,
+      "peakBytes": 101321
+    },
+    {
+      "seed": 70609,
+      "mode": 1,
+      "seconds": 137.5,
+      "winner": 27,
+      "ticks": 550,
+      "ms": 184.16,
+      "peakBytes": 102248
+    },
+    {
+      "seed": 70610,
+      "mode": 2,
+      "seconds": 156,
+      "winner": 10,
+      "ticks": 624,
+      "ms": 170.98,
+      "peakBytes": 102579
+    },
+    {
+      "seed": 70611,
+      "mode": 4,
+      "seconds": 450,
+      "winner": 5,
+      "ticks": 1800,
+      "ms": 259.65,
+      "peakBytes": 102604
+    },
+    {
+      "seed": 70612,
+      "mode": 1,
+      "seconds": 304.25,
+      "winner": 53,
+      "ticks": 1217,
+      "ms": 188.3,
+      "peakBytes": 102065
+    },
+    {
+      "seed": 70613,
+      "mode": 2,
+      "seconds": 128,
+      "winner": 3,
+      "ticks": 512,
+      "ms": 160.27,
+      "peakBytes": 102382
+    },
+    {
+      "seed": 70614,
+      "mode": 4,
+      "seconds": 161.25,
+      "winner": 3,
+      "ticks": 645,
+      "ms": 191.49,
+      "peakBytes": 101611
+    },
+    {
+      "seed": 70615,
+      "mode": 1,
+      "seconds": 172,
+      "winner": 42,
+      "ticks": 688,
+      "ms": 161.26,
+      "peakBytes": 102682
+    },
+    {
+      "seed": 70616,
+      "mode": 2,
+      "seconds": 187,
+      "winner": 7,
+      "ticks": 748,
+      "ms": 182.43,
+      "peakBytes": 101663
+    },
+    {
+      "seed": 70617,
+      "mode": 4,
+      "seconds": 242.75,
+      "winner": 1,
+      "ticks": 971,
+      "ms": 201.23,
+      "peakBytes": 101097
+    },
+    {
+      "seed": 70618,
+      "mode": 1,
+      "seconds": 143.25,
+      "winner": 34,
+      "ticks": 573,
+      "ms": 164.93,
+      "peakBytes": 102433
+    },
+    {
+      "seed": 70619,
+      "mode": 2,
+      "seconds": 186.5,
+      "winner": 18,
+      "ticks": 746,
+      "ms": 179.9,
+      "peakBytes": 101496
+    },
+    {
+      "seed": 70620,
+      "mode": 4,
+      "seconds": 250.5,
+      "winner": 0,
+      "ticks": 1002,
+      "ms": 218.26,
+      "peakBytes": 102063
+    },
+    {
+      "seed": 70621,
+      "mode": 1,
+      "seconds": 198.25,
+      "winner": 1,
+      "ticks": 793,
+      "ms": 166.53,
+      "peakBytes": 102355
+    },
+    {
+      "seed": 70622,
+      "mode": 2,
+      "seconds": 277.25,
+      "winner": 11,
+      "ticks": 1109,
+      "ms": 202.19,
+      "peakBytes": 102360
+    },
+    {
+      "seed": 70623,
+      "mode": 4,
+      "seconds": 178,
+      "winner": 5,
+      "ticks": 712,
+      "ms": 187.36,
+      "peakBytes": 101804
+    },
+    {
+      "seed": 70624,
+      "mode": 1,
+      "seconds": 311.25,
+      "winner": 37,
+      "ticks": 1245,
+      "ms": 190.18,
+      "peakBytes": 102809
+    },
+    {
+      "seed": 70625,
+      "mode": 2,
+      "seconds": 262.25,
+      "winner": 8,
+      "ticks": 1049,
+      "ms": 190.38,
+      "peakBytes": 102862
+    },
+    {
+      "seed": 70626,
+      "mode": 4,
+      "seconds": 272.75,
+      "winner": 12,
+      "ticks": 1091,
+      "ms": 213.58,
+      "peakBytes": 102620
+    },
+    {
+      "seed": 70627,
+      "mode": 1,
+      "seconds": 306.75,
+      "winner": 28,
+      "ticks": 1227,
+      "ms": 193.67,
+      "peakBytes": 101779
+    },
+    {
+      "seed": 70628,
+      "mode": 2,
+      "seconds": 233,
+      "winner": 10,
+      "ticks": 932,
+      "ms": 184.39,
+      "peakBytes": 101739
+    },
+    {
+      "seed": 70629,
+      "mode": 4,
+      "seconds": 165.5,
+      "winner": 11,
+      "ticks": 662,
+      "ms": 186.49,
+      "peakBytes": 102242
+    },
+    {
+      "seed": 70630,
+      "mode": 1,
+      "seconds": 189.25,
+      "winner": 29,
+      "ticks": 757,
+      "ms": 144.68,
+      "peakBytes": 103069
+    },
+    {
+      "seed": 70631,
+      "mode": 2,
+      "seconds": 311,
+      "winner": 18,
+      "ticks": 1244,
+      "ms": 206.54,
+      "peakBytes": 100036
+    },
+    {
+      "seed": 70632,
+      "mode": 4,
+      "seconds": 173.5,
+      "winner": 13,
+      "ticks": 694,
+      "ms": 183.04,
+      "peakBytes": 103018
+    },
+    {
+      "seed": 70633,
+      "mode": 1,
+      "seconds": 193.75,
+      "winner": 27,
+      "ticks": 775,
+      "ms": 175.89,
+      "peakBytes": 102764
+    },
+    {
+      "seed": 70634,
+      "mode": 2,
+      "seconds": 240.75,
+      "winner": 16,
+      "ticks": 963,
+      "ms": 210.88,
+      "peakBytes": 102465
+    },
+    {
+      "seed": 70635,
+      "mode": 4,
+      "seconds": 250.25,
+      "winner": 5,
+      "ticks": 1001,
+      "ms": 185.61,
+      "peakBytes": 102971
+    },
+    {
+      "seed": 70636,
+      "mode": 1,
+      "seconds": 234.5,
+      "winner": 31,
+      "ticks": 938,
+      "ms": 194.75,
+      "peakBytes": 103108
+    },
+    {
+      "seed": 70637,
+      "mode": 2,
+      "seconds": 205.75,
+      "winner": 17,
+      "ticks": 823,
+      "ms": 177.6,
+      "peakBytes": 102436
+    },
+    {
+      "seed": 70638,
+      "mode": 4,
+      "seconds": 246.25,
+      "winner": 5,
+      "ticks": 985,
+      "ms": 228.74,
+      "peakBytes": 101494
+    },
+    {
+      "seed": 70639,
+      "mode": 1,
+      "seconds": 236.75,
+      "winner": 5,
+      "ticks": 947,
+      "ms": 183.85,
+      "peakBytes": 103150
+    },
+    {
+      "seed": 70640,
+      "mode": 2,
+      "seconds": 235.25,
+      "winner": 12,
+      "ticks": 941,
+      "ms": 184.76,
+      "peakBytes": 100947
+    },
+    {
+      "seed": 70641,
+      "mode": 4,
+      "seconds": 239.25,
+      "winner": 10,
+      "ticks": 957,
+      "ms": 202.88,
+      "peakBytes": 100795
+    },
+    {
+      "seed": 70642,
+      "mode": 1,
+      "seconds": 284.5,
+      "winner": 21,
+      "ticks": 1138,
+      "ms": 202.05,
+      "peakBytes": 102408
+    },
+    {
+      "seed": 70643,
+      "mode": 2,
+      "seconds": 242,
+      "winner": 25,
+      "ticks": 968,
+      "ms": 185.99,
+      "peakBytes": 103536
+    },
+    {
+      "seed": 70644,
+      "mode": 4,
+      "seconds": 354.75,
+      "winner": 9,
+      "ticks": 1419,
+      "ms": 230.87,
+      "peakBytes": 101497
+    },
+    {
+      "seed": 70645,
+      "mode": 1,
+      "seconds": 183.25,
+      "winner": 34,
+      "ticks": 733,
+      "ms": 159.14,
+      "peakBytes": 101738
+    },
+    {
+      "seed": 70646,
+      "mode": 2,
+      "seconds": 232.25,
+      "winner": 15,
+      "ticks": 929,
+      "ms": 180.49,
+      "peakBytes": 103012
+    },
+    {
+      "seed": 70647,
+      "mode": 4,
+      "seconds": 129.25,
+      "winner": 6,
+      "ticks": 517,
+      "ms": 159.96,
+      "peakBytes": 101292
+    },
+    {
+      "seed": 70648,
+      "mode": 1,
+      "seconds": 172.75,
+      "winner": 27,
+      "ticks": 691,
+      "ms": 173.03,
+      "peakBytes": 102586
+    },
+    {
+      "seed": 70649,
+      "mode": 2,
+      "seconds": 230.25,
+      "winner": 2,
+      "ticks": 921,
+      "ms": 176.47,
+      "peakBytes": 103275
+    },
+    {
+      "seed": 70650,
+      "mode": 4,
+      "seconds": 242.5,
+      "winner": 3,
+      "ticks": 970,
+      "ms": 203.01,
+      "peakBytes": 102178
+    },
+    {
+      "seed": 70651,
+      "mode": 1,
+      "seconds": 247,
+      "winner": 12,
+      "ticks": 988,
+      "ms": 172.46,
+      "peakBytes": 102632
+    },
+    {
+      "seed": 70652,
+      "mode": 2,
+      "seconds": 253.75,
+      "winner": 28,
+      "ticks": 1015,
+      "ms": 182.01,
+      "peakBytes": 101216
+    },
+    {
+      "seed": 70653,
+      "mode": 4,
+      "seconds": 147.5,
+      "winner": 9,
+      "ticks": 590,
+      "ms": 170.89,
+      "peakBytes": 101574
+    },
+    {
+      "seed": 70654,
+      "mode": 1,
+      "seconds": 162.25,
+      "winner": 14,
+      "ticks": 649,
+      "ms": 158.66,
+      "peakBytes": 102593
+    },
+    {
+      "seed": 70655,
+      "mode": 2,
+      "seconds": 174,
+      "winner": 0,
+      "ticks": 696,
+      "ms": 157.32,
+      "peakBytes": 102000
+    },
+    {
+      "seed": 70656,
+      "mode": 4,
+      "seconds": 313,
+      "winner": 0,
+      "ticks": 1252,
+      "ms": 205.88,
+      "peakBytes": 101816
+    },
+    {
+      "seed": 70657,
+      "mode": 1,
+      "seconds": 147.75,
+      "winner": 31,
+      "ticks": 591,
+      "ms": 141.58,
+      "peakBytes": 101685
+    },
+    {
+      "seed": 70658,
+      "mode": 2,
+      "seconds": 172.25,
+      "winner": 23,
+      "ticks": 689,
+      "ms": 169.12,
+      "peakBytes": 101363
+    },
+    {
+      "seed": 70659,
+      "mode": 4,
+      "seconds": 298,
+      "winner": 6,
+      "ticks": 1192,
+      "ms": 193.4,
+      "peakBytes": 101049
+    },
+    {
+      "seed": 70660,
+      "mode": 1,
+      "seconds": 282,
+      "winner": 41,
+      "ticks": 1128,
+      "ms": 182.99,
+      "peakBytes": 101979
+    },
+    {
+      "seed": 70661,
+      "mode": 2,
+      "seconds": 200.75,
+      "winner": 2,
+      "ticks": 803,
+      "ms": 172.71,
+      "peakBytes": 100397
+    },
+    {
+      "seed": 70662,
+      "mode": 4,
+      "seconds": 245.25,
+      "winner": 8,
+      "ticks": 981,
+      "ms": 192.55,
+      "peakBytes": 102345
+    },
+    {
+      "seed": 70663,
+      "mode": 1,
+      "seconds": 164,
+      "winner": 20,
+      "ticks": 656,
+      "ms": 166.71,
+      "peakBytes": 102526
+    },
+    {
+      "seed": 70664,
+      "mode": 2,
+      "seconds": 352,
+      "winner": 21,
+      "ticks": 1408,
+      "ms": 187.64,
+      "peakBytes": 106186
+    },
+    {
+      "seed": 70665,
+      "mode": 4,
+      "seconds": 190.25,
+      "winner": 6,
+      "ticks": 761,
+      "ms": 187.38,
+      "peakBytes": 104733
+    },
+    {
+      "seed": 70666,
+      "mode": 1,
+      "seconds": 185.5,
+      "winner": 32,
+      "ticks": 742,
+      "ms": 162.25,
+      "peakBytes": 105940
+    },
+    {
+      "seed": 70667,
+      "mode": 2,
+      "seconds": 147.25,
+      "winner": 3,
+      "ticks": 589,
+      "ms": 173.79,
+      "peakBytes": 105321
+    },
+    {
+      "seed": 70668,
+      "mode": 4,
+      "seconds": 219.75,
+      "winner": 5,
+      "ticks": 879,
+      "ms": 190.5,
+      "peakBytes": 105004
+    },
+    {
+      "seed": 70669,
+      "mode": 1,
+      "seconds": 207.75,
+      "winner": 55,
+      "ticks": 831,
+      "ms": 167.86,
+      "peakBytes": 104178
+    },
+    {
+      "seed": 70670,
+      "mode": 2,
+      "seconds": 310,
+      "winner": 29,
+      "ticks": 1240,
+      "ms": 189.79,
+      "peakBytes": 105058
+    },
+    {
+      "seed": 70671,
+      "mode": 4,
+      "seconds": 150.25,
+      "winner": 4,
+      "ticks": 601,
+      "ms": 187.89,
+      "peakBytes": 105703
+    },
+    {
+      "seed": 70672,
+      "mode": 1,
+      "seconds": 187,
+      "winner": 29,
+      "ticks": 748,
+      "ms": 169.46,
+      "peakBytes": 105109
+    },
+    {
+      "seed": 70673,
+      "mode": 2,
+      "seconds": 212.25,
+      "winner": 8,
+      "ticks": 849,
+      "ms": 228.81,
+      "peakBytes": 104763
+    },
+    {
+      "seed": 70674,
+      "mode": 4,
+      "seconds": 223.25,
+      "winner": 6,
+      "ticks": 893,
+      "ms": 201.94,
+      "peakBytes": 105862
+    },
+    {
+      "seed": 70675,
+      "mode": 1,
+      "seconds": 284.75,
+      "winner": 43,
+      "ticks": 1139,
+      "ms": 209.33,
+      "peakBytes": 104462
+    },
+    {
+      "seed": 70676,
+      "mode": 2,
+      "seconds": 337.75,
+      "winner": 23,
+      "ticks": 1351,
+      "ms": 210.78,
+      "peakBytes": 105091
+    },
+    {
+      "seed": 70677,
+      "mode": 4,
+      "seconds": 175,
+      "winner": 4,
+      "ticks": 700,
+      "ms": 174.22,
+      "peakBytes": 105336
+    },
+    {
+      "seed": 70678,
+      "mode": 1,
+      "seconds": 139.25,
+      "winner": 20,
+      "ticks": 557,
+      "ms": 150.21,
+      "peakBytes": 105799
+    },
+    {
+      "seed": 70679,
+      "mode": 2,
+      "seconds": 257,
+      "winner": 1,
+      "ticks": 1028,
+      "ms": 167.86,
+      "peakBytes": 103321
+    },
+    {
+      "seed": 70680,
+      "mode": 4,
+      "seconds": 221,
+      "winner": 11,
+      "ticks": 884,
+      "ms": 193.59,
+      "peakBytes": 105348
+    },
+    {
+      "seed": 70681,
+      "mode": 1,
+      "seconds": 162,
+      "winner": 7,
+      "ticks": 648,
+      "ms": 168.63,
+      "peakBytes": 104828
+    },
+    {
+      "seed": 70682,
+      "mode": 2,
+      "seconds": 200.25,
+      "winner": 16,
+      "ticks": 801,
+      "ms": 170.19,
+      "peakBytes": 105181
+    },
+    {
+      "seed": 70683,
+      "mode": 4,
+      "seconds": 227.25,
+      "winner": 4,
+      "ticks": 909,
+      "ms": 220.84,
+      "peakBytes": 104047
+    },
+    {
+      "seed": 70684,
+      "mode": 1,
+      "seconds": 150,
+      "winner": 55,
+      "ticks": 600,
+      "ms": 151.05,
+      "peakBytes": 106050
+    },
+    {
+      "seed": 70685,
+      "mode": 2,
+      "seconds": 158.75,
+      "winner": 15,
+      "ticks": 635,
+      "ms": 175.52,
+      "peakBytes": 106469
+    },
+    {
+      "seed": 70686,
+      "mode": 4,
+      "seconds": 312.5,
+      "winner": 9,
+      "ticks": 1250,
+      "ms": 217.37,
+      "peakBytes": 109286
+    },
+    {
+      "seed": 70687,
+      "mode": 1,
+      "seconds": 226.5,
+      "winner": 29,
+      "ticks": 906,
+      "ms": 176.06,
+      "peakBytes": 109227
+    },
+    {
+      "seed": 70688,
+      "mode": 2,
+      "seconds": 236.75,
+      "winner": 10,
+      "ticks": 947,
+      "ms": 183.11,
+      "peakBytes": 107363
+    },
+    {
+      "seed": 70689,
+      "mode": 4,
+      "seconds": 159.75,
+      "winner": 13,
+      "ticks": 639,
+      "ms": 167.53,
+      "peakBytes": 107093
+    },
+    {
+      "seed": 70690,
+      "mode": 1,
+      "seconds": 247.25,
+      "winner": 53,
+      "ticks": 989,
+      "ms": 176.33,
+      "peakBytes": 108130
+    },
+    {
+      "seed": 70691,
+      "mode": 2,
+      "seconds": 176,
+      "winner": 22,
+      "ticks": 704,
+      "ms": 169.63,
+      "peakBytes": 108720
+    },
+    {
+      "seed": 70692,
+      "mode": 4,
+      "seconds": 245.25,
+      "winner": 3,
+      "ticks": 981,
+      "ms": 192.16,
+      "peakBytes": 108564
+    },
+    {
+      "seed": 70693,
+      "mode": 1,
+      "seconds": 149.75,
+      "winner": 59,
+      "ticks": 599,
+      "ms": 154.88,
+      "peakBytes": 107910
+    },
+    {
+      "seed": 70694,
+      "mode": 2,
+      "seconds": 303.25,
+      "winner": 28,
+      "ticks": 1213,
+      "ms": 182.85,
+      "peakBytes": 106820
+    },
+    {
+      "seed": 70695,
+      "mode": 4,
+      "seconds": 247.75,
+      "winner": 3,
+      "ticks": 991,
+      "ms": 201.25,
+      "peakBytes": 107511
+    },
+    {
+      "seed": 70696,
+      "mode": 1,
+      "seconds": 189.25,
+      "winner": 5,
+      "ticks": 757,
+      "ms": 159.37,
+      "peakBytes": 107275
+    },
+    {
+      "seed": 70697,
+      "mode": 2,
+      "seconds": 222.5,
+      "winner": 11,
+      "ticks": 890,
+      "ms": 168.82,
+      "peakBytes": 105931
+    },
+    {
+      "seed": 70698,
+      "mode": 4,
+      "seconds": 297.25,
+      "winner": 2,
+      "ticks": 1189,
+      "ms": 209.67,
+      "peakBytes": 107516
+    },
+    {
+      "seed": 70699,
+      "mode": 1,
+      "seconds": 144.5,
+      "winner": 9,
+      "ticks": 578,
+      "ms": 159.78,
+      "peakBytes": 107380
+    },
+    {
+      "seed": 70700,
+      "mode": 2,
+      "seconds": 177.5,
+      "winner": 23,
+      "ticks": 710,
+      "ms": 171.41,
+      "peakBytes": 106166
+    },
+    {
+      "seed": 70701,
+      "mode": 4,
+      "seconds": 198,
+      "winner": 11,
+      "ticks": 792,
+      "ms": 176.63,
+      "peakBytes": 108170
+    },
+    {
+      "seed": 70702,
+      "mode": 1,
+      "seconds": 106.75,
+      "winner": 44,
+      "ticks": 427,
+      "ms": 144.88,
+      "peakBytes": 107380
+    },
+    {
+      "seed": 70703,
+      "mode": 2,
+      "seconds": 144.75,
+      "winner": 27,
+      "ticks": 579,
+      "ms": 171.41,
+      "peakBytes": 107717
+    },
+    {
+      "seed": 70704,
+      "mode": 4,
+      "seconds": 249.5,
+      "winner": 13,
+      "ticks": 998,
+      "ms": 197.23,
+      "peakBytes": 106627
+    },
+    {
+      "seed": 70705,
+      "mode": 1,
+      "seconds": 193.75,
+      "winner": 19,
+      "ticks": 775,
+      "ms": 199.01,
+      "peakBytes": 107807
+    },
+    {
+      "seed": 70706,
+      "mode": 2,
+      "seconds": 200.75,
+      "winner": 12,
+      "ticks": 803,
+      "ms": 186.45,
+      "peakBytes": 104889
+    },
+    {
+      "seed": 70707,
+      "mode": 4,
+      "seconds": 149,
+      "winner": 13,
+      "ticks": 596,
+      "ms": 179.39,
+      "peakBytes": 106661
+    },
+    {
+      "seed": 70708,
+      "mode": 1,
+      "seconds": 243.75,
+      "winner": 1,
+      "ticks": 975,
+      "ms": 161.83,
+      "peakBytes": 107471
+    },
+    {
+      "seed": 70709,
+      "mode": 2,
+      "seconds": 189.25,
+      "winner": 5,
+      "ticks": 757,
+      "ms": 175.38,
+      "peakBytes": 108625
+    },
+    {
+      "seed": 70710,
+      "mode": 4,
+      "seconds": 323.25,
+      "winner": 3,
+      "ticks": 1293,
+      "ms": 236.39,
+      "peakBytes": 105033
+    },
+    {
+      "seed": 70711,
+      "mode": 1,
+      "seconds": 140.5,
+      "winner": 57,
+      "ticks": 562,
+      "ms": 158.67,
+      "peakBytes": 108429
+    },
+    {
+      "seed": 70712,
+      "mode": 2,
+      "seconds": 237.75,
+      "winner": 17,
+      "ticks": 951,
+      "ms": 190.42,
+      "peakBytes": 106271
+    },
+    {
+      "seed": 70713,
+      "mode": 4,
+      "seconds": 190.5,
+      "winner": 3,
+      "ticks": 762,
+      "ms": 209.84,
+      "peakBytes": 106731
+    },
+    {
+      "seed": 70714,
+      "mode": 1,
+      "seconds": 249.5,
+      "winner": 51,
+      "ticks": 998,
+      "ms": 192.32,
+      "peakBytes": 105643
+    },
+    {
+      "seed": 70715,
+      "mode": 2,
+      "seconds": 190.5,
+      "winner": 11,
+      "ticks": 762,
+      "ms": 189.26,
+      "peakBytes": 105334
+    },
+    {
+      "seed": 70716,
+      "mode": 4,
+      "seconds": 205.25,
+      "winner": 0,
+      "ticks": 821,
+      "ms": 208.31,
+      "peakBytes": 105012
+    },
+    {
+      "seed": 70717,
+      "mode": 1,
+      "seconds": 213.25,
+      "winner": 9,
+      "ticks": 853,
+      "ms": 167.98,
+      "peakBytes": 104308
+    },
+    {
+      "seed": 70718,
+      "mode": 2,
+      "seconds": 156,
+      "winner": 13,
+      "ticks": 624,
+      "ms": 168.72,
+      "peakBytes": 104780
+    },
+    {
+      "seed": 70719,
+      "mode": 4,
+      "seconds": 201,
+      "winner": 11,
+      "ticks": 804,
+      "ms": 193.91,
+      "peakBytes": 106510
+    },
+    {
+      "seed": 70720,
+      "mode": 1,
+      "seconds": 237.25,
+      "winner": 39,
+      "ticks": 949,
+      "ms": 177.47,
+      "peakBytes": 106468
+    },
+    {
+      "seed": 70721,
+      "mode": 2,
+      "seconds": 246.75,
+      "winner": 2,
+      "ticks": 987,
+      "ms": 209.96,
+      "peakBytes": 107191
+    },
+    {
+      "seed": 70722,
+      "mode": 4,
+      "seconds": 294.75,
+      "winner": 13,
+      "ticks": 1179,
+      "ms": 213.72,
+      "peakBytes": 105222
+    },
+    {
+      "seed": 70723,
+      "mode": 1,
+      "seconds": 118.25,
+      "winner": 40,
+      "ticks": 473,
+      "ms": 166.66,
+      "peakBytes": 108166
+    },
+    {
+      "seed": 70724,
+      "mode": 2,
+      "seconds": 175.75,
+      "winner": 29,
+      "ticks": 703,
+      "ms": 182.49,
+      "peakBytes": 107406
+    },
+    {
+      "seed": 70725,
+      "mode": 4,
+      "seconds": 236.25,
+      "winner": 3,
+      "ticks": 945,
+      "ms": 211.98,
+      "peakBytes": 106159
+    },
+    {
+      "seed": 70726,
+      "mode": 1,
+      "seconds": 243.5,
+      "winner": 6,
+      "ticks": 974,
+      "ms": 192.41,
+      "peakBytes": 107651
+    },
+    {
+      "seed": 70727,
+      "mode": 2,
+      "seconds": 372.75,
+      "winner": 4,
+      "ticks": 1491,
+      "ms": 223.39,
+      "peakBytes": 105717
+    },
+    {
+      "seed": 70728,
+      "mode": 4,
+      "seconds": 184.5,
+      "winner": 6,
+      "ticks": 738,
+      "ms": 173.6,
+      "peakBytes": 106160
+    },
+    {
+      "seed": 70729,
+      "mode": 1,
+      "seconds": 204,
+      "winner": 33,
+      "ticks": 816,
+      "ms": 168.19,
+      "peakBytes": 105741
+    },
+    {
+      "seed": 70730,
+      "mode": 2,
+      "seconds": 212.25,
+      "winner": 2,
+      "ticks": 849,
+      "ms": 213.34,
+      "peakBytes": 107180
+    },
+    {
+      "seed": 70731,
+      "mode": 4,
+      "seconds": 169,
+      "winner": 8,
+      "ticks": 676,
+      "ms": 187.08,
+      "peakBytes": 105681
+    },
+    {
+      "seed": 70732,
+      "mode": 1,
+      "seconds": 238.25,
+      "winner": 39,
+      "ticks": 953,
+      "ms": 171.5,
+      "peakBytes": 108559
+    },
+    {
+      "seed": 70733,
+      "mode": 2,
+      "seconds": 163.5,
+      "winner": 4,
+      "ticks": 654,
+      "ms": 174.5,
+      "peakBytes": 107056
+    },
+    {
+      "seed": 70734,
+      "mode": 4,
+      "seconds": 303,
+      "winner": 7,
+      "ticks": 1212,
+      "ms": 212.59,
+      "peakBytes": 108598
+    },
+    {
+      "seed": 70735,
+      "mode": 1,
+      "seconds": 313,
+      "winner": 55,
+      "ticks": 1252,
+      "ms": 206.88,
+      "peakBytes": 104562
+    },
+    {
+      "seed": 70736,
+      "mode": 2,
+      "seconds": 146.75,
+      "winner": 10,
+      "ticks": 587,
+      "ms": 158.04,
+      "peakBytes": 106317
+    },
+    {
+      "seed": 70737,
+      "mode": 4,
+      "seconds": 234.25,
+      "winner": 0,
+      "ticks": 937,
+      "ms": 214.72,
+      "peakBytes": 105909
+    },
+    {
+      "seed": 70738,
+      "mode": 1,
+      "seconds": 230,
+      "winner": 48,
+      "ticks": 920,
+      "ms": 202.99,
+      "peakBytes": 107786
+    },
+    {
+      "seed": 70739,
+      "mode": 2,
+      "seconds": 163.25,
+      "winner": 30,
+      "ticks": 653,
+      "ms": 167.03,
+      "peakBytes": 106173
+    },
+    {
+      "seed": 70740,
+      "mode": 4,
+      "seconds": 233.25,
+      "winner": 9,
+      "ticks": 933,
+      "ms": 208.55,
+      "peakBytes": 106626
+    },
+    {
+      "seed": 70741,
+      "mode": 1,
+      "seconds": 237.75,
+      "winner": 10,
+      "ticks": 951,
+      "ms": 204.36,
+      "peakBytes": 107695
+    },
+    {
+      "seed": 70742,
+      "mode": 2,
+      "seconds": 229.5,
+      "winner": 22,
+      "ticks": 918,
+      "ms": 189.22,
+      "peakBytes": 105490
+    },
+    {
+      "seed": 70743,
+      "mode": 4,
+      "seconds": 136.75,
+      "winner": 2,
+      "ticks": 547,
+      "ms": 183.18,
+      "peakBytes": 107382
+    },
+    {
+      "seed": 70744,
+      "mode": 1,
+      "seconds": 129.5,
+      "winner": 44,
+      "ticks": 518,
+      "ms": 146.96,
+      "peakBytes": 106620
+    },
+    {
+      "seed": 70745,
+      "mode": 2,
+      "seconds": 227,
+      "winner": 9,
+      "ticks": 908,
+      "ms": 175.57,
+      "peakBytes": 104893
+    },
+    {
+      "seed": 70746,
+      "mode": 4,
+      "seconds": 123.5,
+      "winner": 15,
+      "ticks": 494,
+      "ms": 181.12,
+      "peakBytes": 107380
+    },
+    {
+      "seed": 70747,
+      "mode": 1,
+      "seconds": 160.25,
+      "winner": 14,
+      "ticks": 641,
+      "ms": 163.43,
+      "peakBytes": 107640
+    },
+    {
+      "seed": 70748,
+      "mode": 2,
+      "seconds": 159,
+      "winner": 23,
+      "ticks": 636,
+      "ms": 169.83,
+      "peakBytes": 107967
+    },
+    {
+      "seed": 70749,
+      "mode": 4,
+      "seconds": 142.5,
+      "winner": 0,
+      "ticks": 570,
+      "ms": 157.41,
+      "peakBytes": 106915
+    },
+    {
+      "seed": 70750,
+      "mode": 1,
+      "seconds": 224.25,
+      "winner": 33,
+      "ticks": 897,
+      "ms": 173.76,
+      "peakBytes": 106032
+    },
+    {
+      "seed": 70751,
+      "mode": 2,
+      "seconds": 233.25,
+      "winner": 31,
+      "ticks": 933,
+      "ms": 204.42,
+      "peakBytes": 106523
+    },
+    {
+      "seed": 70752,
+      "mode": 4,
+      "seconds": 307.75,
+      "winner": 15,
+      "ticks": 1231,
+      "ms": 225.33,
+      "peakBytes": 105527
+    },
+    {
+      "seed": 70753,
+      "mode": 1,
+      "seconds": 175,
+      "winner": 37,
+      "ticks": 700,
+      "ms": 181.36,
+      "peakBytes": 106890
+    },
+    {
+      "seed": 70754,
+      "mode": 2,
+      "seconds": 210.25,
+      "winner": 18,
+      "ticks": 841,
+      "ms": 181.89,
+      "peakBytes": 106830
+    },
+    {
+      "seed": 70755,
+      "mode": 4,
+      "seconds": 318.25,
+      "winner": 13,
+      "ticks": 1273,
+      "ms": 207.12,
+      "peakBytes": 104053
+    },
+    {
+      "seed": 70756,
+      "mode": 1,
+      "seconds": 232.75,
+      "winner": 23,
+      "ticks": 931,
+      "ms": 173.63,
+      "peakBytes": 106249
+    },
+    {
+      "seed": 70757,
+      "mode": 2,
+      "seconds": 147,
+      "winner": 11,
+      "ticks": 588,
+      "ms": 186.67,
+      "peakBytes": 105385
+    },
+    {
+      "seed": 70758,
+      "mode": 4,
+      "seconds": 242.5,
+      "winner": 15,
+      "ticks": 970,
+      "ms": 244.61,
+      "peakBytes": 105828
+    },
+    {
+      "seed": 70759,
+      "mode": 1,
+      "seconds": 205.5,
+      "winner": 39,
+      "ticks": 822,
+      "ms": 198.81,
+      "peakBytes": 107985
+    },
+    {
+      "seed": 70760,
+      "mode": 2,
+      "seconds": 213.5,
+      "winner": 15,
+      "ticks": 854,
+      "ms": 204.42,
+      "peakBytes": 106737
+    },
+    {
+      "seed": 70761,
+      "mode": 4,
+      "seconds": 305.75,
+      "winner": 4,
+      "ticks": 1223,
+      "ms": 234.49,
+      "peakBytes": 105715
+    },
+    {
+      "seed": 70762,
+      "mode": 1,
+      "seconds": 303,
+      "winner": 25,
+      "ticks": 1212,
+      "ms": 205.43,
+      "peakBytes": 104924
+    },
+    {
+      "seed": 70763,
+      "mode": 2,
+      "seconds": 164.5,
+      "winner": 2,
+      "ticks": 658,
+      "ms": 182.81,
+      "peakBytes": 104775
+    },
+    {
+      "seed": 70764,
+      "mode": 4,
+      "seconds": 142.5,
+      "winner": 3,
+      "ticks": 570,
+      "ms": 190.64,
+      "peakBytes": 107116
+    },
+    {
+      "seed": 70765,
+      "mode": 1,
+      "seconds": 243.25,
+      "winner": 57,
+      "ticks": 973,
+      "ms": 179.46,
+      "peakBytes": 106200
+    },
+    {
+      "seed": 70766,
+      "mode": 2,
+      "seconds": 324.25,
+      "winner": 21,
+      "ticks": 1297,
+      "ms": 213.84,
+      "peakBytes": 106355
+    },
+    {
+      "seed": 70767,
+      "mode": 4,
+      "seconds": 239.5,
+      "winner": 8,
+      "ticks": 958,
+      "ms": 209.74,
+      "peakBytes": 107434
+    },
+    {
+      "seed": 70768,
+      "mode": 1,
+      "seconds": 205.25,
+      "winner": 45,
+      "ticks": 821,
+      "ms": 171.96,
+      "peakBytes": 105671
+    },
+    {
+      "seed": 70769,
+      "mode": 2,
+      "seconds": 231.5,
+      "winner": 7,
+      "ticks": 926,
+      "ms": 182.38,
+      "peakBytes": 105826
+    },
+    {
+      "seed": 70770,
+      "mode": 4,
+      "seconds": 272.75,
+      "winner": 11,
+      "ticks": 1091,
+      "ms": 206.01,
+      "peakBytes": 105561
+    },
+    {
+      "seed": 70771,
+      "mode": 1,
+      "seconds": 165.75,
+      "winner": 57,
+      "ticks": 663,
+      "ms": 155.54,
+      "peakBytes": 105828
+    },
+    {
+      "seed": 70772,
+      "mode": 2,
+      "seconds": 167,
+      "winner": 21,
+      "ticks": 668,
+      "ms": 177.2,
+      "peakBytes": 105849
+    },
+    {
+      "seed": 70773,
+      "mode": 4,
+      "seconds": 220,
+      "winner": 11,
+      "ticks": 880,
+      "ms": 192.15,
+      "peakBytes": 105244
+    },
+    {
+      "seed": 70774,
+      "mode": 1,
+      "seconds": 173.25,
+      "winner": 17,
+      "ticks": 693,
+      "ms": 155,
+      "peakBytes": 106880
+    },
+    {
+      "seed": 70775,
+      "mode": 2,
+      "seconds": 223.5,
+      "winner": 18,
+      "ticks": 894,
+      "ms": 187.7,
+      "peakBytes": 107421
+    },
+    {
+      "seed": 70776,
+      "mode": 4,
+      "seconds": 466,
+      "winner": 5,
+      "ticks": 1864,
+      "ms": 220.49,
+      "peakBytes": 105329
+    },
+    {
+      "seed": 70777,
+      "mode": 1,
+      "seconds": 240.25,
+      "winner": 9,
+      "ticks": 961,
+      "ms": 200.78,
+      "peakBytes": 105699
+    },
+    {
+      "seed": 70778,
+      "mode": 2,
+      "seconds": 184.5,
+      "winner": 9,
+      "ticks": 738,
+      "ms": 176.47,
+      "peakBytes": 105209
+    },
+    {
+      "seed": 70779,
+      "mode": 4,
+      "seconds": 137.75,
+      "winner": 15,
+      "ticks": 551,
+      "ms": 167.91,
+      "peakBytes": 106597
+    },
+    {
+      "seed": 70780,
+      "mode": 1,
+      "seconds": 302,
+      "winner": 30,
+      "ticks": 1208,
+      "ms": 190.48,
+      "peakBytes": 106813
+    },
+    {
+      "seed": 70781,
+      "mode": 2,
+      "seconds": 156.5,
+      "winner": 14,
+      "ticks": 626,
+      "ms": 162.08,
+      "peakBytes": 104830
+    },
+    {
+      "seed": 70782,
+      "mode": 4,
+      "seconds": 237.25,
+      "winner": 1,
+      "ticks": 949,
+      "ms": 195.83,
+      "peakBytes": 104560
+    },
+    {
+      "seed": 70783,
+      "mode": 1,
+      "seconds": 243.25,
+      "winner": 13,
+      "ticks": 973,
+      "ms": 186.11,
+      "peakBytes": 106737
+    },
+    {
+      "seed": 70784,
+      "mode": 2,
+      "seconds": 154.25,
+      "winner": 24,
+      "ticks": 617,
+      "ms": 166.46,
+      "peakBytes": 105953
+    },
+    {
+      "seed": 70785,
+      "mode": 4,
+      "seconds": 235.25,
+      "winner": 8,
+      "ticks": 941,
+      "ms": 212.59,
+      "peakBytes": 105218
+    },
+    {
+      "seed": 70786,
+      "mode": 1,
+      "seconds": 190.5,
+      "winner": 20,
+      "ticks": 762,
+      "ms": 171.9,
+      "peakBytes": 106881
+    },
+    {
+      "seed": 70787,
+      "mode": 2,
+      "seconds": 188.5,
+      "winner": 5,
+      "ticks": 754,
+      "ms": 176.5,
+      "peakBytes": 107395
+    },
+    {
+      "seed": 70788,
+      "mode": 4,
+      "seconds": 208,
+      "winner": 13,
+      "ticks": 832,
+      "ms": 202.37,
+      "peakBytes": 106055
+    },
+    {
+      "seed": 70789,
+      "mode": 1,
+      "seconds": 223.25,
+      "winner": 3,
+      "ticks": 893,
+      "ms": 176.06,
+      "peakBytes": 109422
+    },
+    {
+      "seed": 70790,
+      "mode": 2,
+      "seconds": 152.25,
+      "winner": 8,
+      "ticks": 609,
+      "ms": 182.43,
+      "peakBytes": 105886
+    },
+    {
+      "seed": 70791,
+      "mode": 4,
+      "seconds": 115.75,
+      "winner": 11,
+      "ticks": 463,
+      "ms": 153.41,
+      "peakBytes": 106770
+    },
+    {
+      "seed": 70792,
+      "mode": 1,
+      "seconds": 133.25,
+      "winner": 5,
+      "ticks": 533,
+      "ms": 157.05,
+      "peakBytes": 107676
+    },
+    {
+      "seed": 70793,
+      "mode": 2,
+      "seconds": 235.25,
+      "winner": 8,
+      "ticks": 941,
+      "ms": 179.96,
+      "peakBytes": 105967
+    },
+    {
+      "seed": 70794,
+      "mode": 4,
+      "seconds": 133.5,
+      "winner": 2,
+      "ticks": 534,
+      "ms": 167.66,
+      "peakBytes": 106887
+    },
+    {
+      "seed": 70795,
+      "mode": 1,
+      "seconds": 143.25,
+      "winner": 6,
+      "ticks": 573,
+      "ms": 169.12,
+      "peakBytes": 107145
+    },
+    {
+      "seed": 70796,
+      "mode": 2,
+      "seconds": 160.5,
+      "winner": 2,
+      "ticks": 642,
+      "ms": 174.49,
+      "peakBytes": 106402
+    },
+    {
+      "seed": 70797,
+      "mode": 4,
+      "seconds": 237.25,
+      "winner": 2,
+      "ticks": 949,
+      "ms": 179.32,
+      "peakBytes": 106662
+    },
+    {
+      "seed": 70798,
+      "mode": 1,
+      "seconds": 179.75,
+      "winner": 59,
+      "ticks": 719,
+      "ms": 179.85,
+      "peakBytes": 108500
+    },
+    {
+      "seed": 70799,
+      "mode": 2,
+      "seconds": 310.75,
+      "winner": 2,
+      "ticks": 1243,
+      "ms": 203.23,
+      "peakBytes": 105693
+    },
+    {
+      "seed": 70800,
+      "mode": 4,
+      "seconds": 174.25,
+      "winner": 5,
+      "ticks": 697,
+      "ms": 188.31,
+      "peakBytes": 107747
+    },
+    {
+      "seed": 70801,
+      "mode": 1,
+      "seconds": 156.5,
+      "winner": 31,
+      "ticks": 626,
+      "ms": 166.47,
+      "peakBytes": 105892
+    },
+    {
+      "seed": 70802,
+      "mode": 2,
+      "seconds": 226.25,
+      "winner": 15,
+      "ticks": 905,
+      "ms": 194.84,
+      "peakBytes": 107211
+    },
+    {
+      "seed": 70803,
+      "mode": 4,
+      "seconds": 227,
+      "winner": 8,
+      "ticks": 908,
+      "ms": 210.41,
+      "peakBytes": 105202
+    },
+    {
+      "seed": 70804,
+      "mode": 1,
+      "seconds": 224,
+      "winner": 56,
+      "ticks": 896,
+      "ms": 179.5,
+      "peakBytes": 105988
+    },
+    {
+      "seed": 70805,
+      "mode": 2,
+      "seconds": 227.25,
+      "winner": 6,
+      "ticks": 909,
+      "ms": 215.33,
+      "peakBytes": 106672
+    },
+    {
+      "seed": 70806,
+      "mode": 4,
+      "seconds": 392.75,
+      "winner": 1,
+      "ticks": 1571,
+      "ms": 255.68,
+      "peakBytes": 106790
+    },
+    {
+      "seed": 70807,
+      "mode": 1,
+      "seconds": 162.25,
+      "winner": 48,
+      "ticks": 649,
+      "ms": 172.14,
+      "peakBytes": 108156
+    },
+    {
+      "seed": 70808,
+      "mode": 2,
+      "seconds": 309,
+      "winner": 13,
+      "ticks": 1236,
+      "ms": 187.81,
+      "peakBytes": 106814
+    },
+    {
+      "seed": 70809,
+      "mode": 4,
+      "seconds": 175.75,
+      "winner": 4,
+      "ticks": 703,
+      "ms": 180.69,
+      "peakBytes": 107314
+    },
+    {
+      "seed": 70810,
+      "mode": 1,
+      "seconds": 156.5,
+      "winner": 27,
+      "ticks": 626,
+      "ms": 147.32,
+      "peakBytes": 105021
+    },
+    {
+      "seed": 70811,
+      "mode": 2,
+      "seconds": 147.25,
+      "winner": 20,
+      "ticks": 589,
+      "ms": 159.41,
+      "peakBytes": 107148
+    },
+    {
+      "seed": 70812,
+      "mode": 4,
+      "seconds": 231.5,
+      "winner": 9,
+      "ticks": 926,
+      "ms": 212.48,
+      "peakBytes": 107066
+    },
+    {
+      "seed": 70813,
+      "mode": 1,
+      "seconds": 191.5,
+      "winner": 55,
+      "ticks": 766,
+      "ms": 211.13,
+      "peakBytes": 107480
+    },
+    {
+      "seed": 70814,
+      "mode": 2,
+      "seconds": 307.25,
+      "winner": 4,
+      "ticks": 1229,
+      "ms": 217.21,
+      "peakBytes": 105641
+    },
+    {
+      "seed": 70815,
+      "mode": 4,
+      "seconds": 236.5,
+      "winner": 2,
+      "ticks": 946,
+      "ms": 218.87,
+      "peakBytes": 105502
+    },
+    {
+      "seed": 70816,
+      "mode": 1,
+      "seconds": 159,
+      "winner": 3,
+      "ticks": 636,
+      "ms": 186.1,
+      "peakBytes": 106889
+    },
+    {
+      "seed": 70817,
+      "mode": 2,
+      "seconds": 227.5,
+      "winner": 12,
+      "ticks": 910,
+      "ms": 202.12,
+      "peakBytes": 108312
+    },
+    {
+      "seed": 70818,
+      "mode": 4,
+      "seconds": 242.75,
+      "winner": 2,
+      "ticks": 971,
+      "ms": 230.75,
+      "peakBytes": 106865
+    },
+    {
+      "seed": 70819,
+      "mode": 1,
+      "seconds": 152,
+      "winner": 31,
+      "ticks": 608,
+      "ms": 167.73,
+      "peakBytes": 106343
+    },
+    {
+      "seed": 70820,
+      "mode": 2,
+      "seconds": 200.5,
+      "winner": 20,
+      "ticks": 802,
+      "ms": 199.31,
+      "peakBytes": 106436
+    },
+    {
+      "seed": 70821,
+      "mode": 4,
+      "seconds": 294.25,
+      "winner": 10,
+      "ticks": 1177,
+      "ms": 233.55,
+      "peakBytes": 108214
+    },
+    {
+      "seed": 70822,
+      "mode": 1,
+      "seconds": 198.75,
+      "winner": 55,
+      "ticks": 795,
+      "ms": 184.27,
+      "peakBytes": 108527
+    },
+    {
+      "seed": 70823,
+      "mode": 2,
+      "seconds": 244,
+      "winner": 22,
+      "ticks": 976,
+      "ms": 182.66,
+      "peakBytes": 107923
+    },
+    {
+      "seed": 70824,
+      "mode": 4,
+      "seconds": 342.75,
+      "winner": 4,
+      "ticks": 1371,
+      "ms": 237.88,
+      "peakBytes": 106765
+    },
+    {
+      "seed": 70825,
+      "mode": 1,
+      "seconds": 141.5,
+      "winner": 22,
+      "ticks": 566,
+      "ms": 153,
+      "peakBytes": 106788
+    },
+    {
+      "seed": 70826,
+      "mode": 2,
+      "seconds": 245.75,
+      "winner": 31,
+      "ticks": 983,
+      "ms": 207.99,
+      "peakBytes": 106167
+    },
+    {
+      "seed": 70827,
+      "mode": 4,
+      "seconds": 345.5,
+      "winner": 9,
+      "ticks": 1382,
+      "ms": 202.91,
+      "peakBytes": 106788
+    },
+    {
+      "seed": 70828,
+      "mode": 1,
+      "seconds": 153.25,
+      "winner": 48,
+      "ticks": 613,
+      "ms": 169.02,
+      "peakBytes": 107536
+    },
+    {
+      "seed": 70829,
+      "mode": 2,
+      "seconds": 198,
+      "winner": 5,
+      "ticks": 792,
+      "ms": 204.16,
+      "peakBytes": 103844
+    },
+    {
+      "seed": 70830,
+      "mode": 4,
+      "seconds": 146.5,
+      "winner": 6,
+      "ticks": 586,
+      "ms": 191.86,
+      "peakBytes": 104573
+    },
+    {
+      "seed": 70831,
+      "mode": 1,
+      "seconds": 153.25,
+      "winner": 0,
+      "ticks": 613,
+      "ms": 148.89,
+      "peakBytes": 104841
+    },
+    {
+      "seed": 70832,
+      "mode": 2,
+      "seconds": 138.5,
+      "winner": 18,
+      "ticks": 554,
+      "ms": 172.06,
+      "peakBytes": 104476
+    },
+    {
+      "seed": 70833,
+      "mode": 4,
+      "seconds": 161,
+      "winner": 10,
+      "ticks": 644,
+      "ms": 186.51,
+      "peakBytes": 104283
+    },
+    {
+      "seed": 70834,
+      "mode": 1,
+      "seconds": 244.25,
+      "winner": 63,
+      "ticks": 977,
+      "ms": 194.63,
+      "peakBytes": 105651
+    },
+    {
+      "seed": 70835,
+      "mode": 2,
+      "seconds": 212.75,
+      "winner": 25,
+      "ticks": 851,
+      "ms": 175.43,
+      "peakBytes": 105316
+    },
+    {
+      "seed": 70836,
+      "mode": 4,
+      "seconds": 314.25,
+      "winner": 10,
+      "ticks": 1257,
+      "ms": 211.71,
+      "peakBytes": 103752
+    },
+    {
+      "seed": 70837,
+      "mode": 1,
+      "seconds": 176,
+      "winner": 40,
+      "ticks": 704,
+      "ms": 179.34,
+      "peakBytes": 104367
+    },
+    {
+      "seed": 70838,
+      "mode": 2,
+      "seconds": 183.75,
+      "winner": 22,
+      "ticks": 735,
+      "ms": 186.74,
+      "peakBytes": 106023
+    },
+    {
+      "seed": 70839,
+      "mode": 4,
+      "seconds": 167.5,
+      "winner": 3,
+      "ticks": 670,
+      "ms": 184.75,
+      "peakBytes": 104680
+    },
+    {
+      "seed": 70840,
+      "mode": 1,
+      "seconds": 141,
+      "winner": 56,
+      "ticks": 564,
+      "ms": 149.87,
+      "peakBytes": 106281
+    },
+    {
+      "seed": 70841,
+      "mode": 2,
+      "seconds": 318.5,
+      "winner": 21,
+      "ticks": 1274,
+      "ms": 211.03,
+      "peakBytes": 104434
+    },
+    {
+      "seed": 70842,
+      "mode": 4,
+      "seconds": 231.25,
+      "winner": 2,
+      "ticks": 925,
+      "ms": 194.57,
+      "peakBytes": 103606
+    },
+    {
+      "seed": 70843,
+      "mode": 1,
+      "seconds": 271,
+      "winner": 11,
+      "ticks": 1084,
+      "ms": 170.52,
+      "peakBytes": 104441
+    },
+    {
+      "seed": 70844,
+      "mode": 2,
+      "seconds": 242.75,
+      "winner": 28,
+      "ticks": 971,
+      "ms": 197.49,
+      "peakBytes": 104055
+    },
+    {
+      "seed": 70845,
+      "mode": 4,
+      "seconds": 240.5,
+      "winner": 9,
+      "ticks": 962,
+      "ms": 197.36,
+      "peakBytes": 103208
+    },
+    {
+      "seed": 70846,
+      "mode": 1,
+      "seconds": 170,
+      "winner": 49,
+      "ticks": 680,
+      "ms": 179.9,
+      "peakBytes": 105003
+    },
+    {
+      "seed": 70847,
+      "mode": 2,
+      "seconds": 259,
+      "winner": 15,
+      "ticks": 1036,
+      "ms": 181.08,
+      "peakBytes": 104453
+    },
+    {
+      "seed": 70848,
+      "mode": 4,
+      "seconds": 230,
+      "winner": 2,
+      "ticks": 920,
+      "ms": 185.02,
+      "peakBytes": 103110
+    },
+    {
+      "seed": 70849,
+      "mode": 1,
+      "seconds": 154.25,
+      "winner": 13,
+      "ticks": 617,
+      "ms": 153.14,
+      "peakBytes": 105696
+    },
+    {
+      "seed": 70850,
+      "mode": 2,
+      "seconds": 172.75,
+      "winner": 31,
+      "ticks": 691,
+      "ms": 159.33,
+      "peakBytes": 104326
+    },
+    {
+      "seed": 70851,
+      "mode": 4,
+      "seconds": 173.5,
+      "winner": 9,
+      "ticks": 694,
+      "ms": 178.44,
+      "peakBytes": 105041
+    },
+    {
+      "seed": 70852,
+      "mode": 1,
+      "seconds": 196,
+      "winner": 63,
+      "ticks": 784,
+      "ms": 162.77,
+      "peakBytes": 102746
+    },
+    {
+      "seed": 70853,
+      "mode": 2,
+      "seconds": 180.25,
+      "winner": 24,
+      "ticks": 721,
+      "ms": 186.82,
+      "peakBytes": 101608
+    },
+    {
+      "seed": 70854,
+      "mode": 4,
+      "seconds": 154,
+      "winner": 13,
+      "ticks": 616,
+      "ms": 176.66,
+      "peakBytes": 101467
+    },
+    {
+      "seed": 70855,
+      "mode": 1,
+      "seconds": 221,
+      "winner": 52,
+      "ticks": 884,
+      "ms": 184.36,
+      "peakBytes": 102111
+    },
+    {
+      "seed": 70856,
+      "mode": 2,
+      "seconds": 300.5,
+      "winner": 9,
+      "ticks": 1202,
+      "ms": 181.98,
+      "peakBytes": 102048
+    },
+    {
+      "seed": 70857,
+      "mode": 4,
+      "seconds": 191.5,
+      "winner": 3,
+      "ticks": 766,
+      "ms": 203.54,
+      "peakBytes": 102581
+    },
+    {
+      "seed": 70858,
+      "mode": 1,
+      "seconds": 297.5,
+      "winner": 37,
+      "ticks": 1190,
+      "ms": 192.32,
+      "peakBytes": 102908
+    },
+    {
+      "seed": 70859,
+      "mode": 2,
+      "seconds": 191.75,
+      "winner": 23,
+      "ticks": 767,
+      "ms": 201.14,
+      "peakBytes": 102300
+    },
+    {
+      "seed": 70860,
+      "mode": 4,
+      "seconds": 291.5,
+      "winner": 4,
+      "ticks": 1166,
+      "ms": 208.63,
+      "peakBytes": 101908
+    },
+    {
+      "seed": 70861,
+      "mode": 1,
+      "seconds": 207.75,
+      "winner": 29,
+      "ticks": 831,
+      "ms": 174.85,
+      "peakBytes": 101931
+    },
+    {
+      "seed": 70862,
+      "mode": 2,
+      "seconds": 291,
+      "winner": 29,
+      "ticks": 1164,
+      "ms": 205.65,
+      "peakBytes": 102466
+    },
+    {
+      "seed": 70863,
+      "mode": 4,
+      "seconds": 235.75,
+      "winner": 7,
+      "ticks": 943,
+      "ms": 217.08,
+      "peakBytes": 102040
+    },
+    {
+      "seed": 70864,
+      "mode": 1,
+      "seconds": 300,
+      "winner": 55,
+      "ticks": 1200,
+      "ms": 231.75,
+      "peakBytes": 102742
+    },
+    {
+      "seed": 70865,
+      "mode": 2,
+      "seconds": 159.25,
+      "winner": 8,
+      "ticks": 637,
+      "ms": 206.5,
+      "peakBytes": 102766
+    },
+    {
+      "seed": 70866,
+      "mode": 4,
+      "seconds": 233.75,
+      "winner": 7,
+      "ticks": 935,
+      "ms": 221.81,
+      "peakBytes": 101571
+    },
+    {
+      "seed": 70867,
+      "mode": 1,
+      "seconds": 198.5,
+      "winner": 17,
+      "ticks": 794,
+      "ms": 196.29,
+      "peakBytes": 103830
+    },
+    {
+      "seed": 70868,
+      "mode": 2,
+      "seconds": 238.75,
+      "winner": 10,
+      "ticks": 955,
+      "ms": 200.61,
+      "peakBytes": 103750
+    },
+    {
+      "seed": 70869,
+      "mode": 4,
+      "seconds": 245,
+      "winner": 9,
+      "ticks": 980,
+      "ms": 226.11,
+      "peakBytes": 102054
+    },
+    {
+      "seed": 70870,
+      "mode": 1,
+      "seconds": 126.5,
+      "winner": 55,
+      "ticks": 506,
+      "ms": 174.05,
+      "peakBytes": 102114
+    },
+    {
+      "seed": 70871,
+      "mode": 2,
+      "seconds": 264.5,
+      "winner": 26,
+      "ticks": 1058,
+      "ms": 217.2,
+      "peakBytes": 101402
+    },
+    {
+      "seed": 70872,
+      "mode": 4,
+      "seconds": 231.75,
+      "winner": 1,
+      "ticks": 927,
+      "ms": 229.62,
+      "peakBytes": 101914
+    },
+    {
+      "seed": 70873,
+      "mode": 1,
+      "seconds": 217.5,
+      "winner": 49,
+      "ticks": 870,
+      "ms": 191.64,
+      "peakBytes": 102753
+    },
+    {
+      "seed": 70874,
+      "mode": 2,
+      "seconds": 185.25,
+      "winner": 10,
+      "ticks": 741,
+      "ms": 180.15,
+      "peakBytes": 102383
+    },
+    {
+      "seed": 70875,
+      "mode": 4,
+      "seconds": 243.5,
+      "winner": 13,
+      "ticks": 974,
+      "ms": 240.21,
+      "peakBytes": 102588
+    },
+    {
+      "seed": 70876,
+      "mode": 1,
+      "seconds": 296.5,
+      "winner": 5,
+      "ticks": 1186,
+      "ms": 193.85,
+      "peakBytes": 101657
+    },
+    {
+      "seed": 70877,
+      "mode": 2,
+      "seconds": 248,
+      "winner": 0,
+      "ticks": 992,
+      "ms": 203.39,
+      "peakBytes": 102395
+    },
+    {
+      "seed": 70878,
+      "mode": 4,
+      "seconds": 126,
+      "winner": 9,
+      "ticks": 504,
+      "ms": 200.03,
+      "peakBytes": 101566
+    },
+    {
+      "seed": 70879,
+      "mode": 1,
+      "seconds": 222,
+      "winner": 51,
+      "ticks": 888,
+      "ms": 170.42,
+      "peakBytes": 102389
+    },
+    {
+      "seed": 70880,
+      "mode": 2,
+      "seconds": 313.5,
+      "winner": 1,
+      "ticks": 1254,
+      "ms": 231.23,
+      "peakBytes": 102673
+    },
+    {
+      "seed": 70881,
+      "mode": 4,
+      "seconds": 282.5,
+      "winner": 6,
+      "ticks": 1130,
+      "ms": 211.45,
+      "peakBytes": 102136
+    },
+    {
+      "seed": 70882,
+      "mode": 1,
+      "seconds": 378.25,
+      "winner": 39,
+      "ticks": 1513,
+      "ms": 232.59,
+      "peakBytes": 103110
+    },
+    {
+      "seed": 70883,
+      "mode": 2,
+      "seconds": 122.25,
+      "winner": 14,
+      "ticks": 489,
+      "ms": 175.62,
+      "peakBytes": 102117
+    },
+    {
+      "seed": 70884,
+      "mode": 4,
+      "seconds": 526,
+      "winner": 4,
+      "ticks": 2104,
+      "ms": 242.34,
+      "peakBytes": 101541
+    },
+    {
+      "seed": 70885,
+      "mode": 1,
+      "seconds": 137,
+      "winner": 41,
+      "ticks": 548,
+      "ms": 156.95,
+      "peakBytes": 103868
+    },
+    {
+      "seed": 70886,
+      "mode": 2,
+      "seconds": 140.5,
+      "winner": 4,
+      "ticks": 562,
+      "ms": 171.23,
+      "peakBytes": 101894
+    },
+    {
+      "seed": 70887,
+      "mode": 4,
+      "seconds": 322.75,
+      "winner": 4,
+      "ticks": 1291,
+      "ms": 247.84,
+      "peakBytes": 101713
+    },
+    {
+      "seed": 70888,
+      "mode": 1,
+      "seconds": 242.75,
+      "winner": 27,
+      "ticks": 971,
+      "ms": 171.49,
+      "peakBytes": 103202
+    },
+    {
+      "seed": 70889,
+      "mode": 2,
+      "seconds": 305.5,
+      "winner": 14,
+      "ticks": 1222,
+      "ms": 206.91,
+      "peakBytes": 102315
+    },
+    {
+      "seed": 70890,
+      "mode": 4,
+      "seconds": 241,
+      "winner": 1,
+      "ticks": 964,
+      "ms": 211.06,
+      "peakBytes": 102236
+    },
+    {
+      "seed": 70891,
+      "mode": 1,
+      "seconds": 251.25,
+      "winner": 37,
+      "ticks": 1005,
+      "ms": 192.86,
+      "peakBytes": 102454
+    },
+    {
+      "seed": 70892,
+      "mode": 2,
+      "seconds": 139.75,
+      "winner": 30,
+      "ticks": 559,
+      "ms": 159.53,
+      "peakBytes": 102746
+    },
+    {
+      "seed": 70893,
+      "mode": 4,
+      "seconds": 310.75,
+      "winner": 4,
+      "ticks": 1243,
+      "ms": 212.7,
+      "peakBytes": 102315
+    },
+    {
+      "seed": 70894,
+      "mode": 1,
+      "seconds": 189.5,
+      "winner": 9,
+      "ticks": 758,
+      "ms": 167.52,
+      "peakBytes": 102964
+    },
+    {
+      "seed": 70895,
+      "mode": 2,
+      "seconds": 312,
+      "winner": 19,
+      "ticks": 1248,
+      "ms": 240.86,
+      "peakBytes": 103129
+    },
+    {
+      "seed": 70896,
+      "mode": 4,
+      "seconds": 289,
+      "winner": 5,
+      "ticks": 1156,
+      "ms": 206.46,
+      "peakBytes": 102244
+    },
+    {
+      "seed": 70897,
+      "mode": 1,
+      "seconds": 205.5,
+      "winner": 45,
+      "ticks": 822,
+      "ms": 164.22,
+      "peakBytes": 104548
+    },
+    {
+      "seed": 70898,
+      "mode": 2,
+      "seconds": 242.5,
+      "winner": 22,
+      "ticks": 970,
+      "ms": 194.33,
+      "peakBytes": 103242
+    },
+    {
+      "seed": 70899,
+      "mode": 4,
+      "seconds": 234.75,
+      "winner": 13,
+      "ticks": 939,
+      "ms": 210.37,
+      "peakBytes": 101988
+    },
+    {
+      "seed": 70900,
+      "mode": 1,
+      "seconds": 152.75,
+      "winner": 44,
+      "ticks": 611,
+      "ms": 237.92,
+      "peakBytes": 102837
+    },
+    {
+      "seed": 70901,
+      "mode": 2,
+      "seconds": 177.75,
+      "winner": 29,
+      "ticks": 711,
+      "ms": 208.06,
+      "peakBytes": 103240
+    },
+    {
+      "seed": 70902,
+      "mode": 4,
+      "seconds": 159.25,
+      "winner": 14,
+      "ticks": 637,
+      "ms": 169.42,
+      "peakBytes": 101783
+    },
+    {
+      "seed": 70903,
+      "mode": 1,
+      "seconds": 141.25,
+      "winner": 16,
+      "ticks": 565,
+      "ms": 161.32,
+      "peakBytes": 102324
+    },
+    {
+      "seed": 70904,
+      "mode": 2,
+      "seconds": 127.25,
+      "winner": 23,
+      "ticks": 509,
+      "ms": 148.17,
+      "peakBytes": 102333
+    },
+    {
+      "seed": 70905,
+      "mode": 4,
+      "seconds": 316.75,
+      "winner": 0,
+      "ticks": 1267,
+      "ms": 228.76,
+      "peakBytes": 102175
+    },
+    {
+      "seed": 70906,
+      "mode": 1,
+      "seconds": 234.75,
+      "winner": 39,
+      "ticks": 939,
+      "ms": 211,
+      "peakBytes": 102734
+    },
+    {
+      "seed": 70907,
+      "mode": 2,
+      "seconds": 166.25,
+      "winner": 7,
+      "ticks": 665,
+      "ms": 170.63,
+      "peakBytes": 102571
+    },
+    {
+      "seed": 70908,
+      "mode": 4,
+      "seconds": 279.75,
+      "winner": 3,
+      "ticks": 1119,
+      "ms": 245.05,
+      "peakBytes": 101446
+    },
+    {
+      "seed": 70909,
+      "mode": 1,
+      "seconds": 115.25,
+      "winner": 6,
+      "ticks": 461,
+      "ms": 168.79,
+      "peakBytes": 102680
+    },
+    {
+      "seed": 70910,
+      "mode": 2,
+      "seconds": 232,
+      "winner": 5,
+      "ticks": 928,
+      "ms": 190.38,
+      "peakBytes": 103073
+    },
+    {
+      "seed": 70911,
+      "mode": 4,
+      "seconds": 239,
+      "winner": 10,
+      "ticks": 956,
+      "ms": 215.05,
+      "peakBytes": 102341
+    },
+    {
+      "seed": 70912,
+      "mode": 1,
+      "seconds": 186.25,
+      "winner": 4,
+      "ticks": 745,
+      "ms": 163.03,
+      "peakBytes": 103361
+    },
+    {
+      "seed": 70913,
+      "mode": 2,
+      "seconds": 135.75,
+      "winner": 24,
+      "ticks": 543,
+      "ms": 159.9,
+      "peakBytes": 103561
+    },
+    {
+      "seed": 70914,
+      "mode": 4,
+      "seconds": 249,
+      "winner": 14,
+      "ticks": 996,
+      "ms": 244.83,
+      "peakBytes": 104194
+    },
+    {
+      "seed": 70915,
+      "mode": 1,
+      "seconds": 241.25,
+      "winner": 35,
+      "ticks": 965,
+      "ms": 207.16,
+      "peakBytes": 105432
+    },
+    {
+      "seed": 70916,
+      "mode": 2,
+      "seconds": 243,
+      "winner": 15,
+      "ticks": 972,
+      "ms": 227.6,
+      "peakBytes": 103592
+    },
+    {
+      "seed": 70917,
+      "mode": 4,
+      "seconds": 319.25,
+      "winner": 2,
+      "ticks": 1277,
+      "ms": 231.58,
+      "peakBytes": 103685
+    },
+    {
+      "seed": 70918,
+      "mode": 1,
+      "seconds": 135.75,
+      "winner": 49,
+      "ticks": 543,
+      "ms": 173.79,
+      "peakBytes": 104751
+    },
+    {
+      "seed": 70919,
+      "mode": 2,
+      "seconds": 315.5,
+      "winner": 18,
+      "ticks": 1262,
+      "ms": 225.95,
+      "peakBytes": 103992
+    },
+    {
+      "seed": 70920,
+      "mode": 4,
+      "seconds": 227.75,
+      "winner": 6,
+      "ticks": 911,
+      "ms": 208.67,
+      "peakBytes": 104012
+    },
+    {
+      "seed": 70921,
+      "mode": 1,
+      "seconds": 236,
+      "winner": 4,
+      "ticks": 944,
+      "ms": 178.26,
+      "peakBytes": 104330
+    },
+    {
+      "seed": 70922,
+      "mode": 2,
+      "seconds": 167.25,
+      "winner": 14,
+      "ticks": 669,
+      "ms": 178.01,
+      "peakBytes": 105399
+    },
+    {
+      "seed": 70923,
+      "mode": 4,
+      "seconds": 323.75,
+      "winner": 7,
+      "ticks": 1295,
+      "ms": 214.23,
+      "peakBytes": 105201
+    },
+    {
+      "seed": 70924,
+      "mode": 1,
+      "seconds": 240.75,
+      "winner": 29,
+      "ticks": 963,
+      "ms": 182.64,
+      "peakBytes": 103917
+    },
+    {
+      "seed": 70925,
+      "mode": 2,
+      "seconds": 228,
+      "winner": 14,
+      "ticks": 912,
+      "ms": 207.79,
+      "peakBytes": 104220
+    },
+    {
+      "seed": 70926,
+      "mode": 4,
+      "seconds": 165.75,
+      "winner": 13,
+      "ticks": 663,
+      "ms": 191.91,
+      "peakBytes": 105061
+    },
+    {
+      "seed": 70927,
+      "mode": 1,
+      "seconds": 164.75,
+      "winner": 33,
+      "ticks": 659,
+      "ms": 172.64,
+      "peakBytes": 106211
+    },
+    {
+      "seed": 70928,
+      "mode": 2,
+      "seconds": 203,
+      "winner": 22,
+      "ticks": 812,
+      "ms": 205.56,
+      "peakBytes": 104053
+    },
+    {
+      "seed": 70929,
+      "mode": 4,
+      "seconds": 203.25,
+      "winner": 3,
+      "ticks": 813,
+      "ms": 207.71,
+      "peakBytes": 105745
+    },
+    {
+      "seed": 70930,
+      "mode": 1,
+      "seconds": 245,
+      "winner": 27,
+      "ticks": 980,
+      "ms": 171.55,
+      "peakBytes": 104632
+    },
+    {
+      "seed": 70931,
+      "mode": 2,
+      "seconds": 121,
+      "winner": 16,
+      "ticks": 484,
+      "ms": 158.87,
+      "peakBytes": 105238
+    },
+    {
+      "seed": 70932,
+      "mode": 4,
+      "seconds": 410.5,
+      "winner": 4,
+      "ticks": 1642,
+      "ms": 222.24,
+      "peakBytes": 103611
+    },
+    {
+      "seed": 70933,
+      "mode": 1,
+      "seconds": 312.25,
+      "winner": 11,
+      "ticks": 1249,
+      "ms": 188.08,
+      "peakBytes": 104603
+    },
+    {
+      "seed": 70934,
+      "mode": 2,
+      "seconds": 133,
+      "winner": 11,
+      "ticks": 532,
+      "ms": 149.87,
+      "peakBytes": 103520
+    },
+    {
+      "seed": 70935,
+      "mode": 4,
+      "seconds": 231,
+      "winner": 6,
+      "ticks": 924,
+      "ms": 203.43,
+      "peakBytes": 104584
+    },
+    {
+      "seed": 70936,
+      "mode": 1,
+      "seconds": 231.5,
+      "winner": 52,
+      "ticks": 926,
+      "ms": 180.44,
+      "peakBytes": 108873
+    },
+    {
+      "seed": 70937,
+      "mode": 2,
+      "seconds": 134.25,
+      "winner": 9,
+      "ticks": 537,
+      "ms": 151.42,
+      "peakBytes": 105146
+    },
+    {
+      "seed": 70938,
+      "mode": 4,
+      "seconds": 113.25,
+      "winner": 2,
+      "ticks": 453,
+      "ms": 151.17,
+      "peakBytes": 107315
+    },
+    {
+      "seed": 70939,
+      "mode": 1,
+      "seconds": 118,
+      "winner": 0,
+      "ticks": 472,
+      "ms": 152.15,
+      "peakBytes": 109455
+    },
+    {
+      "seed": 70940,
+      "mode": 2,
+      "seconds": 161.5,
+      "winner": 22,
+      "ticks": 646,
+      "ms": 165.75,
+      "peakBytes": 106580
+    },
+    {
+      "seed": 70941,
+      "mode": 4,
+      "seconds": 316.25,
+      "winner": 1,
+      "ticks": 1265,
+      "ms": 198.78,
+      "peakBytes": 106040
+    },
+    {
+      "seed": 70942,
+      "mode": 1,
+      "seconds": 370.75,
+      "winner": 37,
+      "ticks": 1483,
+      "ms": 180.93,
+      "peakBytes": 106523
+    },
+    {
+      "seed": 70943,
+      "mode": 2,
+      "seconds": 132,
+      "winner": 19,
+      "ticks": 528,
+      "ms": 167.18,
+      "peakBytes": 107461
+    },
+    {
+      "seed": 70944,
+      "mode": 4,
+      "seconds": 307.25,
+      "winner": 1,
+      "ticks": 1229,
+      "ms": 209.53,
+      "peakBytes": 107692
+    },
+    {
+      "seed": 70945,
+      "mode": 1,
+      "seconds": 138.75,
+      "winner": 19,
+      "ticks": 555,
+      "ms": 171.29,
+      "peakBytes": 107971
+    },
+    {
+      "seed": 70946,
+      "mode": 2,
+      "seconds": 261.75,
+      "winner": 15,
+      "ticks": 1047,
+      "ms": 184.96,
+      "peakBytes": 105308
+    },
+    {
+      "seed": 70947,
+      "mode": 4,
+      "seconds": 235.75,
+      "winner": 1,
+      "ticks": 943,
+      "ms": 181.44,
+      "peakBytes": 105696
+    },
+    {
+      "seed": 70948,
+      "mode": 1,
+      "seconds": 456.5,
+      "winner": 49,
+      "ticks": 1826,
+      "ms": 222.38,
+      "peakBytes": 105401
+    },
+    {
+      "seed": 70949,
+      "mode": 2,
+      "seconds": 182.75,
+      "winner": 12,
+      "ticks": 731,
+      "ms": 184.83,
+      "peakBytes": 107238
+    },
+    {
+      "seed": 70950,
+      "mode": 4,
+      "seconds": 175.25,
+      "winner": 14,
+      "ticks": 701,
+      "ms": 175.65,
+      "peakBytes": 107121
+    },
+    {
+      "seed": 70951,
+      "mode": 1,
+      "seconds": 133.5,
+      "winner": 1,
+      "ticks": 534,
+      "ms": 144.53,
+      "peakBytes": 106220
+    },
+    {
+      "seed": 70952,
+      "mode": 2,
+      "seconds": 228.25,
+      "winner": 21,
+      "ticks": 913,
+      "ms": 174.47,
+      "peakBytes": 106125
+    },
+    {
+      "seed": 70953,
+      "mode": 4,
+      "seconds": 317.5,
+      "winner": 15,
+      "ticks": 1270,
+      "ms": 200.81,
+      "peakBytes": 105685
+    },
+    {
+      "seed": 70954,
+      "mode": 1,
+      "seconds": 119.5,
+      "winner": 15,
+      "ticks": 478,
+      "ms": 138.93,
+      "peakBytes": 107633
+    },
+    {
+      "seed": 70955,
+      "mode": 2,
+      "seconds": 273.25,
+      "winner": 5,
+      "ticks": 1093,
+      "ms": 192.47,
+      "peakBytes": 106053
+    },
+    {
+      "seed": 70956,
+      "mode": 4,
+      "seconds": 373,
+      "winner": 12,
+      "ticks": 1492,
+      "ms": 200.67,
+      "peakBytes": 106449
+    },
+    {
+      "seed": 70957,
+      "mode": 1,
+      "seconds": 249.5,
+      "winner": 51,
+      "ticks": 998,
+      "ms": 178.81,
+      "peakBytes": 106659
+    },
+    {
+      "seed": 70958,
+      "mode": 2,
+      "seconds": 168.25,
+      "winner": 3,
+      "ticks": 673,
+      "ms": 153.68,
+      "peakBytes": 106134
+    },
+    {
+      "seed": 70959,
+      "mode": 4,
+      "seconds": 182,
+      "winner": 10,
+      "ticks": 728,
+      "ms": 173.64,
+      "peakBytes": 106096
+    },
+    {
+      "seed": 70960,
+      "mode": 1,
+      "seconds": 301,
+      "winner": 55,
+      "ticks": 1204,
+      "ms": 187.56,
+      "peakBytes": 106992
+    },
+    {
+      "seed": 70961,
+      "mode": 2,
+      "seconds": 304,
+      "winner": 18,
+      "ticks": 1216,
+      "ms": 187.49,
+      "peakBytes": 106281
+    },
+    {
+      "seed": 70962,
+      "mode": 4,
+      "seconds": 152.75,
+      "winner": 5,
+      "ticks": 611,
+      "ms": 170.5,
+      "peakBytes": 106202
+    },
+    {
+      "seed": 70963,
+      "mode": 1,
+      "seconds": 143.5,
+      "winner": 4,
+      "ticks": 574,
+      "ms": 144.06,
+      "peakBytes": 107933
+    },
+    {
+      "seed": 70964,
+      "mode": 2,
+      "seconds": 140.75,
+      "winner": 5,
+      "ticks": 563,
+      "ms": 159.87,
+      "peakBytes": 104909
+    },
+    {
+      "seed": 70965,
+      "mode": 4,
+      "seconds": 235.5,
+      "winner": 5,
+      "ticks": 942,
+      "ms": 182.11,
+      "peakBytes": 107014
+    },
+    {
+      "seed": 70966,
+      "mode": 1,
+      "seconds": 206.75,
+      "winner": 52,
+      "ticks": 827,
+      "ms": 152.63,
+      "peakBytes": 108420
+    },
+    {
+      "seed": 70967,
+      "mode": 2,
+      "seconds": 207.75,
+      "winner": 0,
+      "ticks": 831,
+      "ms": 176.39,
+      "peakBytes": 104649
+    },
+    {
+      "seed": 70968,
+      "mode": 4,
+      "seconds": 127.25,
+      "winner": 11,
+      "ticks": 509,
+      "ms": 138.33,
+      "peakBytes": 104684
+    },
+    {
+      "seed": 70969,
+      "mode": 1,
+      "seconds": 233.75,
+      "winner": 38,
+      "ticks": 935,
+      "ms": 164.01,
+      "peakBytes": 106071
+    },
+    {
+      "seed": 70970,
+      "mode": 2,
+      "seconds": 304.5,
+      "winner": 24,
+      "ticks": 1218,
+      "ms": 198.94,
+      "peakBytes": 107264
+    },
+    {
+      "seed": 70971,
+      "mode": 4,
+      "seconds": 187.75,
+      "winner": 2,
+      "ticks": 751,
+      "ms": 177.66,
+      "peakBytes": 106256
+    },
+    {
+      "seed": 70972,
+      "mode": 1,
+      "seconds": 242.25,
+      "winner": 50,
+      "ticks": 969,
+      "ms": 165.84,
+      "peakBytes": 104335
+    },
+    {
+      "seed": 70973,
+      "mode": 2,
+      "seconds": 141.25,
+      "winner": 11,
+      "ticks": 565,
+      "ms": 145.97,
+      "peakBytes": 104747
+    },
+    {
+      "seed": 70974,
+      "mode": 4,
+      "seconds": 232.5,
+      "winner": 8,
+      "ticks": 930,
+      "ms": 184.66,
+      "peakBytes": 105061
+    },
+    {
+      "seed": 70975,
+      "mode": 1,
+      "seconds": 208.5,
+      "winner": 59,
+      "ticks": 834,
+      "ms": 167.07,
+      "peakBytes": 104846
+    },
+    {
+      "seed": 70976,
+      "mode": 2,
+      "seconds": 171.75,
+      "winner": 23,
+      "ticks": 687,
+      "ms": 140.82,
+      "peakBytes": 106054
+    },
+    {
+      "seed": 70977,
+      "mode": 4,
+      "seconds": 246.25,
+      "winner": 15,
+      "ticks": 985,
+      "ms": 193.24,
+      "peakBytes": 104191
+    },
+    {
+      "seed": 70978,
+      "mode": 1,
+      "seconds": 122,
+      "winner": 33,
+      "ticks": 488,
+      "ms": 139.87,
+      "peakBytes": 104903
+    },
+    {
+      "seed": 70979,
+      "mode": 2,
+      "seconds": 227.25,
+      "winner": 10,
+      "ticks": 909,
+      "ms": 170.89,
+      "peakBytes": 105680
+    },
+    {
+      "seed": 70980,
+      "mode": 4,
+      "seconds": 266.5,
+      "winner": 1,
+      "ticks": 1066,
+      "ms": 190.28,
+      "peakBytes": 105503
+    },
+    {
+      "seed": 70981,
+      "mode": 1,
+      "seconds": 204.25,
+      "winner": 29,
+      "ticks": 817,
+      "ms": 173.09,
+      "peakBytes": 104616
+    },
+    {
+      "seed": 70982,
+      "mode": 2,
+      "seconds": 203.5,
+      "winner": 3,
+      "ticks": 814,
+      "ms": 170.52,
+      "peakBytes": 105819
+    },
+    {
+      "seed": 70983,
+      "mode": 4,
+      "seconds": 240.5,
+      "winner": 15,
+      "ticks": 962,
+      "ms": 183.82,
+      "peakBytes": 106228
+    },
+    {
+      "seed": 70984,
+      "mode": 1,
+      "seconds": 330.25,
+      "winner": 59,
+      "ticks": 1321,
+      "ms": 194.19,
+      "peakBytes": 105264
+    },
+    {
+      "seed": 70985,
+      "mode": 2,
+      "seconds": 210.25,
+      "winner": 11,
+      "ticks": 841,
+      "ms": 163.49,
+      "peakBytes": 105371
+    },
+    {
+      "seed": 70986,
+      "mode": 4,
+      "seconds": 265.75,
+      "winner": 6,
+      "ticks": 1063,
+      "ms": 192.54,
+      "peakBytes": 103712
+    },
+    {
+      "seed": 70987,
+      "mode": 1,
+      "seconds": 323.25,
+      "winner": 4,
+      "ticks": 1293,
+      "ms": 162.43,
+      "peakBytes": 105707
+    },
+    {
+      "seed": 70988,
+      "mode": 2,
+      "seconds": 315.75,
+      "winner": 28,
+      "ticks": 1263,
+      "ms": 187.64,
+      "peakBytes": 106507
+    },
+    {
+      "seed": 70989,
+      "mode": 4,
+      "seconds": 116.25,
+      "winner": 15,
+      "ticks": 465,
+      "ms": 139.58,
+      "peakBytes": 104763
+    },
+    {
+      "seed": 70990,
+      "mode": 1,
+      "seconds": 310,
+      "winner": 5,
+      "ticks": 1240,
+      "ms": 168.58,
+      "peakBytes": 105591
+    },
+    {
+      "seed": 70991,
+      "mode": 2,
+      "seconds": 144,
+      "winner": 19,
+      "ticks": 576,
+      "ms": 152.86,
+      "peakBytes": 105468
+    },
+    {
+      "seed": 70992,
+      "mode": 4,
+      "seconds": 230,
+      "winner": 1,
+      "ticks": 920,
+      "ms": 185.39,
+      "peakBytes": 105330
+    },
+    {
+      "seed": 70993,
+      "mode": 1,
+      "seconds": 147,
+      "winner": 33,
+      "ticks": 588,
+      "ms": 146.63,
+      "peakBytes": 105818
+    },
+    {
+      "seed": 70994,
+      "mode": 2,
+      "seconds": 234.25,
+      "winner": 26,
+      "ticks": 937,
+      "ms": 199.39,
+      "peakBytes": 105948
+    },
+    {
+      "seed": 70995,
+      "mode": 4,
+      "seconds": 217.5,
+      "winner": 4,
+      "ticks": 870,
+      "ms": 181.02,
+      "peakBytes": 106759
+    },
+    {
+      "seed": 70996,
+      "mode": 1,
+      "seconds": 232.75,
+      "winner": 6,
+      "ticks": 931,
+      "ms": 191.58,
+      "peakBytes": 107057
+    },
+    {
+      "seed": 70997,
+      "mode": 2,
+      "seconds": 118.25,
+      "winner": 25,
+      "ticks": 473,
+      "ms": 151.39,
+      "peakBytes": 106304
+    },
+    {
+      "seed": 70998,
+      "mode": 4,
+      "seconds": 220,
+      "winner": 9,
+      "ticks": 880,
+      "ms": 175.93,
+      "peakBytes": 105268
+    },
+    {
+      "seed": 70999,
+      "mode": 1,
+      "seconds": 217.5,
+      "winner": 51,
+      "ticks": 870,
+      "ms": 176.03,
+      "peakBytes": 107447
+    }
+  ]
+}

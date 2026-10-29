@@ -1,0 +1,1 @@
+ALTER TABLE `results` ADD `applied` integer DEFAULT 0 NOT NULL;

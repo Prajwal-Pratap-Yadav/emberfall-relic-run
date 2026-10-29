@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-29",
+  "unitServiceTestsPassed": 34,
+  "typeScript": "passed",
+  "adventureRuns": 1000,
+  "invalidOrStuckRuns": 0,
+  "pilotWins": 800,
+  "idleLosses": 200,
+  "pilotWinningMedianSeconds": 38.8,
+  "browserPreviewObserved": [
+    "armed opening",
+    "raiders and defeat recap",
+    "replay",
+    "ammo24-to23",
+    "grenades3-to2",
+    "dash cooldown/position change",
+    "solo pause"
+  ],
+  "notClaimed": [
+    "human Warden victory",
+    "real-phone performance",
+    "working classic shared combat"
+  ],
+  "sourceSimulationSha256": "41072ddcb1f6a255bd86013945039bab7077b4bd1733b591a7a638167453f212",
+  "publicVersionTested": 13,
+  "publicObserved": [
+    "replay",
+    "armed opening",
+    "ammo24-to23",
+    "grenades3-to2",
+    "raider waves",
+    "defeat recap",
+    "solo pause"
+  ],
+  "screenshot": "relic-run-gameplay.jpg"
+}

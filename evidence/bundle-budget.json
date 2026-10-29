@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-28",
+  "files": 11,
+  "rawBytes": 857793,
+  "gzipJsCssPlusWebpBytes": 411173,
+  "excludes": [
+    "HTML",
+    "API traffic",
+    "handover downloads"
+  ],
+  "method": "all emitted runtime JS/CSS plus already-compressed WebP upper bound; no measured 4G startup",
+  "gameplayVersion": 11
+}

@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-28",
+  "publicGameplayVersion": 11,
+  "hostRefresh": {
+    "result": "passed for one host with bots",
+    "sameFlightTail": "e1475c43",
+    "before": {
+      "remaining": 61,
+      "hp": 59,
+      "zone": "circle1 hold38s"
+    },
+    "after": {
+      "remaining": 57,
+      "hp": 59,
+      "zone": "circle1 hold31s"
+    },
+    "resumedHudObservedAfterMs": 30274,
+    "sameFlightIdentityReconfirmedAfterMs": 38716,
+    "timingIncludes": "manual automation/tool round trips, not a startup benchmark",
+    "doesNotVerify": [
+      "peer reconnect",
+      "host migration"
+    ]
+  },
+  "spectating": {
+    "result": "observed living target vitals and weapon with disabled self actions; terminal state automatically restored recap"
+  },
+  "championCard": {
+    "result": "actual winning bot and terminal duration displayed; viewer win not claimed"
+  },
+  "responsive": {
+    "surface": "managed preview same-origin iframe",
+    "sizes": [
+      [
+        844,
+        390
+      ],
+      [
+        390,
+        844
+      ]
+    ],
+    "observed": [
+      "lobby and match HUD",
+      "minimap",
+      "twin sticks and fire control",
+      "ping wheel opened/selection returned",
+      "60-second training result"
+    ],
+    "notEstablished": [
+      "pointer movement/fire outcome",
+      "physical touch",
+      "4x CPU throttle",
+      "4G loading",
+      "safe-area device hardware",
+      "real audio/haptics"
+    ]
+  }
+}

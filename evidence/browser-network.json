@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-28",
+  "surface": "cloud Chrome public URL",
+  "version": 10,
+  "distinctGuests": true,
+  "sameFlight": true,
+  "guestSignalsSent": 1,
+  "guestSignalsReceived": 1,
+  "host": {"connection":"new", "iceConnection":"new", "signaling":"stable", "gathering":"complete", "localCandidates":0, "remoteCandidates":0},
+  "guest": {"connection":"new", "iceConnection":"new", "signaling":"stable", "gathering":"complete", "localCandidates":0, "remoteCandidates":0},
+  "matchStateBytesReceived": 0,
+  "sharedCombatVerdict": "blocked, not passed",
+  "observedDiagnostic": "This browser supplied no connection candidates. Solo practice is available.",
+  "nativeExtensionRetry": "originating browser context unavailable",
+  "doesNotEstablish": ["universal visitor connectivity failure", "successful reconnect", "successful migration", "physical phone performance"]
+}

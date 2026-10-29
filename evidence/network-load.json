@@ -1,0 +1,31 @@
+{
+  "network": {
+    "model": "Synthetic 75ms each direction = 150ms RTT, independent ±35ms jitter, Bernoulli 5% loss both directions. This is not a real WebRTC impairment test.",
+    "seconds": 42,
+    "inputs": 840,
+    "snapshots": 404,
+    "droppedPackets": 58,
+    "reorderedDiscarded": 31,
+    "meanError": 13.203335797766506,
+    "p95Error": 21.62405950486632,
+    "maxError": 29.03562184318626,
+    "settledError": 0,
+    "finite": true
+  },
+  "load": {
+    "model": "8 concurrent in-process rooms, 64 combatants each, 20 Hz fixed simulation, 120 simulated seconds. Desktop executor CPU; not an eight-room production WebRTC test.",
+    "rooms": 8,
+    "combatants": 512,
+    "ticks": 19200,
+    "wallMs": 9114.072483,
+    "roomTickMs": {
+      "mean": 0.47410761520833317,
+      "p95": 0.8919040000000678,
+      "p99": 1.284907000000203,
+      "max": 10.08951900000011
+    },
+    "eightRoomBatchP99": 8.490709000000606,
+    "tickBudgetMs": 50,
+    "p99HeadroomPercent": 97.4301859999996
+  }
+}

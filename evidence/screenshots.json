@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-28",
+  "screenshots": [
+    {
+      "file": "cover-1.png",
+      "width": 1800,
+      "height": 1200,
+      "sha256": "cc574dce8e0dc8a0a4aed645510fd6c9e2e194f6f787bf73cac73183121a6c63"
+    },
+    {
+      "file": "cover-2.png",
+      "width": 1800,
+      "height": 1200,
+      "sha256": "561eb0236922938a435290ddf40c938e42947cf90e43ca1bc61bf195a6525b1d"
+    },
+    {
+      "file": "cover-3.png",
+      "width": 1800,
+      "height": 1200,
+      "sha256": "948e7dd790e38b539ef182c65c1a0e1623ee6faffab0f2f9ac633a16c1684718"
+    }
+  ],
+  "cover1": {
+    "view": "public lobby",
+    "version": 5,
+    "browser": "native Chrome",
+    "captureDate": "2026-10-27"
+  },
+  "cover2": {
+    "view": "live combat",
+    "version": 11,
+    "seed": 88,
+    "mode": "local bot practice, ordinary squad autopilot",
+    "humans": 1,
+    "bots": 63,
+    "browser": "cloud Chrome",
+    "fullPage": true,
+    "captureLayout": "1800x1200 live application; no rules or outcome changes"
+  },
+  "cover3": {
+    "view": "actual terminal champion card, clearly labelled spectator view",
+    "version": 11,
+    "seed": 88,
+    "winner": "Finch 4 [BOT], sole surviving member of the winning squad",
+    "matchTimeDisplay": "5:22",
+    "viewerOutcome": "viewer was defeated; this is not a claimed human win",
+    "humans": 1,
+    "bots": 63,
+    "browser": "cloud Chrome",
+    "fullPage": true
+  },
+  "conversion": "Browser JPEG bytes encoded as PNG, no pixel edits, compositing, resizing, score or outcome changes."
+}
