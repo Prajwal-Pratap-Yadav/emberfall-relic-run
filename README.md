@@ -6,6 +6,8 @@
 
 ![Relic Run: real public gameplay with raiders, relic capture and a live grenade warning](relic-run-gameplay.jpg)
 
+**Review the project:** [code, tests, and evidence](docs/REVIEW_GUIDE.md).
+
 ## Relic Run — start here
 
 Start armed with a Cinder carbine, a Needle rapid weapon, armor, patches and three blast grenades. Secure two relic sites, defeat the Ash Warden and hold extraction while the raiders close in. The expedition starts locally without waiting for matchmaking. Its hard limit is six minutes; a successful skilled run can be much faster.
@@ -84,3 +86,4 @@ node --expose-gc tests/soak.mjs
 `QA.md` records passes and open gates. `ASSETS.md` records generated key art and genuine screenshot provenance. `DECISIONS.md` explains the hosting and game-design choices; `STATE.md` is the continuation checkpoint. `SUBMISSION.md` has counted showcase copy. The original three 1800×1200 covers remain historical live captures; cover 3 explicitly shows actual bot champions in spectator view. No player-owned victory is fabricated.
 
 The generated `/public/handover` copies and ZIP are a delivery build; regenerate them from source. The GitHub source export omits that duplicate build and retains all authored game code, key art, covers, documents and QA evidence. A workflow checks TypeScript and tests on pushes. Its remote result must be inspected separately; local passing checks do not imply GitHub Actions has run.
+
